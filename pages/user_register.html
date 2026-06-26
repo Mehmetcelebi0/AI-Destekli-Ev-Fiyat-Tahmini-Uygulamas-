@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>HouseAI Kayıt Ol</title>
+
+    <link rel="stylesheet" href="/static/css/user_register.css" />
+  </head>
+  <body>
+    <main class="auth-page">
+      <section class="visual-side">
+        <div class="visual-card">
+          <span class="visual-tag">Yeni Hesap</span>
+          <h1>HouseAI ile emlak satış sürecini daha akıllı yönet.</h1>
+          <p>
+            Hesap oluştur, fiyat tahminlerini kaydet, satış stratejilerini takip
+            et ve kişisel emlak analiz geçmişini görüntüle.
+          </p>
+
+          <div class="feature-list">
+            <div>✓ Ücretsiz demo hesap</div>
+            <div>✓ Kişisel aktivite geçmişi</div>
+            <div>✓ Satış ve fiyat analiz takibi</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="auth-card">
+        <a class="back-link" href="/">← Ana sayfaya dön</a>
+
+        <div class="brand">
+          <div class="brand-icon">H</div>
+          <div>
+            <h2>HouseAI</h2>
+            <p>Yeni kullanıcı hesabı</p>
+          </div>
+        </div>
+
+        <form id="registerForm">
+          <label>
+            Ad Soyad
+            <input
+              id="name"
+              type="text"
+              required
+              autocomplete="name"
+              placeholder="Ad Soyad"
+            />
+          </label>
+
+          <label>
+            E-posta
+            <input
+              id="email"
+              type="email"
+              required
+              autocomplete="email"
+              placeholder="ornek@mail.com"
+            />
+          </label>
+
+          <label>
+            Şifre
+            <input
+              id="password"
+              type="password"
+              required
+              autocomplete="new-password"
+              placeholder="En az 6 karakter"
+            />
+          </label>
+
+          <button id="registerBtn" type="submit">Kayıt Ol</button>
+
+          <p id="registerMessage" class="message"></p>
+        </form>
+
+        <div class="bottom-link">
+          Zaten hesabın var mı?
+          <a href="/login">Giriş yap</a>
+        </div>
+      </section>
+    </main>
+
+    <script src="/static/js/user_register.js"></script>
+  </body>
+</html>

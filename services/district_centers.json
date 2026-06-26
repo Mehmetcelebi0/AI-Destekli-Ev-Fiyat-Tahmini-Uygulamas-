@@ -1,0 +1,4190 @@
+[
+  {
+    "district":"Adalar",
+    "neighborhood":"Heybeliada Mahallesi",
+    "lat":40.8774116,
+    "lng":29.0992677
+  },
+  {
+    "district":"Adalar",
+    "neighborhood":"Maden Mahallesi",
+    "lat":40.873905,
+    "lng":29.1309879
+  },
+  {
+    "district":"Adalar",
+    "neighborhood":"Nizam Mahallesi",
+    "lat":40.8737263,
+    "lng":29.1284576
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Adnan Menderes Mahallesi",
+    "lat":41.2132529,
+    "lng":28.7039075
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Anadolu Mahallesi",
+    "lat":41.1851685,
+    "lng":28.7494522
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Arnavutköy Merkez Mahallesi",
+    "lat":41.1823968,
+    "lng":28.7426319
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":41.1886633,
+    "lng":28.7584653
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Bolluca Mahallesi",
+    "lat":41.1986596,
+    "lng":28.7666478
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Boğazköy İstiklal Mahallesi",
+    "lat":41.1816651,
+    "lng":28.7738364
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Deliklikaya Mahallesi",
+    "lat":41.1115232,
+    "lng":28.6545292
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Hadımköy Mahallesi",
+    "lat":41.1585587,
+    "lng":28.6212692
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Haraççı Mahallesi",
+    "lat":41.1763646,
+    "lng":28.7024285
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Hastane Mahallesi",
+    "lat":41.153773,
+    "lng":28.6194517
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Hicret Mahallesi",
+    "lat":41.197665,
+    "lng":28.7551223
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Karlıbayır Mahallesi",
+    "lat":41.1817543,
+    "lng":28.7149951
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Mareşal Fevzi Çakmak Mahallesi",
+    "lat":41.2032679,
+    "lng":28.7210511
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Mavigöl Mahallesi",
+    "lat":41.2042176,
+    "lng":28.764377
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Mehmet Akif Ersoy Mahallesi",
+    "lat":41.2082153,
+    "lng":28.708814
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Mustafa Kemal Paşa Mahallesi",
+    "lat":41.1868267,
+    "lng":28.7358834
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Nenehatun Mahallesi",
+    "lat":41.1821756,
+    "lng":28.740234
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Taşoluk Mahallesi",
+    "lat":41.1960582,
+    "lng":28.7167959
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Yavuz Selim Mahallesi",
+    "lat":41.2063186,
+    "lng":28.7307262
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Yunus Emre Mahallesi",
+    "lat":41.1851922,
+    "lng":28.7605273
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"Ömerli Mahallesi",
+    "lat":41.1161343,
+    "lng":28.6380008
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"İmrahor Mahallesi",
+    "lat":41.2156124,
+    "lng":28.7463257
+  },
+  {
+    "district":"Arnavutköy",
+    "neighborhood":"İslambey Mahallesi",
+    "lat":41.1885825,
+    "lng":28.7415591
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":40.9908392,
+    "lng":29.1265531
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Aşıkveysel Mahallesi",
+    "lat":41.0045725,
+    "lng":29.091795
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Barbaros Mahallesi",
+    "lat":40.9902522,
+    "lng":29.1035997
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Esatpaşa Mahallesi",
+    "lat":41.0049779,
+    "lng":29.0828597
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Ferhatpaşa Mahallesi",
+    "lat":40.9860474,
+    "lng":29.1803805
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Fetih Mahallesi",
+    "lat":41.0046423,
+    "lng":29.0762052
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Kayışdağı Mahallesi",
+    "lat":40.9836971,
+    "lng":29.1431977
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Küçükbakkalköy Mahallesi",
+    "lat":40.9803353,
+    "lng":29.1130781
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Mevlana Mahallesi",
+    "lat":40.9858884,
+    "lng":29.1532413
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Mustafa Kemal Mahallesi",
+    "lat":41.001533,
+    "lng":29.0952356
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Yenişehir Mahallesi",
+    "lat":40.9939446,
+    "lng":29.140645
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"Örnek Mahallesi",
+    "lat":40.9956672,
+    "lng":29.0784307
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"İnönü Mahallesi",
+    "lat":40.9772942,
+    "lng":29.1385217
+  },
+  {
+    "district":"Ataşehir",
+    "neighborhood":"İçerenköy Mahallesi",
+    "lat":40.9701086,
+    "lng":29.1110569
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Ambarlı Mahallesi",
+    "lat":40.9737318,
+    "lng":28.7141652
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Cihangir Mahallesi",
+    "lat":40.9873293,
+    "lng":28.7097252
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Denizköşkler Mahallesi",
+    "lat":40.9764683,
+    "lng":28.7330024
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Firuzköy Mahallesi",
+    "lat":41.0085033,
+    "lng":28.7100714
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Gümüşpala Mahallesi",
+    "lat":40.98106,
+    "lng":28.7357032
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":40.9818362,
+    "lng":28.7223189
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Mustafa Kemalpaşa Mahallesi",
+    "lat":41.0041941,
+    "lng":28.7078779
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Tahtakale Mahallesi",
+    "lat":41.0585293,
+    "lng":28.728009
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Yeşilkent Mahallesi",
+    "lat":41.031415,
+    "lng":28.7023797
+  },
+  {
+    "district":"Avcılar",
+    "neighborhood":"Üniversite Mahallesi",
+    "lat":40.9887898,
+    "lng":28.721652
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Bahçelievler Mahallesi",
+    "lat":41.0042246,
+    "lng":28.8714141
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0171118,
+    "lng":28.8529333
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Fevzi Çakmak Mahallesi",
+    "lat":41.0016533,
+    "lng":28.8329435
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":40.9941482,
+    "lng":28.8411642
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Kocasinan Merkez Mahallesi",
+    "lat":41.0170357,
+    "lng":28.8419751
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Siyavuşpaşa Mahallesi",
+    "lat":41.0007835,
+    "lng":28.8554043
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Soğanlı Mahallesi",
+    "lat":41.0109005,
+    "lng":28.8555162
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Yenibosna Merkez Mahallesi",
+    "lat":41.0134935,
+    "lng":28.8251315
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Zafer Mahallesi",
+    "lat":41.0007517,
+    "lng":28.8375769
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Çobançeşme Mahallesi",
+    "lat":41.0043769,
+    "lng":28.826637
+  },
+  {
+    "district":"Bahçelievler",
+    "neighborhood":"Şirinevler Mahallesi",
+    "lat":40.9956523,
+    "lng":28.8486348
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Ataköy 2 5 6. Kısım Mahallesi",
+    "lat":40.977617,
+    "lng":28.8577878
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Ataköy 3 4 11. Kısım Mahallesi",
+    "lat":40.9813017,
+    "lng":28.8594358
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Ataköy 7 8 9 10. Kısım Mahallesi",
+    "lat":40.9863878,
+    "lng":28.8464657
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Cevizlik Mahallesi",
+    "lat":40.9785708,
+    "lng":28.8754801
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Kartaltepe Mahallesi",
+    "lat":40.9852114,
+    "lng":28.8759551
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Osmaniye Mahallesi",
+    "lat":40.9938982,
+    "lng":28.8795871
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Sakızağacı Mahallesi",
+    "lat":40.9777116,
+    "lng":28.8792335
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Yenimahalle Mahallesi",
+    "lat":40.9804712,
+    "lng":28.8813709
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Yeşilköy Mahallesi",
+    "lat":40.9589829,
+    "lng":28.8225574
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Zeytinlik Mahallesi",
+    "lat":40.9789622,
+    "lng":28.8724028
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Zuhuratbaba Mahallesi",
+    "lat":40.9824138,
+    "lng":28.8711297
+  },
+  {
+    "district":"Bakırköy",
+    "neighborhood":"Şenlikköy Mahallesi",
+    "lat":40.9811494,
+    "lng":28.7951449
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Altıntepsi Mahallesi",
+    "lat":41.0388737,
+    "lng":28.9015865
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Cevatpaşa Mahallesi",
+    "lat":41.070013,
+    "lng":28.8848582
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Kartaltepe Mahallesi",
+    "lat":41.054732,
+    "lng":28.9034132
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Kocatepe Mahallesi",
+    "lat":41.0515534,
+    "lng":28.8979566
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Muratpaşa Mahallesi",
+    "lat":41.0473011,
+    "lng":28.9062926
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Orta Mahallesi",
+    "lat":41.0333118,
+    "lng":28.9125943
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Terazidere Mahallesi",
+    "lat":41.0327472,
+    "lng":28.9014113
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Vatan Mahallesi",
+    "lat":41.0344293,
+    "lng":28.9070683
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Yenidoğan Mahallesi",
+    "lat":41.0372906,
+    "lng":28.9122223
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"Yıldırım Mahallesi",
+    "lat":41.0637573,
+    "lng":28.8914625
+  },
+  {
+    "district":"Bayrampaşa",
+    "neighborhood":"İsmet Paşa Mahallesi",
+    "lat":41.0416528,
+    "lng":28.9066208
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"100. Yıl Mahallesi",
+    "lat":41.0636561,
+    "lng":28.8525699
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"15 Temmuz Mahallesi",
+    "lat":41.0379107,
+    "lng":28.8195277
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Barbaros Mahallesi",
+    "lat":41.0245293,
+    "lng":28.8387167
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Bağlar Mahallesi",
+    "lat":41.0228866,
+    "lng":28.8248289
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Demirkapı Mahallesi",
+    "lat":41.0497862,
+    "lng":28.8367479
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":41.0518502,
+    "lng":28.8450387
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Fevzi Çakmak Mahallesi",
+    "lat":41.0457899,
+    "lng":28.8556182
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Göztepe Mahallesi",
+    "lat":41.0605086,
+    "lng":28.835553
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Güneşli Mahallesi",
+    "lat":41.0330866,
+    "lng":28.8305182
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":41.0278845,
+    "lng":28.8308208
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Kazım Karabekir Mahallesi",
+    "lat":41.0256078,
+    "lng":28.8455217
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Kemalpaşa Mahallesi",
+    "lat":41.0511389,
+    "lng":28.8514469
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Kirazlı Mahallesi",
+    "lat":41.0342808,
+    "lng":28.8363908
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Mahmutbey Mahallesi",
+    "lat":41.0559744,
+    "lng":28.8245305
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.0323551,
+    "lng":28.8633027
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Sancaktepe Mahallesi",
+    "lat":41.0366758,
+    "lng":28.8571152
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Yavuz Selim Mahallesi",
+    "lat":41.0355961,
+    "lng":28.8516841
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Yenigün Mahallesi",
+    "lat":41.0226361,
+    "lng":28.8590918
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Yenimahalle Mahallesi",
+    "lat":41.0416128,
+    "lng":28.8397196
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Yıldıztepe Mahallesi",
+    "lat":41.0261986,
+    "lng":28.8556979
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"Çınar Mahallesi",
+    "lat":41.0368162,
+    "lng":28.8605304
+  },
+  {
+    "district":"Bağcılar",
+    "neighborhood":"İnönü Mahallesi",
+    "lat":41.0328836,
+    "lng":28.8541921
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Altınşehir Mahallesi",
+    "lat":41.0689001,
+    "lng":28.7529076
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Bahçeşehir 1. Kısım Mahallesi",
+    "lat":41.0638399,
+    "lng":28.6911793
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Bahçeşehir 2. Kısım Mahallesi",
+    "lat":41.0664773,
+    "lng":28.6780738
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Başak Mahallesi",
+    "lat":41.1034651,
+    "lng":28.803761
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Başakşehir Mahallesi",
+    "lat":41.1060988,
+    "lng":28.7907747
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Güvercintepe Mahallesi",
+    "lat":41.0771522,
+    "lng":28.7518808
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Kayabaşı Mahallesi",
+    "lat":41.1112184,
+    "lng":28.7427125
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Ziya Gökalp Mahallesi",
+    "lat":41.0751841,
+    "lng":28.7879081
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Şahintepe Mahallesi",
+    "lat":41.0731284,
+    "lng":28.7264938
+  },
+  {
+    "district":"Başakşehir",
+    "neighborhood":"Şamlar Mahallesi",
+    "lat":41.1249095,
+    "lng":28.7390683
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Acarlar Mahallesi",
+    "lat":41.1124198,
+    "lng":29.1268607
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Anadolu Hisarı Mahallesi",
+    "lat":41.0840924,
+    "lng":29.0683684
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":41.0903014,
+    "lng":29.1239233
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Görele Mahallesi",
+    "lat":41.1151854,
+    "lng":29.147861
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Göztepe Mahallesi",
+    "lat":41.081094,
+    "lng":29.0800249
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Kavacık Mahallesi",
+    "lat":41.0930051,
+    "lng":29.0861909
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Ortaçeşme Mahallesi",
+    "lat":41.1454717,
+    "lng":29.0873267
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Rüzgarlıbahçe Mahallesi",
+    "lat":41.0951633,
+    "lng":29.0989642
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Soğuksu Mahallesi",
+    "lat":41.1132417,
+    "lng":29.1075374
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Tokatköy Mahallesi",
+    "lat":41.1512733,
+    "lng":29.0902937
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Yalıköy Mahallesi",
+    "lat":41.1376015,
+    "lng":29.0859262
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Yavuz Selim Mahallesi",
+    "lat":41.0810813,
+    "lng":29.1566828
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Çamlıbahçe Mahallesi",
+    "lat":41.1486212,
+    "lng":29.0831591
+  },
+  {
+    "district":"Beykoz",
+    "neighborhood":"Çubuklu Mahallesi",
+    "lat":41.1070356,
+    "lng":29.0823348
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Adnan Kahveci Mahallesi",
+    "lat":40.9949262,
+    "lng":28.6249343
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Barış Mahallesi",
+    "lat":40.9989064,
+    "lng":28.6522529
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Beylikdüzüosb Mahallesi",
+    "lat":40.992197,
+    "lng":28.661351
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Büyükşehir Mahallesi",
+    "lat":41.0088557,
+    "lng":28.647306
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0098335,
+    "lng":28.6412468
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Dereağzı Mahallesi",
+    "lat":40.986396,
+    "lng":28.6166853
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Gürpınar Mahallesi",
+    "lat":40.9898645,
+    "lng":28.6110486
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Kavaklı Mahallesi",
+    "lat":40.9819486,
+    "lng":28.6403256
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Marmara Mahallesi",
+    "lat":40.9818594,
+    "lng":28.67194
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Sahil Mahallesi",
+    "lat":40.9708753,
+    "lng":28.6489531
+  },
+  {
+    "district":"Beylikdüzü",
+    "neighborhood":"Yakuplu Mahallesi",
+    "lat":40.990113,
+    "lng":28.6700436
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Bereketzade Mahallesi",
+    "lat":41.0253357,
+    "lng":28.9733181
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Bostan Mahallesi",
+    "lat":41.0386094,
+    "lng":28.9761822
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Camiikebir Mahallesi",
+    "lat":41.0348968,
+    "lng":28.9572267
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Cihangir Mahallesi",
+    "lat":41.0330402,
+    "lng":28.9853187
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Fetihtepe Mahallesi",
+    "lat":41.0482343,
+    "lng":28.9566757
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Firuzağa Mahallesi",
+    "lat":41.0298852,
+    "lng":28.9808144
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Gümüşsuyu Mahallesi",
+    "lat":41.0367709,
+    "lng":28.9872112
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Hacıahmet Mahallesi",
+    "lat":41.0422473,
+    "lng":28.9738886
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Hacımimi Mahallesi",
+    "lat":41.0266104,
+    "lng":28.9782607
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Halıcıoğlu Mahallesi",
+    "lat":41.048893,
+    "lng":28.9498474
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kadımehmet Efendi Mahallesi",
+    "lat":41.034193,
+    "lng":28.964083
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kalyoncu Kulluğu Mahallesi",
+    "lat":41.036877,
+    "lng":28.9755245
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kamer Hatun Mahallesi",
+    "lat":41.0349199,
+    "lng":28.975414
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kaptanpaşa Mahallesi",
+    "lat":41.0422767,
+    "lng":28.963838
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Katipmustafa Çelebi Mahallesi",
+    "lat":41.03439,
+    "lng":28.982777
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Keçeci Piri Mahallesi",
+    "lat":41.0405319,
+    "lng":28.9555999
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kocatepe Mahallesi",
+    "lat":41.0395972,
+    "lng":28.9835719
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kulaksız Mahallesi",
+    "lat":41.0376925,
+    "lng":28.9607963
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kuloğlu Mahallesi",
+    "lat":41.0329925,
+    "lng":28.9800743
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Küçük Piyale Mahallesi",
+    "lat":41.0368442,
+    "lng":28.9676137
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Kılıçali Paşa Mahallesi",
+    "lat":41.0284202,
+    "lng":28.9848586
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Piripaşa Mahallesi",
+    "lat":41.0482004,
+    "lng":28.9591566
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Piyalepaşa Mahallesi",
+    "lat":41.0486733,
+    "lng":28.9622519
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Pürtelaş Hasan Efendi Mahallesi",
+    "lat":41.0306987,
+    "lng":28.9876883
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Sururi Mehmet Efendi Mahallesi",
+    "lat":41.0368958,
+    "lng":28.9724348
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Sütlüce Mahallesi",
+    "lat":41.0510201,
+    "lng":28.944692
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Tomtom Mahallesi",
+    "lat":41.030339,
+    "lng":28.9774108
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Yenişehir Mahallesi",
+    "lat":41.0422931,
+    "lng":28.9781545
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Çukur Mahallesi",
+    "lat":41.0373903,
+    "lng":28.9780493
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Ömer Avni Mahallesi",
+    "lat":41.0348787,
+    "lng":28.9921225
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Örnektepe Mahallesi",
+    "lat":41.0582756,
+    "lng":28.9516655
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"İstiklal Mahallesi",
+    "lat":41.0416191,
+    "lng":28.9692374
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Şahkulu Mahallesi",
+    "lat":41.0277868,
+    "lng":28.9741706
+  },
+  {
+    "district":"Beyoğlu",
+    "neighborhood":"Şehit Muhtar Mahallesi",
+    "lat":41.03677,
+    "lng":28.9817468
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Abbasağa Mahallesi",
+    "lat":41.0495742,
+    "lng":29.0051707
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Akat Mahallesi",
+    "lat":41.0858575,
+    "lng":29.026253
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Arnavutköy Mahallesi",
+    "lat":41.0672342,
+    "lng":29.0432537
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Cihannüma Mahallesi",
+    "lat":41.0470226,
+    "lng":29.0080617
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Dikilitaş Mahallesi",
+    "lat":41.0554313,
+    "lng":29.0048495
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Gayrettepe Mahallesi",
+    "lat":41.0622256,
+    "lng":29.0061911
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Levazım Mahallesi",
+    "lat":41.0627271,
+    "lng":29.0196144
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Mecidiye Mahallesi",
+    "lat":41.0520844,
+    "lng":29.0203549
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Muradiye Mahallesi",
+    "lat":41.0480949,
+    "lng":28.9989975
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Ortaköy Mahallesi",
+    "lat":41.0546272,
+    "lng":29.0281901
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Sinanpaşa Mahallesi",
+    "lat":41.0428133,
+    "lng":29.0048711
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Türkali Mahallesi",
+    "lat":41.047674,
+    "lng":29.0023049
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Vişnezade Mahallesi",
+    "lat":41.0416345,
+    "lng":28.9982257
+  },
+  {
+    "district":"Beşiktaş",
+    "neighborhood":"Yıldız Mahallesi",
+    "lat":41.0479707,
+    "lng":29.0145236
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"19 Mayıs Mahallesi",
+    "lat":41.0224834,
+    "lng":28.5818267
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Alkent 2000 Mahallesi",
+    "lat":41.0771599,
+    "lng":28.6194181
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":41.0122636,
+    "lng":28.6004016
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Celaliye Mahallesi",
+    "lat":41.0517357,
+    "lng":28.4184843
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0182947,
+    "lng":28.6199899
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Dizdariye Mahallesi",
+    "lat":41.0206023,
+    "lng":28.5784482
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Ekinoba Mahallesi",
+    "lat":41.0101741,
+    "lng":28.542298
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":41.0208293,
+    "lng":28.586099
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Güzelce Mahallesi",
+    "lat":40.999476,
+    "lng":28.5120854
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":41.0316204,
+    "lng":28.5474237
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Kamiloba Mahallesi",
+    "lat":41.0461249,
+    "lng":28.4321197
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Kumburgaz Mahallesi",
+    "lat":41.0311058,
+    "lng":28.453743
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Mimaroba Mahallesi",
+    "lat":41.0045868,
+    "lng":28.5372886
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Mimarsinan Mahallesi",
+    "lat":41.0160925,
+    "lng":28.5604373
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Murat Çesme Mahallesi",
+    "lat":41.0175617,
+    "lng":28.5405355
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Pınartepe Mahallesi",
+    "lat":41.003226,
+    "lng":28.6018529
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Sinanoba Mahallesi",
+    "lat":40.9970063,
+    "lng":28.5365245
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Türkoba Mahallesi",
+    "lat":41.0342715,
+    "lng":28.5232446
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Ulus Mahallesi",
+    "lat":41.0305283,
+    "lng":28.5494574
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Yenimahalle Mahallesi",
+    "lat":41.0220765,
+    "lng":28.474104
+  },
+  {
+    "district":"Büyükçekmece",
+    "neighborhood":"Çakmaklı Mahallesi",
+    "lat":41.0533184,
+    "lng":28.6231063
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"15 Temmuz Mahallesi",
+    "lat":41.0620417,
+    "lng":28.8778966
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Birlik Mahallesi",
+    "lat":41.0516003,
+    "lng":28.8715638
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Davutpaşa Mahallesi",
+    "lat":41.0317026,
+    "lng":28.8906911
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":41.043386,
+    "lng":28.8674705
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Fevzi Çakmak Mahallesi",
+    "lat":41.0387523,
+    "lng":28.883188
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Havaalanı Mahallesi",
+    "lat":41.0563871,
+    "lng":28.8694017
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Kazım Karabekir Mahallesi",
+    "lat":41.0464076,
+    "lng":28.8731584
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Kemer Mahallesi",
+    "lat":41.0526257,
+    "lng":28.876571
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Menderes Mahallesi",
+    "lat":41.0395441,
+    "lng":28.8804397
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":41.0358974,
+    "lng":28.8848756
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Namık Kemal Mahallesi",
+    "lat":41.0311027,
+    "lng":28.8955728
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Nine Hatun Mahallesi",
+    "lat":41.0370239,
+    "lng":28.8802419
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Oruçreis Mahallesi",
+    "lat":41.0588724,
+    "lng":28.8574858
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Tuna Mahallesi",
+    "lat":41.0529878,
+    "lng":28.8588572
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Turgut Reis Mahallesi",
+    "lat":41.0614133,
+    "lng":28.8642849
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Yavuz Selim Mahallesi",
+    "lat":41.0352866,
+    "lng":28.8925614
+  },
+  {
+    "district":"Esenler",
+    "neighborhood":"Çifte Havuzlar Mahallesi",
+    "lat":41.0267887,
+    "lng":28.8954257
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Akevler Mahallesi",
+    "lat":41.0191199,
+    "lng":28.67678
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Akçaburgaz Mahallesi",
+    "lat":41.0733127,
+    "lng":28.6334269
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Akşemseddin Mahallesi",
+    "lat":41.0172962,
+    "lng":28.6944236
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Ardıçlı Mahallesi",
+    "lat":41.0461686,
+    "lng":28.6798101
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":41.037115,
+    "lng":28.636196
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Aşık Veysel Mahallesi",
+    "lat":41.0585357,
+    "lng":28.6738904
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Balıkyolu Mahallesi",
+    "lat":41.0396612,
+    "lng":28.6904284
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Barbaros Hayrettin Paşa Mahallesi",
+    "lat":41.0182515,
+    "lng":28.6414475
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Battalgazi Mahallesi",
+    "lat":41.0394344,
+    "lng":28.6562357
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Bağlarçeşme Mahallesi",
+    "lat":41.0350405,
+    "lng":28.6760001
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0169451,
+    "lng":28.6489243
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Esenkent Mahallesi",
+    "lat":41.0593586,
+    "lng":28.6809268
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":41.0298974,
+    "lng":28.6746475
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Gökevler Mahallesi",
+    "lat":41.0252638,
+    "lng":28.6335726
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Güzelyurt Mahallesi",
+    "lat":41.0105887,
+    "lng":28.6655614
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":41.031599,
+    "lng":28.6466704
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Koza Mahallesi",
+    "lat":41.0645603,
+    "lng":28.6652589
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Mehmet Akif Ersoy Mahallesi",
+    "lat":41.0138079,
+    "lng":28.6667966
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Mehterçeşme Mahallesi",
+    "lat":41.0185614,
+    "lng":28.6628747
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Mevlana Mahallesi",
+    "lat":41.0124992,
+    "lng":28.6567189
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Namık Kemal Mahallesi",
+    "lat":41.0101007,
+    "lng":28.6938039
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Necip Fazıl Kısakürek Mahallesi",
+    "lat":41.0309904,
+    "lng":28.6527815
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Orhan Gazi Mahallesi",
+    "lat":41.0709914,
+    "lng":28.6542125
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Osmangazi Mahallesi",
+    "lat":41.0415514,
+    "lng":28.6458279
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Piri Reis Mahallesi",
+    "lat":41.0199712,
+    "lng":28.6480848
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Pınar Mahallesi",
+    "lat":41.0335095,
+    "lng":28.6655807
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Saadetdere Mahallesi",
+    "lat":41.0081748,
+    "lng":28.6976834
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Selahaddin Eyyubi Mahallesi",
+    "lat":41.044908,
+    "lng":28.6622124
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Sultaniye Mahallesi",
+    "lat":41.03369,
+    "lng":28.6827178
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Süleymaniye Mahallesi",
+    "lat":41.0439199,
+    "lng":28.6810152
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Talatpaşa Mahallesi",
+    "lat":41.0229955,
+    "lng":28.6721151
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Turgut Özal Mahallesi",
+    "lat":41.0046495,
+    "lng":28.6938819
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Yenikent Mahallesi",
+    "lat":41.0368086,
+    "lng":28.6808544
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Yeşilkent Mahallesi",
+    "lat":41.0265322,
+    "lng":28.6637265
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Yunus Emre Mahallesi",
+    "lat":41.0285572,
+    "lng":28.693938
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Zafer Mahallesi",
+    "lat":41.0176797,
+    "lng":28.6855692
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Çınar Mahallesi",
+    "lat":41.0411611,
+    "lng":28.6642095
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Örnek Mahallesi",
+    "lat":41.0447965,
+    "lng":28.6703501
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Üçevler Mahallesi",
+    "lat":41.0266491,
+    "lng":28.6801351
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"İncirtepe Mahallesi",
+    "lat":41.0206769,
+    "lng":28.6909976
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"İnönü Mahallesi",
+    "lat":41.0270909,
+    "lng":28.6866366
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"İstiklal Mahallesi",
+    "lat":41.0370676,
+    "lng":28.6490868
+  },
+  {
+    "district":"Esenyurt",
+    "neighborhood":"Şehitler Mahallesi",
+    "lat":41.0332974,
+    "lng":28.6550502
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"5.levent Mahallesi",
+    "lat":41.0900567,
+    "lng":28.944706
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Akşemsettin Mahallesi",
+    "lat":41.0848272,
+    "lng":28.9276515
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Alibeyköy Mahallesi",
+    "lat":41.077272,
+    "lng":28.946901
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Defterdar Mahallesi",
+    "lat":41.0372014,
+    "lng":28.934288
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Düğmeciler Mahallesi",
+    "lat":41.0466275,
+    "lng":28.9255064
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Emniyettepe Mahallesi",
+    "lat":41.0700073,
+    "lng":28.9490344
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Esentepe Mahallesi",
+    "lat":41.0686652,
+    "lng":28.9393536
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Göktürk Merkez Mahallesi",
+    "lat":41.1787211,
+    "lng":28.8909689
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Güzeltepe Mahallesi",
+    "lat":41.0746225,
+    "lng":28.9531946
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Karadolap Mahallesi",
+    "lat":41.0747846,
+    "lng":28.934217
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.0474069,
+    "lng":28.9356137
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":41.1591155,
+    "lng":28.9146682
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Mithatpaşa Mahallesi",
+    "lat":41.1604821,
+    "lng":28.9135587
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Nişancı Mahallesi",
+    "lat":41.0433814,
+    "lng":28.936088
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Rami Cuma Mahallesi",
+    "lat":41.0498909,
+    "lng":28.9216081
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Rami Yeni Mahallesi",
+    "lat":41.0515281,
+    "lng":28.9175547
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Sakarya Mahallesi",
+    "lat":41.0647435,
+    "lng":28.9405122
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Silahtarağa Mahallesi",
+    "lat":41.0613259,
+    "lng":28.940346
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Topçular Mahallesi",
+    "lat":41.0411044,
+    "lng":28.9254323
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Yeşilpınar Mahallesi",
+    "lat":41.0785373,
+    "lng":28.9195063
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"Çırçır Mahallesi",
+    "lat":41.0798955,
+    "lng":28.9382959
+  },
+  {
+    "district":"Eyüpsultan",
+    "neighborhood":"İslambey Mahallesi",
+    "lat":41.0467148,
+    "lng":28.9314745
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Aksaray Mahallesi",
+    "lat":41.0083123,
+    "lng":28.9502838
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Akşemsettin Mahallesi",
+    "lat":41.0188839,
+    "lng":28.9460241
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Ali Kuşçu Mahallesi",
+    "lat":41.0206955,
+    "lng":28.9484468
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Atikali Mahallesi",
+    "lat":41.0245097,
+    "lng":28.9438294
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Ayvansaray Mahallesi",
+    "lat":41.0381763,
+    "lng":28.9425695
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Balat Mahallesi",
+    "lat":41.0320032,
+    "lng":28.9482931
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Cerrahpaşa Mahallesi",
+    "lat":41.005246,
+    "lng":28.9362529
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Cibali Mahallesi",
+    "lat":41.0235835,
+    "lng":28.9593551
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Derviş Ali Mahallesi",
+    "lat":41.0295845,
+    "lng":28.9392841
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Emin Sinan Mahallesi",
+    "lat":41.0070824,
+    "lng":28.9697509
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Haseki Sultan Mahallesi",
+    "lat":41.0092592,
+    "lng":28.9451769
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Hırka i Şerif Mahallesi",
+    "lat":41.0246237,
+    "lng":28.9404275
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Karagümrük Mahallesi",
+    "lat":41.0268821,
+    "lng":28.9373882
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Koca Mustafapaşa Mahallesi",
+    "lat":40.9996863,
+    "lng":28.9312607
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Küçük Ayasofya Mahallesi",
+    "lat":41.0031621,
+    "lng":28.9721624
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Mesihpaşa Mahallesi",
+    "lat":41.0082394,
+    "lng":28.9546142
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Mevlanakapı Mahallesi",
+    "lat":41.013311,
+    "lng":28.9237485
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Molla Fenari Mahallesi",
+    "lat":41.0093709,
+    "lng":28.9706351
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Molla Gürani Mahallesi",
+    "lat":41.0129736,
+    "lng":28.9418478
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Muhsine Hatun Mahallesi",
+    "lat":41.0047281,
+    "lng":28.9625315
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Nişanca Mahallesi",
+    "lat":41.006884,
+    "lng":28.960263
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Saraç İshak Mahallesi",
+    "lat":41.0065606,
+    "lng":28.963701
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Seyyid Ömer Mahallesi",
+    "lat":41.0094787,
+    "lng":28.9313786
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Silivrikapı Mahallesi",
+    "lat":41.0054068,
+    "lng":28.9268933
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Sümbül Efendi Mahallesi",
+    "lat":41.0017335,
+    "lng":28.9267659
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Topkapı Mahallesi",
+    "lat":41.0207107,
+    "lng":28.9281683
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Yavuz Sultan Selim Mahallesi",
+    "lat":41.0270411,
+    "lng":28.9550654
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Yedikule Mahallesi",
+    "lat":40.9943767,
+    "lng":28.9245673
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Zeyrek Mahallesi",
+    "lat":41.0172116,
+    "lng":28.9533439
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"İskenderpaşa Mahallesi",
+    "lat":41.0153898,
+    "lng":28.9502718
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Şehremini Mahallesi",
+    "lat":41.0138832,
+    "lng":28.9327162
+  },
+  {
+    "district":"Fatih",
+    "neighborhood":"Şehsuvar Bey Mahallesi",
+    "lat":41.0047129,
+    "lng":28.9672109
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Barbaros Hayrettin Paşa Mahallesi",
+    "lat":41.0741036,
+    "lng":28.8903557
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Bağlarbaşı Mahallesi",
+    "lat":41.0631149,
+    "lng":28.9143839
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Fevzi Çakmak Mahallesi",
+    "lat":41.0716725,
+    "lng":28.9048028
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":41.0668961,
+    "lng":28.9002839
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Karadeniz Mahallesi",
+    "lat":41.081247,
+    "lng":28.8750965
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Karayolları Mahallesi",
+    "lat":41.0852087,
+    "lng":28.8986424
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Karlıtepe Mahallesi",
+    "lat":41.0587735,
+    "lng":28.9282842
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Kazım Karabekir Mahallesi",
+    "lat":41.080295,
+    "lng":28.9107197
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.0573173,
+    "lng":28.9117986
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Mevlana Mahallesi",
+    "lat":41.0861254,
+    "lng":28.9136478
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Pazariçi Mahallesi",
+    "lat":41.0591205,
+    "lng":28.9344768
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Sarıgöl Mahallesi",
+    "lat":41.058849,
+    "lng":28.9179346
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Yeni Mahalle Mahallesi",
+    "lat":41.0757441,
+    "lng":28.9020537
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Yenidoğan Mahallesi",
+    "lat":41.058575,
+    "lng":28.9235751
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Yıldıztabya Mahallesi",
+    "lat":41.0646555,
+    "lng":28.931006
+  },
+  {
+    "district":"Gaziosmanpaşa",
+    "neighborhood":"Şemsipaşa Mahallesi",
+    "lat":41.0675597,
+    "lng":28.9080246
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Abdurrahman Nafiz Gürman Mahallesi",
+    "lat":41.0059977,
+    "lng":28.8885447
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Akıncılar Mahallesi",
+    "lat":41.0160064,
+    "lng":28.8710186
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Gençosman Mahallesi",
+    "lat":41.0284791,
+    "lng":28.8776738
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Güneştepe Mahallesi",
+    "lat":41.0259668,
+    "lng":28.8649183
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Güven Mahallesi",
+    "lat":41.0116141,
+    "lng":28.8733841
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Haznedar Mahallesi",
+    "lat":41.0104658,
+    "lng":28.8707783
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Mareşal Çakmak Mahallesi",
+    "lat":41.018861,
+    "lng":28.8645534
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Mehmet Nesih Özmen Mahallesi",
+    "lat":41.0131171,
+    "lng":28.8909499
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.0243935,
+    "lng":28.8719813
+  },
+  {
+    "district":"Güngören",
+    "neighborhood":"Tozkoparan Mahallesi",
+    "lat":41.014823,
+    "lng":28.8966072
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"19 Mayıs Mahallesi",
+    "lat":40.977008,
+    "lng":29.0894372
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Acıbadem Mahallesi",
+    "lat":41.0037683,
+    "lng":29.0437162
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Bostancı Mahallesi",
+    "lat":40.9581685,
+    "lng":29.0968046
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Caddebostan Mahallesi",
+    "lat":40.9670186,
+    "lng":29.0629255
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Caferağa Mahallesi",
+    "lat":40.9850403,
+    "lng":29.0248102
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Dumlupınar Mahallesi",
+    "lat":40.9929709,
+    "lng":29.0597416
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Erenköy Mahallesi",
+    "lat":40.9721783,
+    "lng":29.0758899
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Eğitim Mahallesi",
+    "lat":40.9890334,
+    "lng":29.0490887
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Fenerbahçe Mahallesi",
+    "lat":40.9695548,
+    "lng":29.0375465
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Feneryolu Mahallesi",
+    "lat":40.9820722,
+    "lng":29.0499435
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Fikirtepe Mahallesi",
+    "lat":40.9932183,
+    "lng":29.0516214
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Göztepe Mahallesi",
+    "lat":40.9787185,
+    "lng":29.0666827
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Hasanpaşa Mahallesi",
+    "lat":40.9967079,
+    "lng":29.0440914
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Kozyatağı Mahallesi",
+    "lat":40.9685129,
+    "lng":29.0924226
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Koşuyolu Mahallesi",
+    "lat":41.0069381,
+    "lng":29.0350244
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Merdivenköy Mahallesi",
+    "lat":40.9877529,
+    "lng":29.0676991
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Osmanağa Mahallesi",
+    "lat":40.9892604,
+    "lng":29.0303888
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Rasimpaşa Mahallesi",
+    "lat":40.9970269,
+    "lng":29.0265413
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Sahrayıcedit Mahallesi",
+    "lat":40.9831733,
+    "lng":29.0831882
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Suadiye Mahallesi",
+    "lat":40.9594019,
+    "lng":29.082813
+  },
+  {
+    "district":"Kadıköy",
+    "neighborhood":"Zühtüpaşa Mahallesi",
+    "lat":40.98771,
+    "lng":29.0397924
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Atalar Mahallesi",
+    "lat":40.9023827,
+    "lng":29.1731105
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Cevizli Mahallesi",
+    "lat":40.9131929,
+    "lng":29.1687352
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":40.9077831,
+    "lng":29.2213083
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Esentepe Mahallesi",
+    "lat":40.9069182,
+    "lng":29.1868775
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Gümüşpınar Mahallesi",
+    "lat":40.9180416,
+    "lng":29.2052689
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":40.9026067,
+    "lng":29.2306579
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Karlıktepe Mahallesi",
+    "lat":40.8911521,
+    "lng":29.1909073
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Kordonboyu Mahallesi",
+    "lat":40.8884287,
+    "lng":29.1896109
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Orhantepe Mahallesi",
+    "lat":40.9061849,
+    "lng":29.1614584
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Orta Mahallesi",
+    "lat":40.9143127,
+    "lng":29.2018983
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Petrol İş Mahallesi",
+    "lat":40.8965692,
+    "lng":29.1797353
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Soğanlık Yeni Mahallesi",
+    "lat":40.9171854,
+    "lng":29.1949082
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Topselvi Mahallesi",
+    "lat":40.8902433,
+    "lng":29.2179032
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Uğur Mumcu Mahallesi",
+    "lat":40.9326933,
+    "lng":29.2127458
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Yakacık Yeni Mahallesi",
+    "lat":40.9204738,
+    "lng":29.2246565
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Yakacık Çarşı Mahallesi",
+    "lat":40.9184915,
+    "lng":29.2257746
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Yalı Mahallesi",
+    "lat":40.8919905,
+    "lng":29.2205714
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Yukarı Mahallesi",
+    "lat":40.8900986,
+    "lng":29.1845341
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Yunus Mahallesi",
+    "lat":40.8908425,
+    "lng":29.212871
+  },
+  {
+    "district":"Kartal",
+    "neighborhood":"Çavuşoğlu Mahallesi",
+    "lat":40.8910311,
+    "lng":29.1968295
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Emniyet Evleri Mahallesi",
+    "lat":41.0853909,
+    "lng":29.0041609
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Gültepe Mahallesi",
+    "lat":41.0810024,
+    "lng":28.9949074
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Gürsel Mahallesi",
+    "lat":41.0709262,
+    "lng":28.972669
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Hamidiye Mahallesi",
+    "lat":41.0945221,
+    "lng":28.9708151
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Harmantepe Mahallesi",
+    "lat":41.0817386,
+    "lng":28.9911801
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Hürriyet Mahallesi",
+    "lat":41.0736915,
+    "lng":28.9852962
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Mehmet Akif Ersoy Mahallesi",
+    "lat":41.0593001,
+    "lng":28.9564044
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.079396,
+    "lng":28.9692391
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Nurtepe Mahallesi",
+    "lat":41.074985,
+    "lng":28.9618782
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Ortabayır Mahallesi",
+    "lat":41.0780937,
+    "lng":29.0039886
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Seyrantepe Mahallesi",
+    "lat":41.0968122,
+    "lng":28.9892146
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Sultan Selim Mahallesi",
+    "lat":41.0909671,
+    "lng":28.9978422
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Talatpaşa Mahallesi",
+    "lat":41.063141,
+    "lng":28.9635226
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Telsizler Mahallesi",
+    "lat":41.0782105,
+    "lng":28.9982061
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Yahya Kemal Mahallesi",
+    "lat":41.0852399,
+    "lng":28.987206
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Yeşilce Mahallesi",
+    "lat":41.0956169,
+    "lng":29.0006008
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Çağlayan Mahallesi",
+    "lat":41.0746256,
+    "lng":28.9799888
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Çeliktepe Mahallesi",
+    "lat":41.083673,
+    "lng":28.9997851
+  },
+  {
+    "district":"Kağıthane",
+    "neighborhood":"Şirintepe Mahallesi",
+    "lat":41.0889065,
+    "lng":28.9909795
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Atakent Mahallesi",
+    "lat":41.0553307,
+    "lng":28.7819332
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":41.0504345,
+    "lng":28.7973722
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Cennet Mahallesi",
+    "lat":40.9896625,
+    "lng":28.7775673
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":40.9967292,
+    "lng":28.7712054
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":40.9920419,
+    "lng":28.76962
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Fevzi Çakmak Mahallesi",
+    "lat":41.0044603,
+    "lng":28.7894267
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Gültepe Mahallesi",
+    "lat":40.9942991,
+    "lng":28.7911487
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Halkalı Merkez Mahallesi",
+    "lat":41.0356342,
+    "lng":28.7925691
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Kanarya Mahallesi",
+    "lat":41.008684,
+    "lng":28.7774562
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Kartaltepe Mahallesi",
+    "lat":41.0019505,
+    "lng":28.7996932
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Kemalpaşa Mahallesi",
+    "lat":41.0008891,
+    "lng":28.7959206
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Mehmet Akif Mahallesi",
+    "lat":41.0531043,
+    "lng":28.8058591
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Sultan Murat Mahallesi",
+    "lat":41.0019065,
+    "lng":28.7862565
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Söğütlü Çeşme Mahallesi",
+    "lat":41.0209912,
+    "lng":28.7868135
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Tevfikbey Mahallesi",
+    "lat":41.0080103,
+    "lng":28.7994582
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Yarımburgaz Mahallesi",
+    "lat":41.0486117,
+    "lng":28.7538529
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Yeni Mahalle Mahallesi",
+    "lat":40.9926219,
+    "lng":28.773674
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"Yeşilova Mahallesi",
+    "lat":40.9898801,
+    "lng":28.7861851
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"İnönü Mahallesi",
+    "lat":41.0234463,
+    "lng":28.7965109
+  },
+  {
+    "district":"Küçükçekmece",
+    "neighborhood":"İstasyon Mahallesi",
+    "lat":41.0282913,
+    "lng":28.7720425
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Altayçeşme Mahallesi",
+    "lat":40.9278843,
+    "lng":29.131346
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Altıntepe Mahallesi",
+    "lat":40.951875,
+    "lng":29.1016652
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Aydınevler Mahallesi",
+    "lat":40.9490261,
+    "lng":29.1281559
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Bağlarbaşı Mahallesi",
+    "lat":40.9255731,
+    "lng":29.1399822
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Başıbüyük Mahallesi",
+    "lat":40.9585576,
+    "lng":29.1485408
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Büyükbakkalköy Mahallesi",
+    "lat":40.970546,
+    "lng":29.1986185
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Cevizli Mahallesi",
+    "lat":40.9162851,
+    "lng":29.1470405
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Esenkent Mahallesi",
+    "lat":40.9286404,
+    "lng":29.16732
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Feyzullah Mahallesi",
+    "lat":40.9248017,
+    "lng":29.1291275
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Fındıklı Mahallesi",
+    "lat":40.9713562,
+    "lng":29.1302616
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Girne Mahallesi",
+    "lat":40.9411898,
+    "lng":29.1378052
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Gülsuyu Mahallesi",
+    "lat":40.9277685,
+    "lng":29.1577237
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Küçükyalı Merkez Mahallesi",
+    "lat":40.9476714,
+    "lng":29.1069544
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Yalı Mahallesi",
+    "lat":40.9201889,
+    "lng":29.1277394
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Zümrütevler Mahallesi",
+    "lat":40.9363954,
+    "lng":29.147589
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"Çınar Mahallesi",
+    "lat":40.9441446,
+    "lng":29.1127963
+  },
+  {
+    "district":"Maltepe",
+    "neighborhood":"İdealtepe Mahallesi",
+    "lat":40.939145,
+    "lng":29.1183663
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Ahmet Yesevi Mahallesi",
+    "lat":40.8683853,
+    "lng":29.3087934
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Bahçelievler Mahallesi",
+    "lat":40.8839106,
+    "lng":29.2353786
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Batı Mahallesi",
+    "lat":40.8771819,
+    "lng":29.230314
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Doğu Mahallesi",
+    "lat":40.8781658,
+    "lng":29.2367481
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Dumlupınar Mahallesi",
+    "lat":40.8920988,
+    "lng":29.2483221
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Ertuğrul Gazi Mahallesi",
+    "lat":40.9191039,
+    "lng":29.263751
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Esenler Mahallesi",
+    "lat":40.8851987,
+    "lng":29.2726983
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Esenyalı Mahallesi",
+    "lat":40.8624956,
+    "lng":29.2950466
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":40.8676856,
+    "lng":29.2977107
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Fevzi Çakmak Mahallesi",
+    "lat":40.8780711,
+    "lng":29.263908
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Güllü Bağlar Mahallesi",
+    "lat":40.896909,
+    "lng":29.2743647
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Güzelyalı Mahallesi",
+    "lat":40.8605709,
+    "lng":29.2821813
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Harmandere Mahallesi",
+    "lat":40.9286057,
+    "lng":29.3240794
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Kavakpınar Mahallesi",
+    "lat":40.8811385,
+    "lng":29.2868227
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Kaynarca Mahallesi",
+    "lat":40.8752422,
+    "lng":29.2552958
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Kurtköy Mahallesi",
+    "lat":40.9142051,
+    "lng":29.3002734
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Orhangazi Mahallesi",
+    "lat":40.8660896,
+    "lng":29.2894246
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Orta Mahallesi",
+    "lat":40.8903637,
+    "lng":29.2419118
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Ramazanoğlu Mahallesi",
+    "lat":40.89662,
+    "lng":29.2865221
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Sapan Bağları Mahallesi",
+    "lat":40.8855757,
+    "lng":29.2216182
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Sülüntepe Mahallesi",
+    "lat":40.9130716,
+    "lng":29.2779541
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Velibaba Mahallesi",
+    "lat":40.9044885,
+    "lng":29.2543843
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Yayalar Mahallesi",
+    "lat":40.9027998,
+    "lng":29.267275
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Yeni Mahallesi",
+    "lat":40.8832021,
+    "lng":29.2309095
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Yenişehir Mahallesi",
+    "lat":40.9312919,
+    "lng":29.3043382
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Yeşilbağlar Mahallesi",
+    "lat":40.8929124,
+    "lng":29.2256257
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Çamlık Mahallesi",
+    "lat":40.928438,
+    "lng":29.2834947
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Çamçeşme Mahallesi",
+    "lat":40.872231,
+    "lng":29.2705129
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Çınardere Mahallesi",
+    "lat":40.894557,
+    "lng":29.2395687
+  },
+  {
+    "district":"Pendik",
+    "neighborhood":"Şeyhli Mahallesi",
+    "lat":40.9069317,
+    "lng":29.2844986
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Abdurrahmangazi Mahallesi",
+    "lat":40.9923179,
+    "lng":29.2333854
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Akpınar Mahallesi",
+    "lat":40.9670161,
+    "lng":29.2303824
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":41.0106272,
+    "lng":29.2232789
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Emek Mahallesi",
+    "lat":41.0053334,
+    "lng":29.1936719
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Eyüp Sultan Mahallesi",
+    "lat":40.9841274,
+    "lng":29.2257791
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":40.9576787,
+    "lng":29.2143124
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Hilal Mahallesi",
+    "lat":41.0223751,
+    "lng":29.25177
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Kemal Türkler Mahallesi",
+    "lat":41.0069937,
+    "lng":29.2176514
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Meclis Mahallesi",
+    "lat":41.0104122,
+    "lng":29.2048777
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Merve Mahallesi",
+    "lat":41.006145,
+    "lng":29.2405436
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Mevlana Mahallesi",
+    "lat":41.0127344,
+    "lng":29.2592977
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Osmangazi Mahallesi",
+    "lat":40.9865128,
+    "lng":29.2359802
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Safa Mahallesi",
+    "lat":41.0086084,
+    "lng":29.2456768
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Sarıgazi Mahallesi",
+    "lat":41.0069576,
+    "lng":29.2112136
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Veysel Karani Mahallesi",
+    "lat":40.9633154,
+    "lng":29.2422828
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Yenidoğan Mahallesi",
+    "lat":41.013189,
+    "lng":29.2416963
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"Yunus Emre Mahallesi",
+    "lat":41.0181749,
+    "lng":29.249504
+  },
+  {
+    "district":"Sancaktepe",
+    "neighborhood":"İnönü Mahallesi",
+    "lat":41.0112928,
+    "lng":29.2122553
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Ayazağa Mahallesi",
+    "lat":41.1157496,
+    "lng":28.9985596
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Bahçeköy Kemer Mahallesi",
+    "lat":41.1689972,
+    "lng":28.9896726
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Bahçeköy Merkez Mahallesi",
+    "lat":41.1796845,
+    "lng":28.9912882
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Bahçeköy Yeni Mahallesi",
+    "lat":41.1687361,
+    "lng":28.9862127
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Baltalimanı Mahallesi",
+    "lat":41.0955584,
+    "lng":29.0525824
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Büyükdere Mahallesi",
+    "lat":41.1602485,
+    "lng":29.0421459
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Darüşşafaka Mahallesi",
+    "lat":41.1265,
+    "lng":29.0290332
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Emirgan Mahallesi",
+    "lat":41.103131,
+    "lng":29.0536894
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Fatih Sultan Mehmet Mahallesi",
+    "lat":41.0957471,
+    "lng":29.0354378
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Ferahevler Mahallesi",
+    "lat":41.1296186,
+    "lng":29.0442745
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Huzur Mahallesi",
+    "lat":41.1049669,
+    "lng":28.9983363
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Kazım Karabekir Paşa Mahallesi",
+    "lat":41.1626163,
+    "lng":29.0278664
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Kireçburnu Mahallesi",
+    "lat":41.1459737,
+    "lng":29.0465248
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Kocataş Mahallesi",
+    "lat":41.1689299,
+    "lng":29.0352598
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Maden Mahallesi",
+    "lat":41.1817996,
+    "lng":29.0379835
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Maslak Mahallesi",
+    "lat":41.1099991,
+    "lng":29.020591
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Poligon Mahallesi",
+    "lat":41.117034,
+    "lng":29.0413306
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Ptt Evleri Mahallesi",
+    "lat":41.1573969,
+    "lng":29.0220693
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Reşitpaşa Mahallesi",
+    "lat":41.1068809,
+    "lng":29.0411147
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Rumelihisarı Mahallesi",
+    "lat":41.088594,
+    "lng":29.0551627
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Sarıyer Merkez Mahallesi",
+    "lat":41.1688458,
+    "lng":29.055983
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Tarabya Mahallesi",
+    "lat":41.1385739,
+    "lng":29.0530421
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Yeni Mahallesi",
+    "lat":41.1897861,
+    "lng":28.9861797
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Yeniköy Mahallesi",
+    "lat":41.1231548,
+    "lng":29.070613
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"Zekeriyaköy Mahallesi",
+    "lat":41.1963806,
+    "lng":29.0292004
+  },
+  {
+    "district":"Sarıyer",
+    "neighborhood":"İstinye Mahallesi",
+    "lat":41.1150511,
+    "lng":29.055486
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Alibey Mahallesi",
+    "lat":41.0732159,
+    "lng":28.2502073
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0697432,
+    "lng":28.2612532
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":41.0707054,
+    "lng":28.2478688
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":41.0850824,
+    "lng":28.2406022
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Piri Mehmet Paşa Mahallesi",
+    "lat":41.0754871,
+    "lng":28.2426423
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Selimpaşa Mahallesi",
+    "lat":41.0547326,
+    "lng":28.3666197
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Yeni Mahallesi",
+    "lat":41.1021841,
+    "lng":28.2559716
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Çanta Balaban Mahallesi",
+    "lat":41.0798383,
+    "lng":28.0813497
+  },
+  {
+    "district":"Silivri",
+    "neighborhood":"Çanta Sancaktepe Mahallesi",
+    "lat":41.0774457,
+    "lng":28.0851547
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Abdurrahmangazi Mahallesi",
+    "lat":40.9687304,
+    "lng":29.2605656
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Adil Mahallesi",
+    "lat":40.9777034,
+    "lng":29.2635415
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Ahmet Yesevi Mahallesi",
+    "lat":40.9712912,
+    "lng":29.2736277
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Akşemsettin Mahallesi",
+    "lat":40.9477795,
+    "lng":29.2994046
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Battalgazi Mahallesi",
+    "lat":40.978967,
+    "lng":29.2699958
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Fatih Mahallesi",
+    "lat":40.9583474,
+    "lng":29.2745466
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Hamidiye Mahallesi",
+    "lat":40.9536548,
+    "lng":29.285281
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Hasanpaşa Mahallesi",
+    "lat":40.9681451,
+    "lng":29.2501891
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Mecidiye Mahallesi",
+    "lat":40.9575291,
+    "lng":29.2965736
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Mehmet Akif Mahallesi",
+    "lat":40.9681066,
+    "lng":29.2676872
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":40.9950929,
+    "lng":29.2647998
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Necip Fazıl Mahallesi",
+    "lat":40.9414104,
+    "lng":29.2752522
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Orhangazi Mahallesi",
+    "lat":40.9385546,
+    "lng":29.2869718
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Turgut Reis Mahallesi",
+    "lat":40.964906,
+    "lng":29.2777407
+  },
+  {
+    "district":"Sultanbeyli",
+    "neighborhood":"Yavuz Selim Mahallesi",
+    "lat":40.9493995,
+    "lng":29.2784863
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"50. Yıl Mahallesi",
+    "lat":41.0898827,
+    "lng":28.8701918
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"75. Yıl Mahallesi",
+    "lat":41.098314,
+    "lng":28.9023051
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Cebeci Mahallesi",
+    "lat":41.1228719,
+    "lng":28.8792387
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0874877,
+    "lng":28.875977
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Esentepe Mahallesi",
+    "lat":41.099194,
+    "lng":28.8788559
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Eski Habipler Mahallesi",
+    "lat":41.13288,
+    "lng":28.8317159
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Gazi Mahallesi",
+    "lat":41.1032888,
+    "lng":28.8976417
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Habibler Mahallesi",
+    "lat":41.1331314,
+    "lng":28.8390266
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Malkoçoğlu Mahallesi",
+    "lat":41.1170126,
+    "lng":28.8486379
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Sultançiftliği Mahallesi",
+    "lat":41.1003942,
+    "lng":28.8609026
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Uğur Mumcu Mahallesi",
+    "lat":41.0968482,
+    "lng":28.8651722
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Yayla Mahallesi",
+    "lat":41.1473319,
+    "lng":28.8553226
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Yunus Emre Mahallesi",
+    "lat":41.0974478,
+    "lng":28.8915429
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"Zübeyde Hanım Mahallesi",
+    "lat":41.1002781,
+    "lng":28.907478
+  },
+  {
+    "district":"Sultangazi",
+    "neighborhood":"İsmetpaşa Mahallesi",
+    "lat":41.1115982,
+    "lng":28.8558273
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Anadolu Mahallesi",
+    "lat":40.9116154,
+    "lng":29.3580718
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Aydınlı Mahallesi",
+    "lat":40.8598379,
+    "lng":29.3441163
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Aydıntepe Mahallesi",
+    "lat":40.8532761,
+    "lng":29.2976839
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Cami Mahallesi",
+    "lat":40.8175257,
+    "lng":29.3119855
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Evliya Çelebi Mahallesi",
+    "lat":40.8425924,
+    "lng":29.2984572
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Mescit Mahallesi",
+    "lat":40.8949686,
+    "lng":29.3420298
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":40.838215,
+    "lng":29.3651163
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Orta Mahallesi",
+    "lat":40.9023308,
+    "lng":29.3780319
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Postane Mahallesi",
+    "lat":40.8212998,
+    "lng":29.2923005
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Yayla Mahallesi",
+    "lat":40.8320311,
+    "lng":29.3061225
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"İstasyon Mahallesi",
+    "lat":40.8233738,
+    "lng":29.3331438
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"İçmeler Mahallesi",
+    "lat":40.8492047,
+    "lng":29.3050492
+  },
+  {
+    "district":"Tuzla",
+    "neighborhood":"Şifa Mahallesi",
+    "lat":40.8287214,
+    "lng":29.3553441
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Beştelsiz Mahallesi",
+    "lat":40.9994868,
+    "lng":28.9045024
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Gökalp Mahallesi",
+    "lat":40.9934935,
+    "lng":28.9054676
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Kazlıçeşme Mahallesi",
+    "lat":40.9881118,
+    "lng":28.9093458
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Maltepe Mahallesi",
+    "lat":41.0277775,
+    "lng":28.9096922
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Merkezefendi Mahallesi",
+    "lat":41.014371,
+    "lng":28.9189855
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Nuripaşa Mahallesi",
+    "lat":40.9881236,
+    "lng":28.9025258
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Seyitnizam Mahallesi",
+    "lat":41.0064945,
+    "lng":28.9089333
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Sümer Mahallesi",
+    "lat":40.9864053,
+    "lng":28.8954719
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Telsiz Mahallesi",
+    "lat":40.9994553,
+    "lng":28.9121132
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Veliefendi Mahallesi",
+    "lat":40.9959417,
+    "lng":28.8978934
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Yenidoğan Mahallesi",
+    "lat":40.9882534,
+    "lng":28.9047039
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Yeşiltepe Mahallesi",
+    "lat":40.9912492,
+    "lng":28.902307
+  },
+  {
+    "district":"Zeytinburnu",
+    "neighborhood":"Çırpıcı Mahallesi",
+    "lat":41.0002245,
+    "lng":28.8962437
+  },
+  {
+    "district":"Çatalca",
+    "neighborhood":"Ferhatpaşa Mahallesi",
+    "lat":41.141659,
+    "lng":28.4630541
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Alemdağ Mahallesi",
+    "lat":41.0496927,
+    "lng":29.237004
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Aydınlar Mahallesi",
+    "lat":41.0173692,
+    "lng":29.2304405
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0227969,
+    "lng":29.2244591
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Ekşioğlu Mahallesi",
+    "lat":41.0301325,
+    "lng":29.2394911
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Güngören Mahallesi",
+    "lat":41.0268708,
+    "lng":29.2201494
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Hamidiye Mahallesi",
+    "lat":41.0268635,
+    "lng":29.1885101
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Kirazlıdere Mahallesi",
+    "lat":41.0197528,
+    "lng":29.2160814
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Mehmet Akif Mahallesi",
+    "lat":41.0208246,
+    "lng":29.1858308
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.0369088,
+    "lng":29.1771094
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":41.032758,
+    "lng":29.1750966
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Nişantepe Mahallesi",
+    "lat":41.0408946,
+    "lng":29.2656098
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Soğukpınar Mahallesi",
+    "lat":41.0246995,
+    "lng":29.2340241
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Sultançiftliği Mahallesi",
+    "lat":41.0331471,
+    "lng":29.2236464
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Taşdelen Mahallesi",
+    "lat":41.031185,
+    "lng":29.2311306
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Çamlık Mahallesi",
+    "lat":41.0172216,
+    "lng":29.193114
+  },
+  {
+    "district":"Çekmeköy",
+    "neighborhood":"Çatalmeşe Mahallesi",
+    "lat":41.0501563,
+    "lng":29.2438632
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Adem Yavuz Mahallesi",
+    "lat":41.0197375,
+    "lng":29.1555922
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Altınşehir Mahallesi",
+    "lat":41.0139675,
+    "lng":29.1425432
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Armağanevler Mahallesi",
+    "lat":41.0181477,
+    "lng":29.1155959
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Atakent Mahallesi",
+    "lat":41.0207119,
+    "lng":29.1087352
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Atatürk Mahallesi",
+    "lat":41.0252686,
+    "lng":29.0920104
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Aşağı Dudullu Mahallesi",
+    "lat":41.019058,
+    "lng":29.1634418
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Cemil Meriç Mahallesi",
+    "lat":41.0200554,
+    "lng":29.1425904
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Dumlupınar Mahallesi",
+    "lat":41.0490461,
+    "lng":29.094224
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Elmalıkent Mahallesi",
+    "lat":41.0352657,
+    "lng":29.0977305
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Esenevler Mahallesi",
+    "lat":41.0121877,
+    "lng":29.0922465
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Esenkent Mahallesi",
+    "lat":41.0052155,
+    "lng":29.1830041
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Esenşehir Mahallesi",
+    "lat":41.0088277,
+    "lng":29.1672835
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Fatih Sultan Mehmet Mahallesi",
+    "lat":41.0249644,
+    "lng":29.1225993
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Finanskent Mahallesi",
+    "lat":41.0013656,
+    "lng":29.1134748
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Hekimbaşı Mahallesi",
+    "lat":41.0595591,
+    "lng":29.0979066
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Huzur Mahallesi",
+    "lat":41.0264688,
+    "lng":29.1612731
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Ihlamurkuyu Mahallesi",
+    "lat":41.0191243,
+    "lng":29.1351889
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Kazım Karabekir Mahallesi",
+    "lat":41.0391546,
+    "lng":29.1025666
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Madenler Mahallesi",
+    "lat":41.012306,
+    "lng":29.1870471
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Mehmet Akif Mahallesi",
+    "lat":41.0074656,
+    "lng":29.1379873
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Namık Kemal Mahallesi",
+    "lat":41.0211006,
+    "lng":29.0919519
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Necip Fazıl Mahallesi",
+    "lat":41.0175067,
+    "lng":29.1752803
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Parseller Mahallesi",
+    "lat":41.0256947,
+    "lng":29.1569065
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Site Mahallesi",
+    "lat":41.0096545,
+    "lng":29.1174872
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Tantavi Mahallesi",
+    "lat":41.0305352,
+    "lng":29.0870195
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Tatlısu Mahallesi",
+    "lat":41.0042368,
+    "lng":29.1339637
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Tepeüstü Mahallesi",
+    "lat":41.0168089,
+    "lng":29.1313643
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Yamanevler Mahallesi",
+    "lat":41.0262888,
+    "lng":29.1017527
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Yukarı Dudullu Mahallesi",
+    "lat":41.0110683,
+    "lng":29.1525726
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Çakmak Mahallesi",
+    "lat":41.0142622,
+    "lng":29.1284385
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Çamlık Mahallesi",
+    "lat":41.0032611,
+    "lng":29.1243347
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"İnkılap Mahallesi",
+    "lat":41.0330664,
+    "lng":29.1058909
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"İstiklal Mahallesi",
+    "lat":41.0235391,
+    "lng":29.1017524
+  },
+  {
+    "district":"Ümraniye",
+    "neighborhood":"Şerifali Mahallesi",
+    "lat":41.0004717,
+    "lng":29.1458001
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Acıbadem Mahallesi",
+    "lat":41.0062328,
+    "lng":29.0528941
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Ahmediye Mahallesi",
+    "lat":41.0184904,
+    "lng":29.0164388
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Altunizade Mahallesi",
+    "lat":41.0183509,
+    "lng":29.0442444
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Aziz Mahmut Hüdayi Mahallesi",
+    "lat":41.0224939,
+    "lng":29.0117051
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Bahçelievler Mahallesi",
+    "lat":41.0533837,
+    "lng":29.0797099
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Barbaros Mahallesi",
+    "lat":41.0126978,
+    "lng":29.031529
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Beylerbeyi Mahallesi",
+    "lat":41.0417926,
+    "lng":29.0465456
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Bulgurlu Mahallesi",
+    "lat":41.0183309,
+    "lng":29.0793243
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Burhaniye Mahallesi",
+    "lat":41.0287204,
+    "lng":29.0527669
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0108797,
+    "lng":29.0807595
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Ferah Mahallesi",
+    "lat":41.0329956,
+    "lng":29.0724337
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Güzeltepe Mahallesi",
+    "lat":41.0498613,
+    "lng":29.0699376
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Kandilli Mahallesi",
+    "lat":41.0726098,
+    "lng":29.0576991
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Kirazlıtepe Mahallesi",
+    "lat":41.0391608,
+    "lng":29.0615628
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Kuzguncuk Mahallesi",
+    "lat":41.03216,
+    "lng":29.0360265
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Küplüce Mahallesi",
+    "lat":41.0349394,
+    "lng":29.0565056
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Küçük Çamlıca Mahallesi",
+    "lat":41.0151113,
+    "lng":29.0640574
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Küçüksu Mahallesi",
+    "lat":41.065641,
+    "lng":29.0709346
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Kısıklı Mahallesi",
+    "lat":41.0249113,
+    "lng":29.0710848
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Mehmet Akif Ersoy Mahallesi",
+    "lat":41.0413151,
+    "lng":29.0717135
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Mimar Sinan Mahallesi",
+    "lat":41.0236072,
+    "lng":29.0184136
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Muratreis Mahallesi",
+    "lat":41.0219786,
+    "lng":29.0296096
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Salacak Mahallesi",
+    "lat":41.01663,
+    "lng":29.011821
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Selami Ali Mahallesi",
+    "lat":41.0255088,
+    "lng":29.0290779
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Selimiye Mahallesi",
+    "lat":41.0058418,
+    "lng":29.0177481
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Sultantepe Mahallesi",
+    "lat":41.0288368,
+    "lng":29.0217813
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Valide i Atik Mahallesi",
+    "lat":41.0184789,
+    "lng":29.0270247
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Yavuztürk Mahallesi",
+    "lat":41.0412375,
+    "lng":29.0849274
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Zeynep Kamil Mahallesi",
+    "lat":41.0150982,
+    "lng":29.0213844
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Çengelköy Mahallesi",
+    "lat":41.0509178,
+    "lng":29.0538023
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"Ünalan Mahallesi",
+    "lat":41.0019106,
+    "lng":29.0649352
+  },
+  {
+    "district":"Üsküdar",
+    "neighborhood":"İcadiye Mahallesi",
+    "lat":41.0286073,
+    "lng":29.0341185
+  },
+  {
+    "district":"Şile",
+    "neighborhood":"Ahmetli Mahallesi",
+    "lat":41.1461163,
+    "lng":29.5776837
+  },
+  {
+    "district":"Şile",
+    "neighborhood":"Ağva Merkez Mahallesi",
+    "lat":41.1380556,
+    "lng":29.8566667
+  },
+  {
+    "district":"Şile",
+    "neighborhood":"Balibey Mahallesi",
+    "lat":41.1709389,
+    "lng":29.6303393
+  },
+  {
+    "district":"Şile",
+    "neighborhood":"Meşrutiyet Mahallesi",
+    "lat":41.158806,
+    "lng":29.562439
+  },
+  {
+    "district":"Şile",
+    "neighborhood":"Çavuş Mahallesi",
+    "lat":41.1633748,
+    "lng":29.6075509
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"19 Mayıs Mahallesi",
+    "lat":41.0598652,
+    "lng":28.9914441
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Bozkurt Mahallesi",
+    "lat":41.0498994,
+    "lng":28.984135
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Cumhuriyet Mahallesi",
+    "lat":41.0556861,
+    "lng":28.9818925
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Duatepe Mahallesi",
+    "lat":41.0534185,
+    "lng":28.9807907
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Ergenekon Mahallesi",
+    "lat":41.0489803,
+    "lng":28.9864057
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Esentepe Mahallesi",
+    "lat":41.0707741,
+    "lng":29.0108118
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Eskişehir Mahallesi",
+    "lat":41.0452366,
+    "lng":28.9808521
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Feriköy Mahallesi",
+    "lat":41.0490846,
+    "lng":28.9794103
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Fulya Mahallesi",
+    "lat":41.0583894,
+    "lng":28.9979356
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Gülbahar Mahallesi",
+    "lat":41.072051,
+    "lng":29.0000664
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Halaskargazi Mahallesi",
+    "lat":41.0514835,
+    "lng":28.9888479
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Halide Edip Adıvar Mahallesi",
+    "lat":41.0616523,
+    "lng":28.977054
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Halil Rıfat Paşa Mahallesi",
+    "lat":41.0575346,
+    "lng":28.9687052
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Harbiye Mahallesi",
+    "lat":41.0452381,
+    "lng":28.9910139
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Kuştepe Mahallesi",
+    "lat":41.0719821,
+    "lng":28.9909667
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Mahmut Şevket Paşa Mahallesi",
+    "lat":41.0525016,
+    "lng":28.965487
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Mecidiyeköy Mahallesi",
+    "lat":41.0700421,
+    "lng":28.9962529
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Merkez Mahallesi",
+    "lat":41.0634057,
+    "lng":28.9845271
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Meşrutiyet Mahallesi",
+    "lat":41.0548748,
+    "lng":28.9912241
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Paşa Mahallesi",
+    "lat":41.0512486,
+    "lng":28.9716559
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Teşvikiye Mahallesi",
+    "lat":41.0519368,
+    "lng":28.9966371
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"Yayla Mahallesi",
+    "lat":41.0483978,
+    "lng":28.9753965
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"İnönü Mahallesi",
+    "lat":41.0438743,
+    "lng":28.9844034
+  },
+  {
+    "district":"Şişli",
+    "neighborhood":"İzzet Paşa Mahallesi",
+    "lat":41.0717017,
+    "lng":28.9862583
+  }
+]

@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>HouseAI Admin Panel</title>
+
+    <link rel="stylesheet" href="/static/css/admin.css" />
+  </head>
+  <body>
+    <div class="admin-shell">
+      <aside class="sidebar">
+        <div class="sidebar-top">
+          <div class="logo-row">
+            <div class="logo-badge">H</div>
+            <div>
+              <h2>HouseAI</h2>
+              <p>Admin Console</p>
+            </div>
+          </div>
+
+          <div class="system-pill">
+            <span class="live-dot"></span>
+            System Online
+          </div>
+        </div>
+
+        <nav class="nav-menu">
+          <button class="nav-btn active" data-section="dashboard">
+            <span class="nav-icon">▦</span>
+            Dashboard
+          </button>
+
+          <button class="nav-btn" data-section="data">
+            <span class="nav-icon">⇣</span>
+            Veri Çekme
+          </button>
+
+          <button class="nav-btn" data-section="listings">
+            <span class="nav-icon">⌂</span>
+            Son İlanlar
+          </button>
+
+          <button class="nav-btn" data-section="users">
+            <span class="nav-icon">◉</span>
+            Üyeler
+          </button>
+
+          <button class="nav-btn" data-section="activities">
+            <span class="nav-icon">◎</span>
+            Aktiviteler
+          </button>
+        </nav>
+
+        <div class="sidebar-bottom">
+          <div class="mini-profile">
+            <div class="mini-avatar">A</div>
+            <div>
+              <strong id="adminName">Admin</strong>
+              <span id="adminEmail">admin@houseai.com</span>
+            </div>
+          </div>
+
+          <button id="logoutBtn" class="logout-btn">Çıkış Yap</button>
+        </div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div>
+            <div class="eyebrow">Yönetim Merkezi</div>
+            <h1>HouseAI Admin Panel</h1>
+            <p>
+              Veri akışı, üyeler, ilanlar ve kullanıcı aktivitelerini tek yerden
+              yönet.
+            </p>
+          </div>
+
+          <div class="top-actions">
+            <a class="top-link" href="/">Siteyi Aç</a>
+            <button id="refreshStatsBtn" class="ghost-btn">
+              Paneli Yenile
+            </button>
+          </div>
+        </header>
+
+        <section id="dashboardSection" class="section active">
+          <div class="hero-panel">
+            <div>
+              <span class="hero-tag">HouseAI Data Pipeline</span>
+              <h2>Canlı emlak veri sistemi</h2>
+              <p>
+                Son 24 saatlik Emlakjet ilanlarını çekebilir, kullanıcı
+                aktivitelerini inceleyebilir ve HouseAI veri tabanını güncel
+                tutabilirsin.
+              </p>
+            </div>
+
+            <button id="runImportBtn" class="primary-btn hero-btn">
+              Son 24 Saat Verileri Çek
+            </button>
+          </div>
+
+          <div class="stats-grid">
+            <div class="stat-card blue">
+              <span>Toplam İlan Verisi</span>
+              <strong id="totalListings">0</strong>
+              <small>Sistemdeki tüm ilan kayıtları</small>
+            </div>
+
+            <div class="stat-card cyan">
+              <span>Emlakjet Kaynaklı</span>
+              <strong id="emlakjetListings">0</strong>
+              <small>Otomatik import edilen veriler</small>
+            </div>
+
+            <div class="stat-card purple">
+              <span>Toplam Üye</span>
+              <strong id="totalUsers">0</strong>
+              <small>Kayıtlı kullanıcı sayısı</small>
+            </div>
+
+            <div class="stat-card green">
+              <span>Son Eklenen İlan</span>
+              <strong id="lastAddedCount">0</strong>
+              <small>Son import işleminde eklenen</small>
+            </div>
+
+            <div class="stat-card orange">
+              <span>Fiyat Tahmini</span>
+              <strong id="pricePredictionCount">0</strong>
+              <small>Kullanıcı tahmin işlemleri</small>
+            </div>
+
+            <div class="stat-card rose">
+              <span>Satış Analizi</span>
+              <strong id="sellerAnalysisCount">0</strong>
+              <small>HouseAI Seller etkileşimleri</small>
+            </div>
+          </div>
+
+          <div class="panel-grid">
+            <div class="panel-card">
+              <div class="panel-title">
+                <div>
+                  <h3>Son Veri Çekme Özeti</h3>
+                  <p>Pipeline’ın son çalışma raporu</p>
+                </div>
+              </div>
+
+              <div class="summary-list">
+                <div>
+                  <span>Son çalışma</span>
+                  <strong id="lastRunAt">-</strong>
+                </div>
+
+                <div>
+                  <span>Bulunan link</span>
+                  <strong id="linksFound">0</strong>
+                </div>
+
+                <div>
+                  <span>İşlenen link</span>
+                  <strong id="linksProcessed">0</strong>
+                </div>
+
+                <div>
+                  <span>Eklenen</span>
+                  <strong id="addedCount">0</strong>
+                </div>
+
+                <div>
+                  <span>Atlanan</span>
+                  <strong id="skippedCount">0</strong>
+                </div>
+
+                <div>
+                  <span>Reddedilen</span>
+                  <strong id="rejectedCount">0</strong>
+                </div>
+              </div>
+            </div>
+
+            <div class="panel-card action-card">
+              <div class="panel-title">
+                <div>
+                  <h3>Veri Pipeline</h3>
+                  <p>Tek tıkla güncel veri çek</p>
+                </div>
+              </div>
+
+              <p>
+                Emlakjet üzerinde son 24 saatte yayına alınan İstanbul satılık
+                daire ilanlarını çeker, HouseAI formatına dönüştürür, duplicate
+                olanları atlar ve yeni kayıtları `listings.json` içine ekler.
+              </p>
+
+              <button id="runImportBtn2" class="primary-btn">
+                Veri Çekmeyi Başlat
+              </button>
+
+              <div id="importStatusBox" class="status-box">
+                Henüz durum alınmadı.
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="dataSection" class="section">
+          <div class="section-header">
+            <div>
+              <span class="eyebrow">Pipeline Control</span>
+              <h2>Veri Çekme Kontrol Merkezi</h2>
+            </div>
+
+            <button
+              class="primary-btn small"
+              onclick="document.getElementById('runImportBtn2').click()"
+            >
+              Yeni Import Başlat
+            </button>
+          </div>
+
+          <div class="panel-card">
+            <div class="status-big">
+              <span>Güncel Durum</span>
+              <strong id="dataStatusText">-</strong>
+              <p id="dataStatusMessage">-</p>
+            </div>
+
+            <div class="summary-list">
+              <div>
+                <span>Başlangıç</span>
+                <strong id="statusStartedAt">-</strong>
+              </div>
+
+              <div>
+                <span>Bitiş</span>
+                <strong id="statusFinishedAt">-</strong>
+              </div>
+
+              <div>
+                <span>Log Dosyası</span>
+                <strong id="statusLogFile">-</strong>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="listingsSection" class="section">
+          <div class="section-header">
+            <div>
+              <span class="eyebrow">Latest Imports</span>
+              <h2>Son Import Edilen İlanlar</h2>
+            </div>
+
+            <button id="refreshListingsBtn" class="ghost-btn">Yenile</button>
+          </div>
+
+          <div class="panel-card">
+            <input
+              id="listingSearch"
+              class="search-input"
+              type="text"
+              placeholder="Başlık, ilçe, mahalle, oda tipi veya fiyat ara..."
+            />
+
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Başlık</th>
+                    <th>İlçe</th>
+                    <th>Mahalle</th>
+                    <th>Oda</th>
+                    <th>m²</th>
+                    <th>Fiyat</th>
+                    <th>Kaynak</th>
+                  </tr>
+                </thead>
+                <tbody id="latestListingsTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section id="usersSection" class="section">
+          <div class="section-header">
+            <div>
+              <span class="eyebrow">User Management</span>
+              <h2>Üye Yönetimi</h2>
+            </div>
+
+            <button id="refreshUsersBtn" class="ghost-btn">Yenile</button>
+          </div>
+
+          <div class="mini-stats">
+            <div>
+              <span>Admin</span>
+              <strong id="adminCount">0</strong>
+            </div>
+
+            <div>
+              <span>Normal Kullanıcı</span>
+              <strong id="normalUserCount">0</strong>
+            </div>
+
+            <div>
+              <span>Bugün Kayıt</span>
+              <strong id="todayUsers">0</strong>
+            </div>
+          </div>
+
+          <div class="panel-card">
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Ad</th>
+                    <th>E-posta</th>
+                    <th>Rol</th>
+                    <th>Kayıt Tarihi</th>
+                    <th>Son Giriş</th>
+                  </tr>
+                </thead>
+                <tbody id="usersTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section id="activitiesSection" class="section">
+          <div class="section-header">
+            <div>
+              <span class="eyebrow">Activity Tracking</span>
+              <h2>Kullanıcı Aktiviteleri</h2>
+            </div>
+
+            <button id="refreshActivitiesBtn" class="ghost-btn">Yenile</button>
+          </div>
+
+          <div class="panel-card">
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Kullanıcı</th>
+                    <th>E-posta</th>
+                    <th>İşlem</th>
+                    <th>Açıklama</th>
+                    <th>Tarih</th>
+                  </tr>
+                </thead>
+                <tbody id="activitiesTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/js/admin.js"></script>
+  </body>
+</html>

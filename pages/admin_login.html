@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>HouseAI Admin Login</title>
+
+    <link rel="stylesheet" href="/static/css/admin_login.css" />
+  </head>
+  <body>
+    <main class="login-page">
+      <section class="login-card">
+        <a class="back-home-btn" href="/"> ← Ana Sayfaya Dön </a>
+
+        <div class="brand">
+          <div class="brand-icon">H</div>
+          <div>
+            <h1>HouseAI Admin</h1>
+            <p>Yönetim paneline giriş yap</p>
+          </div>
+        </div>
+
+        <form id="loginForm">
+          <label>
+            E-posta
+            <input
+              id="email"
+              type="email"
+              value="admin@houseai.com"
+              autocomplete="email"
+              required
+            />
+          </label>
+
+          <label>
+            Şifre
+            <input
+              id="password"
+              type="password"
+              value="HouseAI123"
+              autocomplete="current-password"
+              required
+            />
+          </label>
+
+          <button id="loginBtn" type="submit">Giriş Yap</button>
+
+          <p id="loginMessage" class="message"></p>
+        </form>
+
+        <div class="demo-info">
+          <strong>Demo Admin:</strong>
+          <span>admin@houseai.com / HouseAI123</span>
+        </div>
+
+        <div class="user-shortcut">
+          Kullanıcı hesabın mı var?
+          <a href="/login">Kullanıcı girişine git</a>
+        </div>
+      </section>
+    </main>
+
+    <script src="/static/js/admin_login.js"></script>
+  </body>
+</html>

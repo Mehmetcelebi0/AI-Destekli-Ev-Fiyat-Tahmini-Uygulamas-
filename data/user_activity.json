@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "register",
+    "description": "Kullanıcı kayıt oldu.",
+    "meta": {},
+    "created_at": "2026-05-29 12:44:49"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-29 12:45:37"
+  },
+  {
+    "id": 3,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "price_prediction",
+    "description": "Kullanıcı ev fiyat tahmini yaptı.",
+    "meta": {
+      "district": "Kağıthane",
+      "neighborhood": "Hamidiye Mahallesi",
+      "oda": 2,
+      "salon": 1,
+      "net_metrekare": 90,
+      "predicted_price": {
+        "estimated_price": 11164185,
+        "estimated_price_text": "11.164.185 TL",
+        "quick_sale_price": 10717617,
+        "quick_sale_price_text": "10.717.617 TL",
+        "balanced_sale_price": 11387468,
+        "balanced_sale_price_text": "11.387.468 TL",
+        "high_sale_price": 12057320,
+        "high_sale_price_text": "12.057.320 TL",
+        "six_month_prediction": 11554931,
+        "six_month_prediction_text": "11.554.931 TL"
+      }
+    },
+    "created_at": "2026-05-29 12:47:19"
+  },
+  {
+    "id": 4,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "seller_analysis",
+    "description": "Kullanıcı satış danışmanı ile analiz yaptı.",
+    "meta": {
+      "message": "Rapor oluştur",
+      "intent": "report"
+    },
+    "created_at": "2026-05-29 12:47:36"
+  },
+  {
+    "id": 5,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-29 13:00:16"
+  },
+  {
+    "id": 6,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-29 13:52:18"
+  },
+  {
+    "id": 7,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "logout",
+    "description": "Kullanıcı çıkış yaptı.",
+    "meta": {},
+    "created_at": "2026-05-29 13:53:17"
+  },
+  {
+    "id": 8,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-29 17:19:47"
+  },
+  {
+    "id": 9,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-30 11:58:18"
+  },
+  {
+    "id": 10,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "map_chat",
+    "description": "Kullanıcı harita chatbot ile konuştu.",
+    "meta": {
+      "message": "ev ilanı gireceğim"
+    },
+    "created_at": "2026-05-30 11:58:39"
+  },
+  {
+    "id": 11,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "map_chat",
+    "description": "Kullanıcı harita chatbot ile konuştu.",
+    "meta": {
+      "message": "kağıthane"
+    },
+    "created_at": "2026-05-30 11:58:44"
+  },
+  {
+    "id": 12,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "map_chat",
+    "description": "Kullanıcı harita chatbot ile konuştu.",
+    "meta": {
+      "message": "merkez"
+    },
+    "created_at": "2026-05-30 11:58:47"
+  },
+  {
+    "id": 13,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "logout",
+    "description": "Kullanıcı çıkış yaptı.",
+    "meta": {},
+    "created_at": "2026-05-30 11:59:16"
+  },
+  {
+    "id": 14,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-30 12:05:39"
+  },
+  {
+    "id": 15,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "logout",
+    "description": "Kullanıcı çıkış yaptı.",
+    "meta": {},
+    "created_at": "2026-05-30 12:05:47"
+  },
+  {
+    "id": 16,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "logout",
+    "description": "Kullanıcı çıkış yaptı.",
+    "meta": {},
+    "created_at": "2026-05-31 13:10:15"
+  },
+  {
+    "id": 17,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-31 13:10:27"
+  },
+  {
+    "id": 18,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "logout",
+    "description": "Kullanıcı çıkış yaptı.",
+    "meta": {},
+    "created_at": "2026-05-31 13:10:59"
+  },
+  {
+    "id": 19,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "login",
+    "description": "Kullanıcı giriş yaptı.",
+    "meta": {},
+    "created_at": "2026-05-31 13:11:51"
+  },
+  {
+    "id": 20,
+    "user_id": 2,
+    "user_name": "Lui Can",
+    "user_email": "can123@gmail.com",
+    "user_role": "user",
+    "action_type": "logout",
+    "description": "Kullanıcı çıkış yaptı.",
+    "meta": {},
+    "created_at": "2026-05-31 13:12:08"
+  }
+]

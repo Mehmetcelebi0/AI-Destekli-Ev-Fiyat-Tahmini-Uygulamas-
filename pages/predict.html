@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Ev Fiyat Tahmini</title>
+
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/static/css/predict.css" />
+  </head>
+
+  <body>
+    <div class="page">
+      <a href="index.html" class="back-link">Haritaya Dön</a>
+
+      <header class="topbar">
+        <h1>Ev Fiyat Tahmini</h1>
+      </header>
+
+      <main class="content">
+        <section class="location-card">
+          <div class="inline-location">
+            <span>Seçilen Konum:</span>
+            <strong id="location-title">Konum bulunamadı</strong>
+          </div>
+
+          <p id="location-warning" class="location-warning">
+            Haritadan konum seçilmediyse önce haritaya dönüp ev konumunu
+            seçmelisin.
+          </p>
+
+          <div class="location-meta">
+            <div>
+              <span>Latitude</span>
+              <strong id="lat-value">-</strong>
+            </div>
+
+            <div>
+              <span>Longitude</span>
+              <strong id="lng-value">-</strong>
+            </div>
+          </div>
+        </section>
+
+        <form id="property-form" class="form-card">
+          <div class="form-header">
+            <h2>Ev Özellikleri</h2>
+          </div>
+
+          <div class="section-title">Temel Bilgiler</div>
+
+          <div class="grid">
+            <div class="field">
+              <label>İlçe</label>
+              <input type="text" id="district" placeholder="Örn: Kağıthane" />
+            </div>
+
+            <div class="field">
+              <label>Mahalle</label>
+              <input
+                type="text"
+                id="neighborhood"
+                placeholder="Örn: Merkez Mahallesi"
+              />
+            </div>
+
+            <div class="field">
+              <label>Net m²</label>
+              <input type="number" id="net_metrekare" placeholder="Örn: 90" />
+            </div>
+
+            <div class="field">
+              <label>Brüt m²</label>
+              <input type="number" id="brut_metrekare" placeholder="Örn: 110" />
+            </div>
+
+            <div class="field">
+              <label>Oda</label>
+              <select id="oda">
+                <option value="">Seç</option>
+                <option value="1">1</option>
+                <option value="1.5">1.5</option>
+                <option value="2">2</option>
+                <option value="2.5">2.5</option>
+                <option value="3">3</option>
+                <option value="3.5">3.5</option>
+                <option value="4">4</option>
+                <option value="4.5">4.5</option>
+                <option value="5">5</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Salon</label>
+              <select id="salon">
+                <option value="">Seç</option>
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Bina Yaşı</label>
+              <select id="binanin_yasi">
+                <option value="">Seç</option>
+                <option value="0 (Yeni)">0 (Yeni)</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5-10">5-10</option>
+                <option value="11-15">11-15</option>
+                <option value="16-20">16-20</option>
+                <option value="21 Ve Üzeri">21 Ve Üzeri</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Binanın Kat Sayısı</label>
+              <input
+                type="number"
+                id="binanin_kat_sayisi"
+                placeholder="Örn: 10"
+              />
+            </div>
+
+            <div class="field">
+              <label>Bulunduğu Kat</label>
+              <input
+                type="number"
+                id="bulundugu_kat_numeric"
+                placeholder="Örn: 3"
+              />
+            </div>
+
+            <div class="field">
+              <label>Banyo Sayısı</label>
+              <select id="banyo_sayisi">
+                <option value="">Seç</option>
+                <option value="0">Yok</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6+</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="section-title">Tapu, Kredi ve Kullanım</div>
+
+          <div class="grid">
+            <div class="field">
+              <label>Isıtma Tipi</label>
+              <select id="isitma_tipi">
+                <option value="">Seç</option>
+                <option value="Kombi Doğalgaz">Kombi Doğalgaz</option>
+                <option value="Merkezi (Pay Ölçer)">Merkezi (Pay Ölçer)</option>
+                <option value="Yerden Isıtma">Yerden Isıtma</option>
+                <option value="Merkezi Doğalgaz">Merkezi Doğalgaz</option>
+                <option value="Doğalgaz Sobalı">Doğalgaz Sobalı</option>
+                <option value="Isıtma Yok">Isıtma Yok</option>
+                <option value="Kat Kaloriferi">Kat Kaloriferi</option>
+                <option value="Klimalı">Klimalı</option>
+                <option value="Sobalı">Sobalı</option>
+                <option value="Fancoil Ünitesi">Fancoil Ünitesi</option>
+                <option value="Kombi Fueloil">Kombi Fueloil</option>
+                <option value="Elektrikli Radyatör">Elektrikli Radyatör</option>
+                <option value="Merkezi Fueloil">Merkezi Fueloil</option>
+                <option value="Güneş Enerjisi">Güneş Enerjisi</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Kullanım Durumu</label>
+              <select id="kullanim_durumu">
+                <option value="">Seç</option>
+                <option value="1">Boş</option>
+                <option value="0">Kiracı Oturuyor</option>
+                <option value="2">Mülk Sahibi Oturuyor</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Krediye Uygunluk</label>
+              <select id="krediye_uygunluk">
+                <option value="">Seç</option>
+                <option value="2">Krediye Uygun</option>
+                <option value="0">Krediye Uygun Değil</option>
+                <option value="1">Bilinmiyor</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Tapu Durumu</label>
+              <select id="tapu_durumu">
+                <option value="">Seç</option>
+                <option value="Kat Mülkiyeti">Kat Mülkiyeti</option>
+                <option value="Kat İrtifakı">Kat İrtifakı</option>
+                <option value="Tapu Kaydı Yok">Tapu Kaydı Yok</option>
+                <option value="Arsa Tapulu">Arsa Tapulu</option>
+                <option value="Hisseli Tapu">Hisseli Tapu</option>
+                <option value="Yabancıdan">Yabancıdan</option>
+                <option value="Bilinmiyor">Bilinmiyor</option>
+                <option value="Müstakil Tapulu">Müstakil Tapulu</option>
+                <option value="Kooperatiften Tapu">Kooperatiften Tapu</option>
+                <option value="Kıbrıs Tapulu">Kıbrıs Tapulu</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Site İçerisinde</label>
+              <select id="site_icerisinde">
+                <option value="">Seç</option>
+                <option value="0">Hayır</option>
+                <option value="1">Evet</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="section-title">Yakınlık Bilgileri</div>
+
+          <div class="grid compact">
+            <div class="field">
+              <label id="ulasim_1_label">Ulaşım 1 Mesafe</label>
+              <input type="number" id="ulasim_1_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="ulasim_2_label">Ulaşım 2 Mesafe</label>
+              <input type="number" id="ulasim_2_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="ulasim_3_label">Ulaşım 3 Mesafe</label>
+              <input type="number" id="ulasim_3_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="egitim_1_label">Eğitim 1 Mesafe</label>
+              <input type="number" id="egitim_1_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="egitim_2_label">Eğitim 2 Mesafe</label>
+              <input type="number" id="egitim_2_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="egitim_3_label">Eğitim 3 Mesafe</label>
+              <input type="number" id="egitim_3_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="market_1_label">Market 1 Mesafe</label>
+              <input type="number" id="market_1_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="market_2_label">Market 2 Mesafe</label>
+              <input type="number" id="market_2_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="market_3_label">Market 3 Mesafe</label>
+              <input type="number" id="market_3_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="kafe_restoran_1_label">Kafe 1 Mesafe</label>
+              <input
+                type="number"
+                id="kafe_restoran_1_mesafe"
+                placeholder="metre"
+              />
+            </div>
+
+            <div class="field">
+              <label id="kafe_restoran_2_label">Kafe 2 Mesafe</label>
+              <input
+                type="number"
+                id="kafe_restoran_2_mesafe"
+                placeholder="metre"
+              />
+            </div>
+
+            <div class="field">
+              <label id="kafe_restoran_3_label">Kafe 3 Mesafe</label>
+              <input
+                type="number"
+                id="kafe_restoran_3_mesafe"
+                placeholder="metre"
+              />
+            </div>
+
+            <div class="field">
+              <label id="saglik_1_label">Sağlık 1 Mesafe</label>
+              <input type="number" id="saglik_1_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="saglik_2_label">Sağlık 2 Mesafe</label>
+              <input type="number" id="saglik_2_mesafe" placeholder="metre" />
+            </div>
+
+            <div class="field">
+              <label id="saglik_3_label">Sağlık 3 Mesafe</label>
+              <input type="number" id="saglik_3_mesafe" placeholder="metre" />
+            </div>
+          </div>
+
+          <div class="actions predict-actions">
+            <button type="submit" class="primary-btn">
+              Tahmin Verisini Hazırla
+            </button>
+
+            <button
+              type="button"
+              id="go-seller-page-btn"
+              class="secondary-btn"
+              disabled
+            >
+              Satış Analizine Geç
+            </button>
+          </div>
+        </form>
+
+        <section class="output-card">
+          <div>
+            <span class="eyebrow">Hazırlanan Veri</span>
+            <h2>Model Input JSON</h2>
+          </div>
+
+          <pre id="output-json">Henüz veri hazırlanmadı.</pre>
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/js/predict.js"></script>
+  </body>
+</html>

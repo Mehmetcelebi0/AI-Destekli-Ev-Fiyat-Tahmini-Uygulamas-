@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>HouseAI Seller Analysis</title>
+
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="/static/css/seller.css" />
+  </head>
+
+  <body>
+    <div class="page">
+      <div class="top-actions">
+        <a href="predict.html" class="back-link">Tahmin Sayfasına Dön</a>
+        <a href="index.html" class="back-link secondary">Haritaya Dön</a>
+      </div>
+
+      <header class="hero-card">
+        <div>
+          <span class="eyebrow">HouseAI Seller</span>
+          <h1>Satış Fiyat Analizi</h1>
+          <p>
+            Ev özelliklerinize, bölgedeki benzer ilanlara ve piyasa davranışına
+            göre satış stratejisi oluşturur.
+          </p>
+        </div>
+
+        <div class="hero-price">
+          <span>Tahmini Piyasa Değeri</span>
+          <strong id="estimated-price">Hesaplanıyor...</strong>
+          <small id="confidence-text">Güven skoru hazırlanıyor...</small>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="main-panel">
+          <div class="property-summary-card">
+            <div>
+              <span class="eyebrow">Girilen Ev Bilgileri</span>
+              <h2 id="property-title">Ev bilgileri yükleniyor...</h2>
+              <p id="property-subtitle"></p>
+            </div>
+
+            <div class="property-tags" id="property-tags"></div>
+          </div>
+
+          <div class="strategy-grid">
+            <div class="strategy-card quick">
+              <span>Hızlı Satış</span>
+              <strong id="quick-sale-price">-</strong>
+              <p>
+                İlanın daha hızlı dikkat çekmesi için önerilen agresif fiyat.
+              </p>
+            </div>
+
+            <div class="strategy-card balanced">
+              <span>Dengeli İlan Fiyatı</span>
+              <strong id="balanced-sale-price">-</strong>
+              <p>Piyasa değerine yakın, daha dengeli satış stratejisi.</p>
+            </div>
+
+            <div class="strategy-card high">
+              <span>Yüksekten Deneme</span>
+              <strong id="high-sale-price">-</strong>
+              <p>Pazarlık payı bırakmak isteyen satıcılar için üst fiyat.</p>
+            </div>
+
+            <div class="strategy-card future">
+              <span>6 Ay Sonra Tahmin</span>
+              <strong id="six-month-price">-</strong>
+              <p>Mevcut veri eğilimine göre yaklaşık gelecek değer.</p>
+            </div>
+          </div>
+
+          <section class="analysis-card">
+            <div class="card-heading">
+              <div>
+                <span class="eyebrow">Piyasa Özeti</span>
+                <h2>Bölgesel Satış Analizi</h2>
+              </div>
+            </div>
+
+            <div class="market-grid">
+              <div>
+                <span>Benzer İlan Sayısı</span>
+                <strong id="similar-count">-</strong>
+              </div>
+
+              <div>
+                <span>Ortalama Fiyat</span>
+                <strong id="market-average">-</strong>
+              </div>
+
+              <div>
+                <span>Medyan Fiyat</span>
+                <strong id="market-median">-</strong>
+              </div>
+
+              <div>
+                <span>Ortalama m² Fiyatı</span>
+                <strong id="market-m2-average">-</strong>
+              </div>
+            </div>
+
+            <div class="text-report" id="analysis-report">
+              Analiz hazırlanıyor...
+            </div>
+          </section>
+
+          <section class="analysis-card">
+            <div class="card-heading">
+              <div>
+                <span class="eyebrow">Benzer İlanlar</span>
+                <h2>Karşılaştırılan İlanlar</h2>
+              </div>
+            </div>
+
+            <div class="listing-grid" id="similar-listings"></div>
+          </section>
+
+          <section class="analysis-card">
+            <div class="card-heading">
+              <div>
+                <span class="eyebrow">İlan Hazırlığı</span>
+                <h2>Satıcı İçin İlan Önerisi</h2>
+              </div>
+            </div>
+
+            <div class="listing-copy" id="listing-copy">
+              İlan başlığı ve açıklaması hazırlanıyor...
+            </div>
+          </section>
+        </section>
+
+        <div class="sellerai-launcher" id="sellerai-launcher">
+          <div class="sellerai-launcher-inner">
+            <span class="sellerai-icon">⌂</span>
+            <span class="sellerai-label">HouseAI<br />Seller</span>
+          </div>
+        </div>
+
+        <aside class="chat-panel hidden" id="seller-chat-panel">
+          <div class="chat-header">
+            <div>
+              <strong>HouseAI Seller</strong>
+              <span>Satış danışmanı</span>
+            </div>
+
+            <button id="seller-chat-close-btn" type="button">×</button>
+          </div>
+
+          <div class="chat-messages" id="seller-chat-messages">
+            <div class="chat-message bot-message">
+              Merhaba 👋 Ben HouseAI Seller. Evini satarken doğru fiyatı
+              belirlemen için yardımcı olurum.
+              <br /><br />
+              Bana şunları yazabilirsin:
+              <br />
+              • “Hızlı satmak istiyorum”
+              <br />
+              • “Yüksekten koymak istiyorum”
+              <br />
+              • “İlan açıklaması yaz”
+              <br />
+              • “Benzer ilanları göster”
+              <br />
+              • “Rapor oluştur”
+            </div>
+          </div>
+
+          <form class="chat-form" id="seller-chat-form">
+            <input
+              type="text"
+              id="seller-chat-input"
+              placeholder="HouseAI Seller'a yaz..."
+              autocomplete="off"
+            />
+            <button type="submit">Gönder</button>
+          </form>
+        </aside>
+      </main>
+    </div>
+
+    <script src="/static/js/seller.js"></script>
+  </body>
+</html>

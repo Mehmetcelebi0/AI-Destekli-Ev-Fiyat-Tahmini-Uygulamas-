@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>HouseAI Kullanıcı Girişi</title>
+
+    <link rel="stylesheet" href="/static/css/user_login.css" />
+  </head>
+  <body>
+    <main class="auth-page">
+      <section class="visual-side">
+        <div class="visual-card">
+          <span class="visual-tag">HouseAI Platform</span>
+          <h1>Akıllı emlak analizi için hesabına giriş yap.</h1>
+          <p>
+            Fiyat tahminlerini, satış analizlerini ve HouseAI aktivitelerini tek
+            panelden takip et.
+          </p>
+
+          <div class="feature-list">
+            <div>✓ Fiyat tahmin geçmişi</div>
+            <div>✓ Satış danışmanı aktiviteleri</div>
+            <div>✓ Kişisel kullanıcı paneli</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="auth-card">
+        <a class="back-home-btn" href="/"> ← Ana Sayfaya Dön </a>
+
+        <div class="brand">
+          <div class="brand-icon">H</div>
+          <div>
+            <h2>HouseAI</h2>
+            <p>Kullanıcı girişi</p>
+          </div>
+        </div>
+
+        <form id="loginForm">
+          <label>
+            E-posta
+            <input
+              id="email"
+              type="email"
+              required
+              autocomplete="email"
+              placeholder="ornek@mail.com"
+            />
+          </label>
+
+          <label>
+            Şifre
+            <input
+              id="password"
+              type="password"
+              required
+              autocomplete="current-password"
+              placeholder="••••••••"
+            />
+          </label>
+
+          <button id="loginBtn" type="submit">Giriş Yap</button>
+
+          <p id="loginMessage" class="message"></p>
+        </form>
+
+        <div class="bottom-link">
+          Hesabın yok mu?
+          <a href="/register">Kayıt ol</a>
+        </div>
+
+        <div class="admin-shortcut">
+          Yönetici misin?
+          <a href="/admin-login">Admin paneline git</a>
+        </div>
+      </section>
+    </main>
+
+    <script src="/static/js/user_login.js"></script>
+  </body>
+</html>

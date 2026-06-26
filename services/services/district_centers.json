@@ -1,0 +1,5586 @@
+[
+  {
+    "id": 607,
+    "district": "Adalar",
+    "neighborhood": "Heybeliada Mahallesi",
+    "lat": 40.87722469635967,
+    "lng": 29.098836028883635,
+    "listing_count": 1
+  },
+  {
+    "id": 569,
+    "district": "Adalar",
+    "neighborhood": "Maden Mahallesi",
+    "lat": 40.874609021660845,
+    "lng": 29.13130265044743,
+    "listing_count": 5
+  },
+  {
+    "id": 523,
+    "district": "Adalar",
+    "neighborhood": "Nizam Mahallesi",
+    "lat": 40.87385103512427,
+    "lng": 29.128428333045235,
+    "listing_count": 5
+  },
+  {
+    "id": 683,
+    "district": "Arnavutköy",
+    "neighborhood": "Adnan Menderes Mahallesi",
+    "lat": 41.215443815760224,
+    "lng": 28.703902819574665,
+    "listing_count": 1
+  },
+  {
+    "id": 163,
+    "district": "Arnavutköy",
+    "neighborhood": "Anadolu Mahallesi",
+    "lat": 41.185011056622,
+    "lng": 28.749336568754725,
+    "listing_count": 68
+  },
+  {
+    "id": 115,
+    "district": "Arnavutköy",
+    "neighborhood": "Arnavutköy Merkez Mahallesi",
+    "lat": 41.18244029017196,
+    "lng": 28.7428639349462,
+    "listing_count": 34
+  },
+  {
+    "id": 342,
+    "district": "Arnavutköy",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 41.188544386667054,
+    "lng": 28.758791134067543,
+    "listing_count": 20
+  },
+  {
+    "id": 460,
+    "district": "Arnavutköy",
+    "neighborhood": "Bolluca Mahallesi",
+    "lat": 41.198837447167215,
+    "lng": 28.765998391803564,
+    "listing_count": 3
+  },
+  {
+    "id": 99,
+    "district": "Arnavutköy",
+    "neighborhood": "Boğazköy İstiklal Mahallesi",
+    "lat": 41.18184874430387,
+    "lng": 28.773972595867804,
+    "listing_count": 20
+  },
+  {
+    "id": 159,
+    "district": "Arnavutköy",
+    "neighborhood": "Deliklikaya Mahallesi",
+    "lat": 41.11176055708828,
+    "lng": 28.654845555751315,
+    "listing_count": 7
+  },
+  {
+    "id": 75,
+    "district": "Arnavutköy",
+    "neighborhood": "Hadımköy Mahallesi",
+    "lat": 41.15877801723847,
+    "lng": 28.621409449557063,
+    "listing_count": 54
+  },
+  {
+    "id": 199,
+    "district": "Arnavutköy",
+    "neighborhood": "Haraççı Mahallesi",
+    "lat": 41.176221194784816,
+    "lng": 28.702762158258206,
+    "listing_count": 28
+  },
+  {
+    "id": 571,
+    "district": "Arnavutköy",
+    "neighborhood": "Hastane Mahallesi",
+    "lat": 41.15410329732783,
+    "lng": 28.61911281553251,
+    "listing_count": 9
+  },
+  {
+    "id": 552,
+    "district": "Arnavutköy",
+    "neighborhood": "Hicret Mahallesi",
+    "lat": 41.19726932300398,
+    "lng": 28.754804452252305,
+    "listing_count": 6
+  },
+  {
+    "id": 238,
+    "district": "Arnavutköy",
+    "neighborhood": "Karlıbayır Mahallesi",
+    "lat": 41.18157280720672,
+    "lng": 28.714832801698666,
+    "listing_count": 79
+  },
+  {
+    "id": 555,
+    "district": "Arnavutköy",
+    "neighborhood": "Mareşal Fevzi Çakmak Mahallesi",
+    "lat": 41.20291920223496,
+    "lng": 28.721585173710803,
+    "listing_count": 3
+  },
+  {
+    "id": 439,
+    "district": "Arnavutköy",
+    "neighborhood": "Mavigöl Mahallesi",
+    "lat": 41.20383341956986,
+    "lng": 28.76454193250939,
+    "listing_count": 21
+  },
+  {
+    "id": 337,
+    "district": "Arnavutköy",
+    "neighborhood": "Mehmet Akif Ersoy Mahallesi",
+    "lat": 41.20864908542918,
+    "lng": 28.709115067499305,
+    "listing_count": 16
+  },
+  {
+    "id": 330,
+    "district": "Arnavutköy",
+    "neighborhood": "Mustafa Kemal Paşa Mahallesi",
+    "lat": 41.18689279996698,
+    "lng": 28.735957672493903,
+    "listing_count": 56
+  },
+  {
+    "id": 398,
+    "district": "Arnavutköy",
+    "neighborhood": "Nenehatun Mahallesi",
+    "lat": 41.18202392118441,
+    "lng": 28.739977943309775,
+    "listing_count": 40
+  },
+  {
+    "id": 224,
+    "district": "Arnavutköy",
+    "neighborhood": "Taşoluk Mahallesi",
+    "lat": 41.196062418644225,
+    "lng": 28.71684866278235,
+    "listing_count": 70
+  },
+  {
+    "id": 671,
+    "district": "Arnavutköy",
+    "neighborhood": "Yavuz Selim Mahallesi",
+    "lat": 41.20651606605299,
+    "lng": 28.731301053676894,
+    "listing_count": 14
+  },
+  {
+    "id": 131,
+    "district": "Arnavutköy",
+    "neighborhood": "Yunus Emre Mahallesi",
+    "lat": 41.1854648874253,
+    "lng": 28.760047039540094,
+    "listing_count": 25
+  },
+  {
+    "id": 685,
+    "district": "Arnavutköy",
+    "neighborhood": "Ömerli Mahallesi",
+    "lat": 41.11462200966123,
+    "lng": 28.637300581194967,
+    "listing_count": 3
+  },
+  {
+    "id": 667,
+    "district": "Arnavutköy",
+    "neighborhood": "İmrahor Mahallesi",
+    "lat": 41.21777990938351,
+    "lng": 28.74399996191689,
+    "listing_count": 1
+  },
+  {
+    "id": 223,
+    "district": "Arnavutköy",
+    "neighborhood": "İslambey Mahallesi",
+    "lat": 41.18844690389274,
+    "lng": 28.741557842825976,
+    "listing_count": 63
+  },
+  {
+    "id": 597,
+    "district": "Ataşehir",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 40.990583240872546,
+    "lng": 29.126233973592345,
+    "listing_count": 15
+  },
+  {
+    "id": 575,
+    "district": "Ataşehir",
+    "neighborhood": "Aşıkveysel Mahallesi",
+    "lat": 41.003705142157884,
+    "lng": 29.09181346156441,
+    "listing_count": 6
+  },
+  {
+    "id": 498,
+    "district": "Ataşehir",
+    "neighborhood": "Barbaros Mahallesi",
+    "lat": 40.990425679501726,
+    "lng": 29.103484870709206,
+    "listing_count": 9
+  },
+  {
+    "id": 244,
+    "district": "Ataşehir",
+    "neighborhood": "Esatpaşa Mahallesi",
+    "lat": 41.005269001773605,
+    "lng": 29.08257741962224,
+    "listing_count": 24
+  },
+  {
+    "id": 463,
+    "district": "Ataşehir",
+    "neighborhood": "Ferhatpaşa Mahallesi",
+    "lat": 40.98601898109826,
+    "lng": 29.179483559969164,
+    "listing_count": 2
+  },
+  {
+    "id": 497,
+    "district": "Ataşehir",
+    "neighborhood": "Fetih Mahallesi",
+    "lat": 41.004424102047345,
+    "lng": 29.07615101954725,
+    "listing_count": 10
+  },
+  {
+    "id": 385,
+    "district": "Ataşehir",
+    "neighborhood": "Kayışdağı Mahallesi",
+    "lat": 40.9835531541278,
+    "lng": 29.14329438679669,
+    "listing_count": 40
+  },
+  {
+    "id": 440,
+    "district": "Ataşehir",
+    "neighborhood": "Küçükbakkalköy Mahallesi",
+    "lat": 40.9798602765522,
+    "lng": 29.112829495967986,
+    "listing_count": 28
+  },
+  {
+    "id": 655,
+    "district": "Ataşehir",
+    "neighborhood": "Mevlana Mahallesi",
+    "lat": 40.98551629959113,
+    "lng": 29.152592149303985,
+    "listing_count": 3
+  },
+  {
+    "id": 676,
+    "district": "Ataşehir",
+    "neighborhood": "Mustafa Kemal Mahallesi",
+    "lat": 41.00120836696343,
+    "lng": 29.09488048053076,
+    "listing_count": 4
+  },
+  {
+    "id": 642,
+    "district": "Ataşehir",
+    "neighborhood": "Yenişehir Mahallesi",
+    "lat": 40.9945216437792,
+    "lng": 29.139036168755243,
+    "listing_count": 2
+  },
+  {
+    "id": 503,
+    "district": "Ataşehir",
+    "neighborhood": "Örnek Mahallesi",
+    "lat": 40.9956132725095,
+    "lng": 29.078786595575064,
+    "listing_count": 21
+  },
+  {
+    "id": 284,
+    "district": "Ataşehir",
+    "neighborhood": "İnönü Mahallesi",
+    "lat": 40.977346492266264,
+    "lng": 29.138243448377793,
+    "listing_count": 44
+  },
+  {
+    "id": 313,
+    "district": "Ataşehir",
+    "neighborhood": "İçerenköy Mahallesi",
+    "lat": 40.970164507958316,
+    "lng": 29.110735837807532,
+    "listing_count": 42
+  },
+  {
+    "id": 111,
+    "district": "Avcılar",
+    "neighborhood": "Ambarlı Mahallesi",
+    "lat": 40.97379819123606,
+    "lng": 28.71413735269763,
+    "listing_count": 133
+  },
+  {
+    "id": 32,
+    "district": "Avcılar",
+    "neighborhood": "Cihangir Mahallesi",
+    "lat": 40.98748076855065,
+    "lng": 28.709887601647658,
+    "listing_count": 181
+  },
+  {
+    "id": 118,
+    "district": "Avcılar",
+    "neighborhood": "Denizköşkler Mahallesi",
+    "lat": 40.97632227290214,
+    "lng": 28.732915153250005,
+    "listing_count": 130
+  },
+  {
+    "id": 143,
+    "district": "Avcılar",
+    "neighborhood": "Firuzköy Mahallesi",
+    "lat": 41.00897143324269,
+    "lng": 28.71027528338495,
+    "listing_count": 12
+  },
+  {
+    "id": 104,
+    "district": "Avcılar",
+    "neighborhood": "Gümüşpala Mahallesi",
+    "lat": 40.981069720072696,
+    "lng": 28.735599730572172,
+    "listing_count": 64
+  },
+  {
+    "id": 107,
+    "district": "Avcılar",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 40.98196173545643,
+    "lng": 28.722236245235553,
+    "listing_count": 153
+  },
+  {
+    "id": 51,
+    "district": "Avcılar",
+    "neighborhood": "Mustafa Kemalpaşa Mahallesi",
+    "lat": 41.00399126559283,
+    "lng": 28.707957508949526,
+    "listing_count": 65
+  },
+  {
+    "id": 201,
+    "district": "Avcılar",
+    "neighborhood": "Tahtakale Mahallesi",
+    "lat": 41.058614595756886,
+    "lng": 28.7278696813328,
+    "listing_count": 92
+  },
+  {
+    "id": 59,
+    "district": "Avcılar",
+    "neighborhood": "Yeşilkent Mahallesi",
+    "lat": 41.03186499019534,
+    "lng": 28.702653407222307,
+    "listing_count": 7
+  },
+  {
+    "id": 428,
+    "district": "Avcılar",
+    "neighborhood": "Üniversite Mahallesi",
+    "lat": 40.98886099937318,
+    "lng": 28.721677621062966,
+    "listing_count": 29
+  },
+  {
+    "id": 350,
+    "district": "Bahçelievler",
+    "neighborhood": "Bahçelievler Mahallesi",
+    "lat": 41.0041406695369,
+    "lng": 28.87123658885843,
+    "listing_count": 112
+  },
+  {
+    "id": 193,
+    "district": "Bahçelievler",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.01747075034298,
+    "lng": 28.85336847274881,
+    "listing_count": 33
+  },
+  {
+    "id": 595,
+    "district": "Bahçelievler",
+    "neighborhood": "Fevzi Çakmak Mahallesi",
+    "lat": 41.00245914765643,
+    "lng": 28.833260713388785,
+    "listing_count": 15
+  },
+  {
+    "id": 178,
+    "district": "Bahçelievler",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 40.99394362078208,
+    "lng": 28.841006832246805,
+    "listing_count": 63
+  },
+  {
+    "id": 151,
+    "district": "Bahçelievler",
+    "neighborhood": "Kocasinan Merkez Mahallesi",
+    "lat": 41.01701404421146,
+    "lng": 28.841933862994946,
+    "listing_count": 145
+  },
+  {
+    "id": 147,
+    "district": "Bahçelievler",
+    "neighborhood": "Siyavuşpaşa Mahallesi",
+    "lat": 41.00059649251355,
+    "lng": 28.855502106037246,
+    "listing_count": 187
+  },
+  {
+    "id": 328,
+    "district": "Bahçelievler",
+    "neighborhood": "Soğanlı Mahallesi",
+    "lat": 41.010957309911916,
+    "lng": 28.8554112807677,
+    "listing_count": 72
+  },
+  {
+    "id": 137,
+    "district": "Bahçelievler",
+    "neighborhood": "Yenibosna Merkez Mahallesi",
+    "lat": 41.01366502741592,
+    "lng": 28.825058011742488,
+    "listing_count": 79
+  },
+  {
+    "id": 38,
+    "district": "Bahçelievler",
+    "neighborhood": "Zafer Mahallesi",
+    "lat": 41.00103183196426,
+    "lng": 28.837609165870763,
+    "listing_count": 158
+  },
+  {
+    "id": 152,
+    "district": "Bahçelievler",
+    "neighborhood": "Çobançeşme Mahallesi",
+    "lat": 41.004423191329494,
+    "lng": 28.826894327855523,
+    "listing_count": 45
+  },
+  {
+    "id": 157,
+    "district": "Bahçelievler",
+    "neighborhood": "Şirinevler Mahallesi",
+    "lat": 40.99550152208773,
+    "lng": 28.848653229463068,
+    "listing_count": 115
+  },
+  {
+    "id": 635,
+    "district": "Bakırköy",
+    "neighborhood": "Ataköy 2 5 6. Kısım Mahallesi",
+    "lat": 40.97725634757427,
+    "lng": 28.8592104038011,
+    "listing_count": 1
+  },
+  {
+    "id": 620,
+    "district": "Bakırköy",
+    "neighborhood": "Ataköy 3 4 11. Kısım Mahallesi",
+    "lat": 40.98206791759957,
+    "lng": 28.85947050959075,
+    "listing_count": 2
+  },
+  {
+    "id": 589,
+    "district": "Bakırköy",
+    "neighborhood": "Ataköy 7 8 9 10. Kısım Mahallesi",
+    "lat": 40.98567764576055,
+    "lng": 28.84529588148887,
+    "listing_count": 3
+  },
+  {
+    "id": 528,
+    "district": "Bakırköy",
+    "neighborhood": "Cevizlik Mahallesi",
+    "lat": 40.97813320554656,
+    "lng": 28.87504703437545,
+    "listing_count": 4
+  },
+  {
+    "id": 310,
+    "district": "Bakırköy",
+    "neighborhood": "Kartaltepe Mahallesi",
+    "lat": 40.98506334549979,
+    "lng": 28.875584086978606,
+    "listing_count": 24
+  },
+  {
+    "id": 473,
+    "district": "Bakırköy",
+    "neighborhood": "Osmaniye Mahallesi",
+    "lat": 40.99437033391783,
+    "lng": 28.8782971040296,
+    "listing_count": 20
+  },
+  {
+    "id": 584,
+    "district": "Bakırköy",
+    "neighborhood": "Sakızağacı Mahallesi",
+    "lat": 40.97766150081015,
+    "lng": 28.879227594684426,
+    "listing_count": 10
+  },
+  {
+    "id": 649,
+    "district": "Bakırköy",
+    "neighborhood": "Yenimahalle Mahallesi",
+    "lat": 40.98019770166261,
+    "lng": 28.88206122272553,
+    "listing_count": 2
+  },
+  {
+    "id": 516,
+    "district": "Bakırköy",
+    "neighborhood": "Yeşilköy Mahallesi",
+    "lat": 40.9591952282754,
+    "lng": 28.82284981125288,
+    "listing_count": 19
+  },
+  {
+    "id": 220,
+    "district": "Bakırköy",
+    "neighborhood": "Zeytinlik Mahallesi",
+    "lat": 40.978064111035636,
+    "lng": 28.871820186557525,
+    "listing_count": 6
+  },
+  {
+    "id": 281,
+    "district": "Bakırköy",
+    "neighborhood": "Zuhuratbaba Mahallesi",
+    "lat": 40.982530368342864,
+    "lng": 28.871259432015105,
+    "listing_count": 28
+  },
+  {
+    "id": 568,
+    "district": "Bakırköy",
+    "neighborhood": "Şenlikköy Mahallesi",
+    "lat": 40.98093150846533,
+    "lng": 28.795081049396003,
+    "listing_count": 17
+  },
+  {
+    "id": 515,
+    "district": "Bayrampaşa",
+    "neighborhood": "Altıntepsi Mahallesi",
+    "lat": 41.03871283922071,
+    "lng": 28.90127292550759,
+    "listing_count": 32
+  },
+  {
+    "id": 243,
+    "district": "Bayrampaşa",
+    "neighborhood": "Cevatpaşa Mahallesi",
+    "lat": 41.07068353357987,
+    "lng": 28.884571026019177,
+    "listing_count": 17
+  },
+  {
+    "id": 169,
+    "district": "Bayrampaşa",
+    "neighborhood": "Kartaltepe Mahallesi",
+    "lat": 41.054891878186794,
+    "lng": 28.903758239558076,
+    "listing_count": 46
+  },
+  {
+    "id": 558,
+    "district": "Bayrampaşa",
+    "neighborhood": "Kocatepe Mahallesi",
+    "lat": 41.05182583445435,
+    "lng": 28.897986664911997,
+    "listing_count": 19
+  },
+  {
+    "id": 321,
+    "district": "Bayrampaşa",
+    "neighborhood": "Muratpaşa Mahallesi",
+    "lat": 41.046904447188204,
+    "lng": 28.90616561684437,
+    "listing_count": 41
+  },
+  {
+    "id": 173,
+    "district": "Bayrampaşa",
+    "neighborhood": "Orta Mahallesi",
+    "lat": 41.033514787803085,
+    "lng": 28.91286053702529,
+    "listing_count": 32
+  },
+  {
+    "id": 472,
+    "district": "Bayrampaşa",
+    "neighborhood": "Terazidere Mahallesi",
+    "lat": 41.033184281015075,
+    "lng": 28.9016492009687,
+    "listing_count": 11
+  },
+  {
+    "id": 488,
+    "district": "Bayrampaşa",
+    "neighborhood": "Vatan Mahallesi",
+    "lat": 41.03402802410292,
+    "lng": 28.907050022547416,
+    "listing_count": 21
+  },
+  {
+    "id": 423,
+    "district": "Bayrampaşa",
+    "neighborhood": "Yenidoğan Mahallesi",
+    "lat": 41.037212849493265,
+    "lng": 28.91182952567073,
+    "listing_count": 24
+  },
+  {
+    "id": 411,
+    "district": "Bayrampaşa",
+    "neighborhood": "Yıldırım Mahallesi",
+    "lat": 41.06363794056243,
+    "lng": 28.891760131419836,
+    "listing_count": 47
+  },
+  {
+    "id": 593,
+    "district": "Bayrampaşa",
+    "neighborhood": "İsmet Paşa Mahallesi",
+    "lat": 41.04154911812346,
+    "lng": 28.907140892560975,
+    "listing_count": 9
+  },
+  {
+    "id": 103,
+    "district": "Bağcılar",
+    "neighborhood": "100. Yıl Mahallesi",
+    "lat": 41.0637771111593,
+    "lng": 28.852604169040905,
+    "listing_count": 32
+  },
+  {
+    "id": 125,
+    "district": "Bağcılar",
+    "neighborhood": "15 Temmuz Mahallesi",
+    "lat": 41.037788060612385,
+    "lng": 28.81937630001736,
+    "listing_count": 43
+  },
+  {
+    "id": 29,
+    "district": "Bağcılar",
+    "neighborhood": "Barbaros Mahallesi",
+    "lat": 41.02512063649671,
+    "lng": 28.839159779746833,
+    "listing_count": 18
+  },
+  {
+    "id": 259,
+    "district": "Bağcılar",
+    "neighborhood": "Bağlar Mahallesi",
+    "lat": 41.02293500633378,
+    "lng": 28.824773144243245,
+    "listing_count": 34
+  },
+  {
+    "id": 40,
+    "district": "Bağcılar",
+    "neighborhood": "Demirkapı Mahallesi",
+    "lat": 41.04942756973208,
+    "lng": 28.836748093143502,
+    "listing_count": 38
+  },
+  {
+    "id": 409,
+    "district": "Bağcılar",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 41.05167029575168,
+    "lng": 28.8452218874033,
+    "listing_count": 17
+  },
+  {
+    "id": 374,
+    "district": "Bağcılar",
+    "neighborhood": "Fevzi Çakmak Mahallesi",
+    "lat": 41.04610369978811,
+    "lng": 28.85528805199941,
+    "listing_count": 34
+  },
+  {
+    "id": 375,
+    "district": "Bağcılar",
+    "neighborhood": "Göztepe Mahallesi",
+    "lat": 41.0603114887525,
+    "lng": 28.835619560513905,
+    "listing_count": 22
+  },
+  {
+    "id": 343,
+    "district": "Bağcılar",
+    "neighborhood": "Güneşli Mahallesi",
+    "lat": 41.032896261739936,
+    "lng": 28.830433303391764,
+    "listing_count": 33
+  },
+  {
+    "id": 168,
+    "district": "Bağcılar",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 41.028397859088216,
+    "lng": 28.830600075836887,
+    "listing_count": 12
+  },
+  {
+    "id": 95,
+    "district": "Bağcılar",
+    "neighborhood": "Kazım Karabekir Mahallesi",
+    "lat": 41.02577770051508,
+    "lng": 28.845354337807116,
+    "listing_count": 9
+  },
+  {
+    "id": 78,
+    "district": "Bağcılar",
+    "neighborhood": "Kemalpaşa Mahallesi",
+    "lat": 41.05083339767877,
+    "lng": 28.851596089973384,
+    "listing_count": 18
+  },
+  {
+    "id": 302,
+    "district": "Bağcılar",
+    "neighborhood": "Kirazlı Mahallesi",
+    "lat": 41.03445661432521,
+    "lng": 28.836651225384045,
+    "listing_count": 32
+  },
+  {
+    "id": 174,
+    "district": "Bağcılar",
+    "neighborhood": "Mahmutbey Mahallesi",
+    "lat": 41.05612283993699,
+    "lng": 28.82431650817427,
+    "listing_count": 29
+  },
+  {
+    "id": 526,
+    "district": "Bağcılar",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.03173661709215,
+    "lng": 28.86264454666863,
+    "listing_count": 8
+  },
+  {
+    "id": 76,
+    "district": "Bağcılar",
+    "neighborhood": "Sancaktepe Mahallesi",
+    "lat": 41.0364914513847,
+    "lng": 28.857071181492906,
+    "listing_count": 17
+  },
+  {
+    "id": 41,
+    "district": "Bağcılar",
+    "neighborhood": "Yavuz Selim Mahallesi",
+    "lat": 41.03549527118129,
+    "lng": 28.85190239467625,
+    "listing_count": 18
+  },
+  {
+    "id": 132,
+    "district": "Bağcılar",
+    "neighborhood": "Yenigün Mahallesi",
+    "lat": 41.022141029308514,
+    "lng": 28.85938435428187,
+    "listing_count": 7
+  },
+  {
+    "id": 135,
+    "district": "Bağcılar",
+    "neighborhood": "Yenimahalle Mahallesi",
+    "lat": 41.04134522920453,
+    "lng": 28.840026816321565,
+    "listing_count": 26
+  },
+  {
+    "id": 72,
+    "district": "Bağcılar",
+    "neighborhood": "Yıldıztepe Mahallesi",
+    "lat": 41.02613177450318,
+    "lng": 28.855655384492806,
+    "listing_count": 34
+  },
+  {
+    "id": 27,
+    "district": "Bağcılar",
+    "neighborhood": "Çınar Mahallesi",
+    "lat": 41.03663599890628,
+    "lng": 28.860589986223854,
+    "listing_count": 29
+  },
+  {
+    "id": 83,
+    "district": "Bağcılar",
+    "neighborhood": "İnönü Mahallesi",
+    "lat": 41.03320206263297,
+    "lng": 28.85318180769875,
+    "listing_count": 8
+  },
+  {
+    "id": 182,
+    "district": "Başakşehir",
+    "neighborhood": "Altınşehir Mahallesi",
+    "lat": 41.0689245719033,
+    "lng": 28.752916830218275,
+    "listing_count": 66
+  },
+  {
+    "id": 273,
+    "district": "Başakşehir",
+    "neighborhood": "Bahçeşehir 1. Kısım Mahallesi",
+    "lat": 41.063631841181405,
+    "lng": 28.691189035527735,
+    "listing_count": 46
+  },
+  {
+    "id": 68,
+    "district": "Başakşehir",
+    "neighborhood": "Bahçeşehir 2. Kısım Mahallesi",
+    "lat": 41.06644773996869,
+    "lng": 28.678106794961806,
+    "listing_count": 298
+  },
+  {
+    "id": 261,
+    "district": "Başakşehir",
+    "neighborhood": "Başak Mahallesi",
+    "lat": 41.10389956246802,
+    "lng": 28.803352888705334,
+    "listing_count": 21
+  },
+  {
+    "id": 496,
+    "district": "Başakşehir",
+    "neighborhood": "Başakşehir Mahallesi",
+    "lat": 41.10631815291371,
+    "lng": 28.79078890152043,
+    "listing_count": 72
+  },
+  {
+    "id": 81,
+    "district": "Başakşehir",
+    "neighborhood": "Güvercintepe Mahallesi",
+    "lat": 41.077129445018564,
+    "lng": 28.751924477406803,
+    "listing_count": 226
+  },
+  {
+    "id": 232,
+    "district": "Başakşehir",
+    "neighborhood": "Kayabaşı Mahallesi",
+    "lat": 41.111146142303326,
+    "lng": 28.742730546903772,
+    "listing_count": 150
+  },
+  {
+    "id": 402,
+    "district": "Başakşehir",
+    "neighborhood": "Ziya Gökalp Mahallesi",
+    "lat": 41.07514426560378,
+    "lng": 28.787762478850183,
+    "listing_count": 21
+  },
+  {
+    "id": 692,
+    "district": "Başakşehir",
+    "neighborhood": "Şahintepe Mahallesi",
+    "lat": 41.07342887235206,
+    "lng": 28.725978931836565,
+    "listing_count": 3
+  },
+  {
+    "id": 629,
+    "district": "Başakşehir",
+    "neighborhood": "Şamlar Mahallesi",
+    "lat": 41.125119538160504,
+    "lng": 28.739047013296346,
+    "listing_count": 5
+  },
+  {
+    "id": 627,
+    "district": "Beykoz",
+    "neighborhood": "Acarlar Mahallesi",
+    "lat": 41.11234711294704,
+    "lng": 29.127499508159964,
+    "listing_count": 8
+  },
+  {
+    "id": 579,
+    "district": "Beykoz",
+    "neighborhood": "Anadolu Hisarı Mahallesi",
+    "lat": 41.08544861537017,
+    "lng": 29.067809801154272,
+    "listing_count": 1
+  },
+  {
+    "id": 490,
+    "district": "Beykoz",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 41.09149061581775,
+    "lng": 29.124107785247052,
+    "listing_count": 2
+  },
+  {
+    "id": 580,
+    "district": "Beykoz",
+    "neighborhood": "Görele Mahallesi",
+    "lat": 41.11512081272162,
+    "lng": 29.149241480069193,
+    "listing_count": 1
+  },
+  {
+    "id": 451,
+    "district": "Beykoz",
+    "neighborhood": "Göztepe Mahallesi",
+    "lat": 41.0792668556482,
+    "lng": 29.078800950777563,
+    "listing_count": 2
+  },
+  {
+    "id": 425,
+    "district": "Beykoz",
+    "neighborhood": "Kavacık Mahallesi",
+    "lat": 41.09276484021056,
+    "lng": 29.086002491362997,
+    "listing_count": 21
+  },
+  {
+    "id": 367,
+    "district": "Beykoz",
+    "neighborhood": "Ortaçeşme Mahallesi",
+    "lat": 41.14714583269511,
+    "lng": 29.087970024321308,
+    "listing_count": 2
+  },
+  {
+    "id": 403,
+    "district": "Beykoz",
+    "neighborhood": "Rüzgarlıbahçe Mahallesi",
+    "lat": 41.094655374810074,
+    "lng": 29.097348545622296,
+    "listing_count": 2
+  },
+  {
+    "id": 603,
+    "district": "Beykoz",
+    "neighborhood": "Soğuksu Mahallesi",
+    "lat": 41.11281333540067,
+    "lng": 29.107493627380954,
+    "listing_count": 15
+  },
+  {
+    "id": 590,
+    "district": "Beykoz",
+    "neighborhood": "Tokatköy Mahallesi",
+    "lat": 41.15077591717032,
+    "lng": 29.090685432140837,
+    "listing_count": 5
+  },
+  {
+    "id": 547,
+    "district": "Beykoz",
+    "neighborhood": "Yalıköy Mahallesi",
+    "lat": 41.13955566074145,
+    "lng": 29.08669747230383,
+    "listing_count": 1
+  },
+  {
+    "id": 487,
+    "district": "Beykoz",
+    "neighborhood": "Yavuz Selim Mahallesi",
+    "lat": 41.082896284156796,
+    "lng": 29.157826144408812,
+    "listing_count": 1
+  },
+  {
+    "id": 600,
+    "district": "Beykoz",
+    "neighborhood": "Çamlıbahçe Mahallesi",
+    "lat": 41.14634504194344,
+    "lng": 29.084244187006824,
+    "listing_count": 1
+  },
+  {
+    "id": 446,
+    "district": "Beykoz",
+    "neighborhood": "Çubuklu Mahallesi",
+    "lat": 41.107666581824546,
+    "lng": 29.082100211089973,
+    "listing_count": 5
+  },
+  {
+    "id": 109,
+    "district": "Beylikdüzü",
+    "neighborhood": "Adnan Kahveci Mahallesi",
+    "lat": 40.99488497201024,
+    "lng": 28.624987531578128,
+    "listing_count": 294
+  },
+  {
+    "id": 140,
+    "district": "Beylikdüzü",
+    "neighborhood": "Barış Mahallesi",
+    "lat": 40.9989105353965,
+    "lng": 28.652180425516335,
+    "listing_count": 113
+  },
+  {
+    "id": 4,
+    "district": "Beylikdüzü",
+    "neighborhood": "Beylikdüzüosb Mahallesi",
+    "lat": 40.99226995195784,
+    "lng": 28.661470804890495,
+    "listing_count": 97
+  },
+  {
+    "id": 55,
+    "district": "Beylikdüzü",
+    "neighborhood": "Büyükşehir Mahallesi",
+    "lat": 41.00910214600212,
+    "lng": 28.64716729376031,
+    "listing_count": 20
+  },
+  {
+    "id": 8,
+    "district": "Beylikdüzü",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.00983762463079,
+    "lng": 28.641238888069317,
+    "listing_count": 310
+  },
+  {
+    "id": 358,
+    "district": "Beylikdüzü",
+    "neighborhood": "Dereağzı Mahallesi",
+    "lat": 40.98620681440815,
+    "lng": 28.616471434081465,
+    "listing_count": 41
+  },
+  {
+    "id": 236,
+    "district": "Beylikdüzü",
+    "neighborhood": "Gürpınar Mahallesi",
+    "lat": 40.989481349151,
+    "lng": 28.61092740353531,
+    "listing_count": 40
+  },
+  {
+    "id": 165,
+    "district": "Beylikdüzü",
+    "neighborhood": "Kavaklı Mahallesi",
+    "lat": 40.98197400018295,
+    "lng": 28.640280511433478,
+    "listing_count": 236
+  },
+  {
+    "id": 435,
+    "district": "Beylikdüzü",
+    "neighborhood": "Marmara Mahallesi",
+    "lat": 40.9822331376239,
+    "lng": 28.672286344975802,
+    "listing_count": 51
+  },
+  {
+    "id": 369,
+    "district": "Beylikdüzü",
+    "neighborhood": "Sahil Mahallesi",
+    "lat": 40.97075890696204,
+    "lng": 28.648659868233537,
+    "listing_count": 22
+  },
+  {
+    "id": 15,
+    "district": "Beylikdüzü",
+    "neighborhood": "Yakuplu Mahallesi",
+    "lat": 40.99025479115762,
+    "lng": 28.669968988286165,
+    "listing_count": 351
+  },
+  {
+    "id": 651,
+    "district": "Beyoğlu",
+    "neighborhood": "Bereketzade Mahallesi",
+    "lat": 41.023911057357324,
+    "lng": 28.970970613887097,
+    "listing_count": 1
+  },
+  {
+    "id": 691,
+    "district": "Beyoğlu",
+    "neighborhood": "Bostan Mahallesi",
+    "lat": 41.04013086731889,
+    "lng": 28.97747544801177,
+    "listing_count": 1
+  },
+  {
+    "id": 91,
+    "district": "Beyoğlu",
+    "neighborhood": "Camiikebir Mahallesi",
+    "lat": 41.033111758410264,
+    "lng": 28.955853028893475,
+    "listing_count": 1
+  },
+  {
+    "id": 619,
+    "district": "Beyoğlu",
+    "neighborhood": "Cihangir Mahallesi",
+    "lat": 41.034258989710565,
+    "lng": 28.986235639913367,
+    "listing_count": 2
+  },
+  {
+    "id": 633,
+    "district": "Beyoğlu",
+    "neighborhood": "Fetihtepe Mahallesi",
+    "lat": 41.04771058047236,
+    "lng": 28.955666525295346,
+    "listing_count": 7
+  },
+  {
+    "id": 216,
+    "district": "Beyoğlu",
+    "neighborhood": "Firuzağa Mahallesi",
+    "lat": 41.03109568595507,
+    "lng": 28.98143811154975,
+    "listing_count": 3
+  },
+  {
+    "id": 525,
+    "district": "Beyoğlu",
+    "neighborhood": "Gümüşsuyu Mahallesi",
+    "lat": 41.037410910499545,
+    "lng": 28.987775733194255,
+    "listing_count": 3
+  },
+  {
+    "id": 160,
+    "district": "Beyoğlu",
+    "neighborhood": "Hacıahmet Mahallesi",
+    "lat": 41.04198487439666,
+    "lng": 28.97372814942957,
+    "listing_count": 21
+  },
+  {
+    "id": 621,
+    "district": "Beyoğlu",
+    "neighborhood": "Hacımimi Mahallesi",
+    "lat": 41.02720515900782,
+    "lng": 28.979464083879463,
+    "listing_count": 2
+  },
+  {
+    "id": 548,
+    "district": "Beyoğlu",
+    "neighborhood": "Halıcıoğlu Mahallesi",
+    "lat": 41.04808366879282,
+    "lng": 28.949798039399997,
+    "listing_count": 6
+  },
+  {
+    "id": 347,
+    "district": "Beyoğlu",
+    "neighborhood": "Kadımehmet Efendi Mahallesi",
+    "lat": 41.033826929517765,
+    "lng": 28.96407028477118,
+    "listing_count": 8
+  },
+  {
+    "id": 644,
+    "district": "Beyoğlu",
+    "neighborhood": "Kalyoncu Kulluğu Mahallesi",
+    "lat": 41.03486539182083,
+    "lng": 28.973901497766704,
+    "listing_count": 2
+  },
+  {
+    "id": 689,
+    "district": "Beyoğlu",
+    "neighborhood": "Kamer Hatun Mahallesi",
+    "lat": 41.03513087822443,
+    "lng": 28.97504510670932,
+    "listing_count": 1
+  },
+  {
+    "id": 657,
+    "district": "Beyoğlu",
+    "neighborhood": "Kaptanpaşa Mahallesi",
+    "lat": 41.041501911985534,
+    "lng": 28.963714416079387,
+    "listing_count": 3
+  },
+  {
+    "id": 585,
+    "district": "Beyoğlu",
+    "neighborhood": "Katipmustafa Çelebi Mahallesi",
+    "lat": 41.03214983049066,
+    "lng": 28.984791564176767,
+    "listing_count": 1
+  },
+  {
+    "id": 659,
+    "district": "Beyoğlu",
+    "neighborhood": "Keçeci Piri Mahallesi",
+    "lat": 41.0402115438529,
+    "lng": 28.95626317367624,
+    "listing_count": 7
+  },
+  {
+    "id": 561,
+    "district": "Beyoğlu",
+    "neighborhood": "Kocatepe Mahallesi",
+    "lat": 41.038389036640595,
+    "lng": 28.98435998017134,
+    "listing_count": 2
+  },
+  {
+    "id": 656,
+    "district": "Beyoğlu",
+    "neighborhood": "Kulaksız Mahallesi",
+    "lat": 41.035516360997626,
+    "lng": 28.959342177086164,
+    "listing_count": 1
+  },
+  {
+    "id": 615,
+    "district": "Beyoğlu",
+    "neighborhood": "Kuloğlu Mahallesi",
+    "lat": 41.03187536508834,
+    "lng": 28.981258747077213,
+    "listing_count": 2
+  },
+  {
+    "id": 527,
+    "district": "Beyoğlu",
+    "neighborhood": "Küçük Piyale Mahallesi",
+    "lat": 41.03705334707414,
+    "lng": 28.966210493212245,
+    "listing_count": 6
+  },
+  {
+    "id": 572,
+    "district": "Beyoğlu",
+    "neighborhood": "Kılıçali Paşa Mahallesi",
+    "lat": 41.02826782315283,
+    "lng": 28.985595285183237,
+    "listing_count": 2
+  },
+  {
+    "id": 614,
+    "district": "Beyoğlu",
+    "neighborhood": "Piripaşa Mahallesi",
+    "lat": 41.04858940368803,
+    "lng": 28.959262188413955,
+    "listing_count": 6
+  },
+  {
+    "id": 658,
+    "district": "Beyoğlu",
+    "neighborhood": "Piyalepaşa Mahallesi",
+    "lat": 41.0465783685367,
+    "lng": 28.960286717841306,
+    "listing_count": 2
+  },
+  {
+    "id": 609,
+    "district": "Beyoğlu",
+    "neighborhood": "Pürtelaş Hasan Efendi Mahallesi",
+    "lat": 41.02843636665128,
+    "lng": 28.98757592860555,
+    "listing_count": 2
+  },
+  {
+    "id": 680,
+    "district": "Beyoğlu",
+    "neighborhood": "Sururi Mehmet Efendi Mahallesi",
+    "lat": 41.03825407566576,
+    "lng": 28.971716489661194,
+    "listing_count": 2
+  },
+  {
+    "id": 430,
+    "district": "Beyoğlu",
+    "neighborhood": "Sütlüce Mahallesi",
+    "lat": 41.05080423501271,
+    "lng": 28.944214273774374,
+    "listing_count": 11
+  },
+  {
+    "id": 588,
+    "district": "Beyoğlu",
+    "neighborhood": "Tomtom Mahallesi",
+    "lat": 41.02886249548276,
+    "lng": 28.97820795151512,
+    "listing_count": 2
+  },
+  {
+    "id": 144,
+    "district": "Beyoğlu",
+    "neighborhood": "Yenişehir Mahallesi",
+    "lat": 41.04243190310557,
+    "lng": 28.978519541260663,
+    "listing_count": 10
+  },
+  {
+    "id": 660,
+    "district": "Beyoğlu",
+    "neighborhood": "Çukur Mahallesi",
+    "lat": 41.03980162280678,
+    "lng": 28.979177049701036,
+    "listing_count": 1
+  },
+  {
+    "id": 564,
+    "district": "Beyoğlu",
+    "neighborhood": "Ömer Avni Mahallesi",
+    "lat": 41.03569689187023,
+    "lng": 28.992236738047644,
+    "listing_count": 4
+  },
+  {
+    "id": 438,
+    "district": "Beyoğlu",
+    "neighborhood": "Örnektepe Mahallesi",
+    "lat": 41.057642317908034,
+    "lng": 28.951914787602355,
+    "listing_count": 13
+  },
+  {
+    "id": 647,
+    "district": "Beyoğlu",
+    "neighborhood": "İstiklal Mahallesi",
+    "lat": 41.04261751688794,
+    "lng": 28.969583085689113,
+    "listing_count": 3
+  },
+  {
+    "id": 610,
+    "district": "Beyoğlu",
+    "neighborhood": "Şahkulu Mahallesi",
+    "lat": 41.028234154015465,
+    "lng": 28.976549622101047,
+    "listing_count": 1
+  },
+  {
+    "id": 605,
+    "district": "Beyoğlu",
+    "neighborhood": "Şehit Muhtar Mahallesi",
+    "lat": 41.03648993043972,
+    "lng": 28.982524145390897,
+    "listing_count": 3
+  },
+  {
+    "id": 551,
+    "district": "Beşiktaş",
+    "neighborhood": "Abbasağa Mahallesi",
+    "lat": 41.050286283762624,
+    "lng": 29.00626854813596,
+    "listing_count": 5
+  },
+  {
+    "id": 652,
+    "district": "Beşiktaş",
+    "neighborhood": "Akat Mahallesi",
+    "lat": 41.087539865958334,
+    "lng": 29.027696854494078,
+    "listing_count": 1
+  },
+  {
+    "id": 639,
+    "district": "Beşiktaş",
+    "neighborhood": "Arnavutköy Mahallesi",
+    "lat": 41.068858832986734,
+    "lng": 29.043312536962347,
+    "listing_count": 2
+  },
+  {
+    "id": 536,
+    "district": "Beşiktaş",
+    "neighborhood": "Cihannüma Mahallesi",
+    "lat": 41.0466416342437,
+    "lng": 29.008688196284464,
+    "listing_count": 8
+  },
+  {
+    "id": 406,
+    "district": "Beşiktaş",
+    "neighborhood": "Dikilitaş Mahallesi",
+    "lat": 41.05542939562032,
+    "lng": 29.00466238697122,
+    "listing_count": 37
+  },
+  {
+    "id": 637,
+    "district": "Beşiktaş",
+    "neighborhood": "Gayrettepe Mahallesi",
+    "lat": 41.062749188030836,
+    "lng": 29.006466765764745,
+    "listing_count": 4
+  },
+  {
+    "id": 648,
+    "district": "Beşiktaş",
+    "neighborhood": "Levazım Mahallesi",
+    "lat": 41.06442493353237,
+    "lng": 29.018265963768815,
+    "listing_count": 1
+  },
+  {
+    "id": 355,
+    "district": "Beşiktaş",
+    "neighborhood": "Mecidiye Mahallesi",
+    "lat": 41.05152915044773,
+    "lng": 29.020242944287475,
+    "listing_count": 12
+  },
+  {
+    "id": 631,
+    "district": "Beşiktaş",
+    "neighborhood": "Muradiye Mahallesi",
+    "lat": 41.04755533534193,
+    "lng": 28.999820794439454,
+    "listing_count": 3
+  },
+  {
+    "id": 531,
+    "district": "Beşiktaş",
+    "neighborhood": "Ortaköy Mahallesi",
+    "lat": 41.054434195099766,
+    "lng": 29.027908059210922,
+    "listing_count": 7
+  },
+  {
+    "id": 362,
+    "district": "Beşiktaş",
+    "neighborhood": "Sinanpaşa Mahallesi",
+    "lat": 41.04399734192183,
+    "lng": 29.00472087633531,
+    "listing_count": 3
+  },
+  {
+    "id": 517,
+    "district": "Beşiktaş",
+    "neighborhood": "Türkali Mahallesi",
+    "lat": 41.04795355208948,
+    "lng": 29.001614607671133,
+    "listing_count": 9
+  },
+  {
+    "id": 596,
+    "district": "Beşiktaş",
+    "neighborhood": "Vişnezade Mahallesi",
+    "lat": 41.041759939562304,
+    "lng": 28.997908157392274,
+    "listing_count": 6
+  },
+  {
+    "id": 574,
+    "district": "Beşiktaş",
+    "neighborhood": "Yıldız Mahallesi",
+    "lat": 41.04784208096323,
+    "lng": 29.015178452089053,
+    "listing_count": 8
+  },
+  {
+    "id": 445,
+    "district": "Büyükçekmece",
+    "neighborhood": "19 Mayıs Mahallesi",
+    "lat": 41.02149106027269,
+    "lng": 28.581278741998904,
+    "listing_count": 10
+  },
+  {
+    "id": 253,
+    "district": "Büyükçekmece",
+    "neighborhood": "Alkent 2000 Mahallesi",
+    "lat": 41.077326116306075,
+    "lng": 28.61903965638021,
+    "listing_count": 9
+  },
+  {
+    "id": 327,
+    "district": "Büyükçekmece",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 41.01217962655702,
+    "lng": 28.600410716462118,
+    "listing_count": 99
+  },
+  {
+    "id": 442,
+    "district": "Büyükçekmece",
+    "neighborhood": "Celaliye Mahallesi",
+    "lat": 41.0516084757509,
+    "lng": 28.418734250919137,
+    "listing_count": 34
+  },
+  {
+    "id": 324,
+    "district": "Büyükçekmece",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.018682275348844,
+    "lng": 28.620385375617303,
+    "listing_count": 37
+  },
+  {
+    "id": 541,
+    "district": "Büyükçekmece",
+    "neighborhood": "Dizdariye Mahallesi",
+    "lat": 41.02023422237562,
+    "lng": 28.5786932092629,
+    "listing_count": 9
+  },
+  {
+    "id": 133,
+    "district": "Büyükçekmece",
+    "neighborhood": "Ekinoba Mahallesi",
+    "lat": 41.010227854369205,
+    "lng": 28.542083241179405,
+    "listing_count": 20
+  },
+  {
+    "id": 170,
+    "district": "Büyükçekmece",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 41.020475480968024,
+    "lng": 28.58603205040408,
+    "listing_count": 49
+  },
+  {
+    "id": 570,
+    "district": "Büyükçekmece",
+    "neighborhood": "Güzelce Mahallesi",
+    "lat": 40.99980023000824,
+    "lng": 28.511147883998888,
+    "listing_count": 3
+  },
+  {
+    "id": 661,
+    "district": "Büyükçekmece",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 41.031787241907345,
+    "lng": 28.54780682552471,
+    "listing_count": 7
+  },
+  {
+    "id": 14,
+    "district": "Büyükçekmece",
+    "neighborhood": "Kamiloba Mahallesi",
+    "lat": 41.04620995840827,
+    "lng": 28.43209934192983,
+    "listing_count": 32
+  },
+  {
+    "id": 6,
+    "district": "Büyükçekmece",
+    "neighborhood": "Kumburgaz Mahallesi",
+    "lat": 41.030941735739844,
+    "lng": 28.453655236234805,
+    "listing_count": 35
+  },
+  {
+    "id": 378,
+    "district": "Büyükçekmece",
+    "neighborhood": "Mimaroba Mahallesi",
+    "lat": 41.00458149258324,
+    "lng": 28.537127924750948,
+    "listing_count": 27
+  },
+  {
+    "id": 188,
+    "district": "Büyükçekmece",
+    "neighborhood": "Mimarsinan Mahallesi",
+    "lat": 41.016101264839186,
+    "lng": 28.560280135823213,
+    "listing_count": 16
+  },
+  {
+    "id": 501,
+    "district": "Büyükçekmece",
+    "neighborhood": "Murat Çesme Mahallesi",
+    "lat": 41.01795817621069,
+    "lng": 28.53990957145752,
+    "listing_count": 11
+  },
+  {
+    "id": 251,
+    "district": "Büyükçekmece",
+    "neighborhood": "Pınartepe Mahallesi",
+    "lat": 41.00307858883316,
+    "lng": 28.602037196167714,
+    "listing_count": 60
+  },
+  {
+    "id": 266,
+    "district": "Büyükçekmece",
+    "neighborhood": "Sinanoba Mahallesi",
+    "lat": 40.99696591843823,
+    "lng": 28.53643819687042,
+    "listing_count": 16
+  },
+  {
+    "id": 669,
+    "district": "Büyükçekmece",
+    "neighborhood": "Türkoba Mahallesi",
+    "lat": 41.032736172181465,
+    "lng": 28.52127193630903,
+    "listing_count": 1
+  },
+  {
+    "id": 190,
+    "district": "Büyükçekmece",
+    "neighborhood": "Ulus Mahallesi",
+    "lat": 41.03045949409551,
+    "lng": 28.549790988364606,
+    "listing_count": 5
+  },
+  {
+    "id": 474,
+    "district": "Büyükçekmece",
+    "neighborhood": "Yenimahalle Mahallesi",
+    "lat": 41.02087553736315,
+    "lng": 28.474488540602657,
+    "listing_count": 2
+  },
+  {
+    "id": 566,
+    "district": "Büyükçekmece",
+    "neighborhood": "Çakmaklı Mahallesi",
+    "lat": 41.05362915239857,
+    "lng": 28.623368664263594,
+    "listing_count": 13
+  },
+  {
+    "id": 454,
+    "district": "Esenler",
+    "neighborhood": "15 Temmuz Mahallesi",
+    "lat": 41.06207537355246,
+    "lng": 28.87782503735562,
+    "listing_count": 108
+  },
+  {
+    "id": 12,
+    "district": "Esenler",
+    "neighborhood": "Birlik Mahallesi",
+    "lat": 41.05201019871443,
+    "lng": 28.87168008223885,
+    "listing_count": 15
+  },
+  {
+    "id": 187,
+    "district": "Esenler",
+    "neighborhood": "Davutpaşa Mahallesi",
+    "lat": 41.031695464012735,
+    "lng": 28.890356613047018,
+    "listing_count": 8
+  },
+  {
+    "id": 34,
+    "district": "Esenler",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 41.04352696023641,
+    "lng": 28.86717854934327,
+    "listing_count": 76
+  },
+  {
+    "id": 3,
+    "district": "Esenler",
+    "neighborhood": "Fevzi Çakmak Mahallesi",
+    "lat": 41.039303571140216,
+    "lng": 28.882869150489324,
+    "listing_count": 21
+  },
+  {
+    "id": 382,
+    "district": "Esenler",
+    "neighborhood": "Havaalanı Mahallesi",
+    "lat": 41.055797617946,
+    "lng": 28.868873586757953,
+    "listing_count": 11
+  },
+  {
+    "id": 136,
+    "district": "Esenler",
+    "neighborhood": "Kazım Karabekir Mahallesi",
+    "lat": 41.04584512352652,
+    "lng": 28.873572299866634,
+    "listing_count": 21
+  },
+  {
+    "id": 546,
+    "district": "Esenler",
+    "neighborhood": "Kemer Mahallesi",
+    "lat": 41.051735035143466,
+    "lng": 28.876632637743427,
+    "listing_count": 5
+  },
+  {
+    "id": 50,
+    "district": "Esenler",
+    "neighborhood": "Menderes Mahallesi",
+    "lat": 41.03955581048485,
+    "lng": 28.88017085019323,
+    "listing_count": 18
+  },
+  {
+    "id": 557,
+    "district": "Esenler",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 41.03653735960007,
+    "lng": 28.884333623659575,
+    "listing_count": 3
+  },
+  {
+    "id": 134,
+    "district": "Esenler",
+    "neighborhood": "Namık Kemal Mahallesi",
+    "lat": 41.03017577782823,
+    "lng": 28.89657686757891,
+    "listing_count": 11
+  },
+  {
+    "id": 64,
+    "district": "Esenler",
+    "neighborhood": "Nine Hatun Mahallesi",
+    "lat": 41.03750924433748,
+    "lng": 28.880188018225024,
+    "listing_count": 43
+  },
+  {
+    "id": 146,
+    "district": "Esenler",
+    "neighborhood": "Oruçreis Mahallesi",
+    "lat": 41.05891643149366,
+    "lng": 28.85659494935883,
+    "listing_count": 15
+  },
+  {
+    "id": 126,
+    "district": "Esenler",
+    "neighborhood": "Tuna Mahallesi",
+    "lat": 41.05306203883599,
+    "lng": 28.85899309450793,
+    "listing_count": 58
+  },
+  {
+    "id": 108,
+    "district": "Esenler",
+    "neighborhood": "Turgut Reis Mahallesi",
+    "lat": 41.06149156438087,
+    "lng": 28.863888946609126,
+    "listing_count": 13
+  },
+  {
+    "id": 71,
+    "district": "Esenler",
+    "neighborhood": "Yavuz Selim Mahallesi",
+    "lat": 41.03487034158336,
+    "lng": 28.890980281296137,
+    "listing_count": 9
+  },
+  {
+    "id": 698,
+    "district": "Esenler",
+    "neighborhood": "Çifte Havuzlar Mahallesi",
+    "lat": 41.02717951100299,
+    "lng": 28.89771127488168,
+    "listing_count": 1
+  },
+  {
+    "id": 57,
+    "district": "Esenyurt",
+    "neighborhood": "Akevler Mahallesi",
+    "lat": 41.01904004080509,
+    "lng": 28.67671839633514,
+    "listing_count": 98
+  },
+  {
+    "id": 113,
+    "district": "Esenyurt",
+    "neighborhood": "Akçaburgaz Mahallesi",
+    "lat": 41.073595498475996,
+    "lng": 28.63360518846827,
+    "listing_count": 29
+  },
+  {
+    "id": 139,
+    "district": "Esenyurt",
+    "neighborhood": "Akşemseddin Mahallesi",
+    "lat": 41.01711524499177,
+    "lng": 28.693893782504354,
+    "listing_count": 14
+  },
+  {
+    "id": 84,
+    "district": "Esenyurt",
+    "neighborhood": "Ardıçlı Mahallesi",
+    "lat": 41.046033613813776,
+    "lng": 28.679689883840943,
+    "listing_count": 49
+  },
+  {
+    "id": 63,
+    "district": "Esenyurt",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 41.03791514275894,
+    "lng": 28.6364129355341,
+    "listing_count": 25
+  },
+  {
+    "id": 441,
+    "district": "Esenyurt",
+    "neighborhood": "Aşık Veysel Mahallesi",
+    "lat": 41.05831346909706,
+    "lng": 28.674329013995735,
+    "listing_count": 13
+  },
+  {
+    "id": 33,
+    "district": "Esenyurt",
+    "neighborhood": "Balıkyolu Mahallesi",
+    "lat": 41.03950089921704,
+    "lng": 28.69040875954687,
+    "listing_count": 33
+  },
+  {
+    "id": 16,
+    "district": "Esenyurt",
+    "neighborhood": "Barbaros Hayrettin Paşa Mahallesi",
+    "lat": 41.01823954101791,
+    "lng": 28.64184689537836,
+    "listing_count": 62
+  },
+  {
+    "id": 37,
+    "district": "Esenyurt",
+    "neighborhood": "Battalgazi Mahallesi",
+    "lat": 41.03974513472355,
+    "lng": 28.656131147252022,
+    "listing_count": 30
+  },
+  {
+    "id": 18,
+    "district": "Esenyurt",
+    "neighborhood": "Bağlarçeşme Mahallesi",
+    "lat": 41.03507077098589,
+    "lng": 28.676013249207905,
+    "listing_count": 91
+  },
+  {
+    "id": 24,
+    "district": "Esenyurt",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.016784335203695,
+    "lng": 28.648763128826943,
+    "listing_count": 156
+  },
+  {
+    "id": 387,
+    "district": "Esenyurt",
+    "neighborhood": "Esenkent Mahallesi",
+    "lat": 41.06054230637929,
+    "lng": 28.68044779515248,
+    "listing_count": 9
+  },
+  {
+    "id": 65,
+    "district": "Esenyurt",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 41.03034220810639,
+    "lng": 28.6743709641868,
+    "listing_count": 20
+  },
+  {
+    "id": 323,
+    "district": "Esenyurt",
+    "neighborhood": "Gökevler Mahallesi",
+    "lat": 41.02509042131129,
+    "lng": 28.633434310540817,
+    "listing_count": 31
+  },
+  {
+    "id": 2,
+    "district": "Esenyurt",
+    "neighborhood": "Güzelyurt Mahallesi",
+    "lat": 41.01067405190886,
+    "lng": 28.6655926163797,
+    "listing_count": 196
+  },
+  {
+    "id": 10,
+    "district": "Esenyurt",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 41.031464931143695,
+    "lng": 28.64683651423436,
+    "listing_count": 57
+  },
+  {
+    "id": 17,
+    "district": "Esenyurt",
+    "neighborhood": "Koza Mahallesi",
+    "lat": 41.06476217542251,
+    "lng": 28.664974497607727,
+    "listing_count": 28
+  },
+  {
+    "id": 86,
+    "district": "Esenyurt",
+    "neighborhood": "Mehmet Akif Ersoy Mahallesi",
+    "lat": 41.013899508443416,
+    "lng": 28.666775556701683,
+    "listing_count": 123
+  },
+  {
+    "id": 36,
+    "district": "Esenyurt",
+    "neighborhood": "Mehterçeşme Mahallesi",
+    "lat": 41.018535021700245,
+    "lng": 28.662961490461168,
+    "listing_count": 221
+  },
+  {
+    "id": 5,
+    "district": "Esenyurt",
+    "neighborhood": "Mevlana Mahallesi",
+    "lat": 41.01198476671246,
+    "lng": 28.65708035338387,
+    "listing_count": 23
+  },
+  {
+    "id": 100,
+    "district": "Esenyurt",
+    "neighborhood": "Namık Kemal Mahallesi",
+    "lat": 41.01043184946981,
+    "lng": 28.693521793350378,
+    "listing_count": 45
+  },
+  {
+    "id": 25,
+    "district": "Esenyurt",
+    "neighborhood": "Necip Fazıl Kısakürek Mahallesi",
+    "lat": 41.030913304694984,
+    "lng": 28.652507130252577,
+    "listing_count": 63
+  },
+  {
+    "id": 105,
+    "district": "Esenyurt",
+    "neighborhood": "Orhan Gazi Mahallesi",
+    "lat": 41.07088261469308,
+    "lng": 28.654160942465445,
+    "listing_count": 52
+  },
+  {
+    "id": 43,
+    "district": "Esenyurt",
+    "neighborhood": "Osmangazi Mahallesi",
+    "lat": 41.04191688363974,
+    "lng": 28.64552272513396,
+    "listing_count": 25
+  },
+  {
+    "id": 60,
+    "district": "Esenyurt",
+    "neighborhood": "Piri Reis Mahallesi",
+    "lat": 41.0198765512408,
+    "lng": 28.6477713169283,
+    "listing_count": 71
+  },
+  {
+    "id": 22,
+    "district": "Esenyurt",
+    "neighborhood": "Pınar Mahallesi",
+    "lat": 41.0335830510539,
+    "lng": 28.665536629105976,
+    "listing_count": 109
+  },
+  {
+    "id": 54,
+    "district": "Esenyurt",
+    "neighborhood": "Saadetdere Mahallesi",
+    "lat": 41.008348259284446,
+    "lng": 28.697751255361784,
+    "listing_count": 53
+  },
+  {
+    "id": 35,
+    "district": "Esenyurt",
+    "neighborhood": "Selahaddin Eyyubi Mahallesi",
+    "lat": 41.04491939698493,
+    "lng": 28.66226789811397,
+    "listing_count": 55
+  },
+  {
+    "id": 11,
+    "district": "Esenyurt",
+    "neighborhood": "Sultaniye Mahallesi",
+    "lat": 41.03393604072504,
+    "lng": 28.682618989257794,
+    "listing_count": 65
+  },
+  {
+    "id": 30,
+    "district": "Esenyurt",
+    "neighborhood": "Süleymaniye Mahallesi",
+    "lat": 41.04425407848288,
+    "lng": 28.680861839197608,
+    "listing_count": 48
+  },
+  {
+    "id": 45,
+    "district": "Esenyurt",
+    "neighborhood": "Talatpaşa Mahallesi",
+    "lat": 41.022924336891016,
+    "lng": 28.6719640227642,
+    "listing_count": 105
+  },
+  {
+    "id": 85,
+    "district": "Esenyurt",
+    "neighborhood": "Turgut Özal Mahallesi",
+    "lat": 41.00454686533086,
+    "lng": 28.69401745089957,
+    "listing_count": 49
+  },
+  {
+    "id": 42,
+    "district": "Esenyurt",
+    "neighborhood": "Yenikent Mahallesi",
+    "lat": 41.03656071459195,
+    "lng": 28.680816690549662,
+    "listing_count": 51
+  },
+  {
+    "id": 7,
+    "district": "Esenyurt",
+    "neighborhood": "Yeşilkent Mahallesi",
+    "lat": 41.026546287138515,
+    "lng": 28.663684090529888,
+    "listing_count": 171
+  },
+  {
+    "id": 69,
+    "district": "Esenyurt",
+    "neighborhood": "Yunus Emre Mahallesi",
+    "lat": 41.02848115459111,
+    "lng": 28.69363335679672,
+    "listing_count": 28
+  },
+  {
+    "id": 52,
+    "district": "Esenyurt",
+    "neighborhood": "Zafer Mahallesi",
+    "lat": 41.01775404511801,
+    "lng": 28.685673971964494,
+    "listing_count": 73
+  },
+  {
+    "id": 23,
+    "district": "Esenyurt",
+    "neighborhood": "Çınar Mahallesi",
+    "lat": 41.04109726611902,
+    "lng": 28.664156561455826,
+    "listing_count": 79
+  },
+  {
+    "id": 21,
+    "district": "Esenyurt",
+    "neighborhood": "Örnek Mahallesi",
+    "lat": 41.04491074174698,
+    "lng": 28.670454299291386,
+    "listing_count": 53
+  },
+  {
+    "id": 19,
+    "district": "Esenyurt",
+    "neighborhood": "Üçevler Mahallesi",
+    "lat": 41.02662991733863,
+    "lng": 28.680154087864405,
+    "listing_count": 112
+  },
+  {
+    "id": 56,
+    "district": "Esenyurt",
+    "neighborhood": "İncirtepe Mahallesi",
+    "lat": 41.020945990642936,
+    "lng": 28.690805640378404,
+    "listing_count": 49
+  },
+  {
+    "id": 28,
+    "district": "Esenyurt",
+    "neighborhood": "İnönü Mahallesi",
+    "lat": 41.02710654827604,
+    "lng": 28.686600854740394,
+    "listing_count": 67
+  },
+  {
+    "id": 61,
+    "district": "Esenyurt",
+    "neighborhood": "İstiklal Mahallesi",
+    "lat": 41.036687559521965,
+    "lng": 28.649254555557206,
+    "listing_count": 20
+  },
+  {
+    "id": 20,
+    "district": "Esenyurt",
+    "neighborhood": "Şehitler Mahallesi",
+    "lat": 41.03303721579013,
+    "lng": 28.654784222002466,
+    "listing_count": 23
+  },
+  {
+    "id": 499,
+    "district": "Eyüpsultan",
+    "neighborhood": "5.levent Mahallesi",
+    "lat": 41.08977006495516,
+    "lng": 28.94500027196878,
+    "listing_count": 8
+  },
+  {
+    "id": 509,
+    "district": "Eyüpsultan",
+    "neighborhood": "Akşemsettin Mahallesi",
+    "lat": 41.08470970081486,
+    "lng": 28.927681995956167,
+    "listing_count": 25
+  },
+  {
+    "id": 252,
+    "district": "Eyüpsultan",
+    "neighborhood": "Alibeyköy Mahallesi",
+    "lat": 41.07707641731665,
+    "lng": 28.94724240494544,
+    "listing_count": 33
+  },
+  {
+    "id": 482,
+    "district": "Eyüpsultan",
+    "neighborhood": "Defterdar Mahallesi",
+    "lat": 41.03622834099505,
+    "lng": 28.93463363421872,
+    "listing_count": 4
+  },
+  {
+    "id": 289,
+    "district": "Eyüpsultan",
+    "neighborhood": "Düğmeciler Mahallesi",
+    "lat": 41.04694054880736,
+    "lng": 28.925660535753632,
+    "listing_count": 20
+  },
+  {
+    "id": 335,
+    "district": "Eyüpsultan",
+    "neighborhood": "Emniyettepe Mahallesi",
+    "lat": 41.069883745512314,
+    "lng": 28.949655834891164,
+    "listing_count": 8
+  },
+  {
+    "id": 127,
+    "district": "Eyüpsultan",
+    "neighborhood": "Esentepe Mahallesi",
+    "lat": 41.068559979009706,
+    "lng": 28.939380461919228,
+    "listing_count": 34
+  },
+  {
+    "id": 493,
+    "district": "Eyüpsultan",
+    "neighborhood": "Göktürk Merkez Mahallesi",
+    "lat": 41.178934678313425,
+    "lng": 28.89094976641776,
+    "listing_count": 38
+  },
+  {
+    "id": 214,
+    "district": "Eyüpsultan",
+    "neighborhood": "Güzeltepe Mahallesi",
+    "lat": 41.074440699330104,
+    "lng": 28.953350212864752,
+    "listing_count": 38
+  },
+  {
+    "id": 203,
+    "district": "Eyüpsultan",
+    "neighborhood": "Karadolap Mahallesi",
+    "lat": 41.074896440457664,
+    "lng": 28.934152515834644,
+    "listing_count": 33
+  },
+  {
+    "id": 222,
+    "district": "Eyüpsultan",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.047358116922986,
+    "lng": 28.935307661387668,
+    "listing_count": 12
+  },
+  {
+    "id": 612,
+    "district": "Eyüpsultan",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 41.157318766696164,
+    "lng": 28.9137248313871,
+    "listing_count": 1
+  },
+  {
+    "id": 444,
+    "district": "Eyüpsultan",
+    "neighborhood": "Mithatpaşa Mahallesi",
+    "lat": 41.16044077408274,
+    "lng": 28.91346731800723,
+    "listing_count": 18
+  },
+  {
+    "id": 31,
+    "district": "Eyüpsultan",
+    "neighborhood": "Nişancı Mahallesi",
+    "lat": 41.04361509002059,
+    "lng": 28.935972621721444,
+    "listing_count": 15
+  },
+  {
+    "id": 74,
+    "district": "Eyüpsultan",
+    "neighborhood": "Rami Cuma Mahallesi",
+    "lat": 41.04956270171356,
+    "lng": 28.921482788788303,
+    "listing_count": 33
+  },
+  {
+    "id": 88,
+    "district": "Eyüpsultan",
+    "neighborhood": "Rami Yeni Mahallesi",
+    "lat": 41.05136630188497,
+    "lng": 28.917661139976204,
+    "listing_count": 36
+  },
+  {
+    "id": 179,
+    "district": "Eyüpsultan",
+    "neighborhood": "Sakarya Mahallesi",
+    "lat": 41.064229444357615,
+    "lng": 28.940622904559,
+    "listing_count": 10
+  },
+  {
+    "id": 309,
+    "district": "Eyüpsultan",
+    "neighborhood": "Silahtarağa Mahallesi",
+    "lat": 41.061426430887686,
+    "lng": 28.940896753571312,
+    "listing_count": 18
+  },
+  {
+    "id": 381,
+    "district": "Eyüpsultan",
+    "neighborhood": "Topçular Mahallesi",
+    "lat": 41.04078127782553,
+    "lng": 28.925995391329703,
+    "listing_count": 8
+  },
+  {
+    "id": 475,
+    "district": "Eyüpsultan",
+    "neighborhood": "Yeşilpınar Mahallesi",
+    "lat": 41.07847293339984,
+    "lng": 28.919513264593466,
+    "listing_count": 32
+  },
+  {
+    "id": 191,
+    "district": "Eyüpsultan",
+    "neighborhood": "Çırçır Mahallesi",
+    "lat": 41.07992456435017,
+    "lng": 28.938840092362206,
+    "listing_count": 32
+  },
+  {
+    "id": 184,
+    "district": "Eyüpsultan",
+    "neighborhood": "İslambey Mahallesi",
+    "lat": 41.04671812140496,
+    "lng": 28.931160003691208,
+    "listing_count": 54
+  },
+  {
+    "id": 512,
+    "district": "Fatih",
+    "neighborhood": "Aksaray Mahallesi",
+    "lat": 41.00749207868192,
+    "lng": 28.950146061381517,
+    "listing_count": 13
+  },
+  {
+    "id": 114,
+    "district": "Fatih",
+    "neighborhood": "Akşemsettin Mahallesi",
+    "lat": 41.019128867275526,
+    "lng": 28.94577088217754,
+    "listing_count": 18
+  },
+  {
+    "id": 545,
+    "district": "Fatih",
+    "neighborhood": "Ali Kuşçu Mahallesi",
+    "lat": 41.02048418927355,
+    "lng": 28.948469715708217,
+    "listing_count": 6
+  },
+  {
+    "id": 416,
+    "district": "Fatih",
+    "neighborhood": "Atikali Mahallesi",
+    "lat": 41.02439826899671,
+    "lng": 28.943115297418817,
+    "listing_count": 11
+  },
+  {
+    "id": 434,
+    "district": "Fatih",
+    "neighborhood": "Ayvansaray Mahallesi",
+    "lat": 41.03811812722215,
+    "lng": 28.9437507027591,
+    "listing_count": 7
+  },
+  {
+    "id": 492,
+    "district": "Fatih",
+    "neighborhood": "Balat Mahallesi",
+    "lat": 41.0325975517773,
+    "lng": 28.948206375261798,
+    "listing_count": 9
+  },
+  {
+    "id": 124,
+    "district": "Fatih",
+    "neighborhood": "Cerrahpaşa Mahallesi",
+    "lat": 41.00486748875856,
+    "lng": 28.935875973749646,
+    "listing_count": 8
+  },
+  {
+    "id": 682,
+    "district": "Fatih",
+    "neighborhood": "Cibali Mahallesi",
+    "lat": 41.02603211566277,
+    "lng": 28.961208094963673,
+    "listing_count": 1
+  },
+  {
+    "id": 427,
+    "district": "Fatih",
+    "neighborhood": "Derviş Ali Mahallesi",
+    "lat": 41.02926207999564,
+    "lng": 28.939268597282133,
+    "listing_count": 17
+  },
+  {
+    "id": 601,
+    "district": "Fatih",
+    "neighborhood": "Emin Sinan Mahallesi",
+    "lat": 41.00579531279265,
+    "lng": 28.96859073109597,
+    "listing_count": 3
+  },
+  {
+    "id": 240,
+    "district": "Fatih",
+    "neighborhood": "Haseki Sultan Mahallesi",
+    "lat": 41.009359456649044,
+    "lng": 28.94516685806141,
+    "listing_count": 13
+  },
+  {
+    "id": 194,
+    "district": "Fatih",
+    "neighborhood": "Hırka i Şerif Mahallesi",
+    "lat": 41.024445720968096,
+    "lng": 28.94010905328508,
+    "listing_count": 21
+  },
+  {
+    "id": 1,
+    "district": "Fatih",
+    "neighborhood": "Karagümrük Mahallesi",
+    "lat": 41.02700166097899,
+    "lng": 28.937698000445398,
+    "listing_count": 15
+  },
+  {
+    "id": 66,
+    "district": "Fatih",
+    "neighborhood": "Koca Mustafapaşa Mahallesi",
+    "lat": 41.00005107430594,
+    "lng": 28.93173370627191,
+    "listing_count": 28
+  },
+  {
+    "id": 522,
+    "district": "Fatih",
+    "neighborhood": "Küçük Ayasofya Mahallesi",
+    "lat": 41.00312338163891,
+    "lng": 28.97159748120125,
+    "listing_count": 7
+  },
+  {
+    "id": 646,
+    "district": "Fatih",
+    "neighborhood": "Mesihpaşa Mahallesi",
+    "lat": 41.00644082506394,
+    "lng": 28.952802630658603,
+    "listing_count": 1
+  },
+  {
+    "id": 121,
+    "district": "Fatih",
+    "neighborhood": "Mevlanakapı Mahallesi",
+    "lat": 41.0129134949461,
+    "lng": 28.923941744930566,
+    "listing_count": 17
+  },
+  {
+    "id": 563,
+    "district": "Fatih",
+    "neighborhood": "Molla Fenari Mahallesi",
+    "lat": 41.00795939899429,
+    "lng": 28.971424361909566,
+    "listing_count": 1
+  },
+  {
+    "id": 155,
+    "district": "Fatih",
+    "neighborhood": "Molla Gürani Mahallesi",
+    "lat": 41.01276727705217,
+    "lng": 28.94181831106123,
+    "listing_count": 31
+  },
+  {
+    "id": 678,
+    "district": "Fatih",
+    "neighborhood": "Muhsine Hatun Mahallesi",
+    "lat": 41.00504718740288,
+    "lng": 28.960087492626904,
+    "listing_count": 1
+  },
+  {
+    "id": 608,
+    "district": "Fatih",
+    "neighborhood": "Nişanca Mahallesi",
+    "lat": 41.005962642610875,
+    "lng": 28.96142486899235,
+    "listing_count": 3
+  },
+  {
+    "id": 630,
+    "district": "Fatih",
+    "neighborhood": "Saraç İshak Mahallesi",
+    "lat": 41.00638387482575,
+    "lng": 28.962222782163117,
+    "listing_count": 2
+  },
+  {
+    "id": 123,
+    "district": "Fatih",
+    "neighborhood": "Seyyid Ömer Mahallesi",
+    "lat": 41.00934568996438,
+    "lng": 28.931273739804897,
+    "listing_count": 29
+  },
+  {
+    "id": 180,
+    "district": "Fatih",
+    "neighborhood": "Silivrikapı Mahallesi",
+    "lat": 41.00516606953472,
+    "lng": 28.927290721984832,
+    "listing_count": 35
+  },
+  {
+    "id": 158,
+    "district": "Fatih",
+    "neighborhood": "Sümbül Efendi Mahallesi",
+    "lat": 41.001761707308276,
+    "lng": 28.926895251592455,
+    "listing_count": 22
+  },
+  {
+    "id": 189,
+    "district": "Fatih",
+    "neighborhood": "Topkapı Mahallesi",
+    "lat": 41.020924532993114,
+    "lng": 28.926386473803547,
+    "listing_count": 3
+  },
+  {
+    "id": 483,
+    "district": "Fatih",
+    "neighborhood": "Yavuz Sultan Selim Mahallesi",
+    "lat": 41.0266622663272,
+    "lng": 28.95443133577144,
+    "listing_count": 2
+  },
+  {
+    "id": 154,
+    "district": "Fatih",
+    "neighborhood": "Yedikule Mahallesi",
+    "lat": 40.994128105939645,
+    "lng": 28.92489653075022,
+    "listing_count": 12
+  },
+  {
+    "id": 664,
+    "district": "Fatih",
+    "neighborhood": "Zeyrek Mahallesi",
+    "lat": 41.01723897792234,
+    "lng": 28.953473263172715,
+    "listing_count": 3
+  },
+  {
+    "id": 70,
+    "district": "Fatih",
+    "neighborhood": "İskenderpaşa Mahallesi",
+    "lat": 41.015336628890836,
+    "lng": 28.95023565937335,
+    "listing_count": 10
+  },
+  {
+    "id": 49,
+    "district": "Fatih",
+    "neighborhood": "Şehremini Mahallesi",
+    "lat": 41.01406596020559,
+    "lng": 28.933151627370737,
+    "listing_count": 38
+  },
+  {
+    "id": 638,
+    "district": "Fatih",
+    "neighborhood": "Şehsuvar Bey Mahallesi",
+    "lat": 41.00548091476268,
+    "lng": 28.967469720092698,
+    "listing_count": 1
+  },
+  {
+    "id": 110,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Barbaros Hayrettin Paşa Mahallesi",
+    "lat": 41.07375364274896,
+    "lng": 28.889652126456557,
+    "listing_count": 15
+  },
+  {
+    "id": 48,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Bağlarbaşı Mahallesi",
+    "lat": 41.063326477944074,
+    "lng": 28.914444636640816,
+    "listing_count": 132
+  },
+  {
+    "id": 149,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Fevzi Çakmak Mahallesi",
+    "lat": 41.07135084546768,
+    "lng": 28.90503041593538,
+    "listing_count": 21
+  },
+  {
+    "id": 401,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 41.06640116937472,
+    "lng": 28.900403892227455,
+    "listing_count": 32
+  },
+  {
+    "id": 89,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Karadeniz Mahallesi",
+    "lat": 41.08132275041546,
+    "lng": 28.875053150667796,
+    "listing_count": 165
+  },
+  {
+    "id": 364,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Karayolları Mahallesi",
+    "lat": 41.085035547274394,
+    "lng": 28.89849597485003,
+    "listing_count": 30
+  },
+  {
+    "id": 192,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Karlıtepe Mahallesi",
+    "lat": 41.05899343918515,
+    "lng": 28.928369490005004,
+    "listing_count": 31
+  },
+  {
+    "id": 167,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Kazım Karabekir Mahallesi",
+    "lat": 41.080357835728265,
+    "lng": 28.910291274432247,
+    "listing_count": 35
+  },
+  {
+    "id": 301,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.057043990159535,
+    "lng": 28.911902368160607,
+    "listing_count": 30
+  },
+  {
+    "id": 670,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Mevlana Mahallesi",
+    "lat": 41.087914404686416,
+    "lng": 28.915129221521116,
+    "listing_count": 1
+  },
+  {
+    "id": 384,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Pazariçi Mahallesi",
+    "lat": 41.05957530772431,
+    "lng": 28.935039329522077,
+    "listing_count": 13
+  },
+  {
+    "id": 272,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Sarıgöl Mahallesi",
+    "lat": 41.058971069550374,
+    "lng": 28.918059757313213,
+    "listing_count": 39
+  },
+  {
+    "id": 101,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Yeni Mahalle Mahallesi",
+    "lat": 41.075961671533705,
+    "lng": 28.90196289306601,
+    "listing_count": 51
+  },
+  {
+    "id": 308,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Yenidoğan Mahallesi",
+    "lat": 41.058653184918974,
+    "lng": 28.923034822281412,
+    "listing_count": 7
+  },
+  {
+    "id": 332,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Yıldıztabya Mahallesi",
+    "lat": 41.06469563704632,
+    "lng": 28.930382950039974,
+    "listing_count": 49
+  },
+  {
+    "id": 245,
+    "district": "Gaziosmanpaşa",
+    "neighborhood": "Şemsipaşa Mahallesi",
+    "lat": 41.067525561646335,
+    "lng": 28.908489664278775,
+    "listing_count": 36
+  },
+  {
+    "id": 306,
+    "district": "Güngören",
+    "neighborhood": "Abdurrahman Nafiz Gürman Mahallesi",
+    "lat": 41.00588761576937,
+    "lng": 28.88824412314185,
+    "listing_count": 30
+  },
+  {
+    "id": 599,
+    "district": "Güngören",
+    "neighborhood": "Akıncılar Mahallesi",
+    "lat": 41.017269830598586,
+    "lng": 28.870944411329987,
+    "listing_count": 6
+  },
+  {
+    "id": 116,
+    "district": "Güngören",
+    "neighborhood": "Gençosman Mahallesi",
+    "lat": 41.02876377385648,
+    "lng": 28.877821862409917,
+    "listing_count": 20
+  },
+  {
+    "id": 479,
+    "district": "Güngören",
+    "neighborhood": "Güneştepe Mahallesi",
+    "lat": 41.0255895228394,
+    "lng": 28.864727436182665,
+    "listing_count": 19
+  },
+  {
+    "id": 538,
+    "district": "Güngören",
+    "neighborhood": "Güven Mahallesi",
+    "lat": 41.01190230574311,
+    "lng": 28.873358995330953,
+    "listing_count": 21
+  },
+  {
+    "id": 156,
+    "district": "Güngören",
+    "neighborhood": "Haznedar Mahallesi",
+    "lat": 41.01018475020341,
+    "lng": 28.870515011907013,
+    "listing_count": 25
+  },
+  {
+    "id": 141,
+    "district": "Güngören",
+    "neighborhood": "Mareşal Çakmak Mahallesi",
+    "lat": 41.018711519850626,
+    "lng": 28.864144533499992,
+    "listing_count": 16
+  },
+  {
+    "id": 260,
+    "district": "Güngören",
+    "neighborhood": "Mehmet Nesih Özmen Mahallesi",
+    "lat": 41.01356394768293,
+    "lng": 28.890278653988922,
+    "listing_count": 7
+  },
+  {
+    "id": 239,
+    "district": "Güngören",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.024230816198376,
+    "lng": 28.871943369097053,
+    "listing_count": 35
+  },
+  {
+    "id": 587,
+    "district": "Güngören",
+    "neighborhood": "Tozkoparan Mahallesi",
+    "lat": 41.0143315146419,
+    "lng": 28.896834719179182,
+    "listing_count": 13
+  },
+  {
+    "id": 582,
+    "district": "Kadıköy",
+    "neighborhood": "19 Mayıs Mahallesi",
+    "lat": 40.97682372804198,
+    "lng": 29.08934394948838,
+    "listing_count": 27
+  },
+  {
+    "id": 508,
+    "district": "Kadıköy",
+    "neighborhood": "Acıbadem Mahallesi",
+    "lat": 41.00295209332392,
+    "lng": 29.04414194936723,
+    "listing_count": 12
+  },
+  {
+    "id": 560,
+    "district": "Kadıköy",
+    "neighborhood": "Bostancı Mahallesi",
+    "lat": 40.95798525827068,
+    "lng": 29.096744474681312,
+    "listing_count": 60
+  },
+  {
+    "id": 628,
+    "district": "Kadıköy",
+    "neighborhood": "Caddebostan Mahallesi",
+    "lat": 40.967441343634775,
+    "lng": 29.063279916855084,
+    "listing_count": 15
+  },
+  {
+    "id": 520,
+    "district": "Kadıköy",
+    "neighborhood": "Caferağa Mahallesi",
+    "lat": 40.985175192528196,
+    "lng": 29.024895276773794,
+    "listing_count": 23
+  },
+  {
+    "id": 485,
+    "district": "Kadıköy",
+    "neighborhood": "Dumlupınar Mahallesi",
+    "lat": 40.99307697800049,
+    "lng": 29.060110499042068,
+    "listing_count": 25
+  },
+  {
+    "id": 565,
+    "district": "Kadıköy",
+    "neighborhood": "Erenköy Mahallesi",
+    "lat": 40.972364322701395,
+    "lng": 29.07594573316481,
+    "listing_count": 55
+  },
+  {
+    "id": 583,
+    "district": "Kadıköy",
+    "neighborhood": "Eğitim Mahallesi",
+    "lat": 40.98931833099457,
+    "lng": 29.048747036340906,
+    "listing_count": 5
+  },
+  {
+    "id": 641,
+    "district": "Kadıköy",
+    "neighborhood": "Fenerbahçe Mahallesi",
+    "lat": 40.96989722005575,
+    "lng": 29.038913642529234,
+    "listing_count": 4
+  },
+  {
+    "id": 543,
+    "district": "Kadıköy",
+    "neighborhood": "Feneryolu Mahallesi",
+    "lat": 40.981909664694975,
+    "lng": 29.050121315898807,
+    "listing_count": 19
+  },
+  {
+    "id": 486,
+    "district": "Kadıköy",
+    "neighborhood": "Fikirtepe Mahallesi",
+    "lat": 40.9930777335872,
+    "lng": 29.05137273939675,
+    "listing_count": 24
+  },
+  {
+    "id": 602,
+    "district": "Kadıköy",
+    "neighborhood": "Göztepe Mahallesi",
+    "lat": 40.978704116631945,
+    "lng": 29.067110251458068,
+    "listing_count": 35
+  },
+  {
+    "id": 290,
+    "district": "Kadıköy",
+    "neighborhood": "Hasanpaşa Mahallesi",
+    "lat": 40.996529060072284,
+    "lng": 29.04383064166319,
+    "listing_count": 14
+  },
+  {
+    "id": 351,
+    "district": "Kadıköy",
+    "neighborhood": "Kozyatağı Mahallesi",
+    "lat": 40.96832055292538,
+    "lng": 29.092240598312483,
+    "listing_count": 72
+  },
+  {
+    "id": 624,
+    "district": "Kadıköy",
+    "neighborhood": "Koşuyolu Mahallesi",
+    "lat": 41.00865182216847,
+    "lng": 29.036208218942974,
+    "listing_count": 3
+  },
+  {
+    "id": 494,
+    "district": "Kadıköy",
+    "neighborhood": "Merdivenköy Mahallesi",
+    "lat": 40.987323198981976,
+    "lng": 29.067407479969333,
+    "listing_count": 35
+  },
+  {
+    "id": 535,
+    "district": "Kadıköy",
+    "neighborhood": "Osmanağa Mahallesi",
+    "lat": 40.98958809444133,
+    "lng": 29.030469363865883,
+    "listing_count": 8
+  },
+  {
+    "id": 394,
+    "district": "Kadıköy",
+    "neighborhood": "Rasimpaşa Mahallesi",
+    "lat": 40.99615566713131,
+    "lng": 29.0271609974414,
+    "listing_count": 7
+  },
+  {
+    "id": 606,
+    "district": "Kadıköy",
+    "neighborhood": "Sahrayıcedit Mahallesi",
+    "lat": 40.98261602758395,
+    "lng": 29.082765938872146,
+    "listing_count": 19
+  },
+  {
+    "id": 586,
+    "district": "Kadıköy",
+    "neighborhood": "Suadiye Mahallesi",
+    "lat": 40.959326315070605,
+    "lng": 29.083031225597363,
+    "listing_count": 85
+  },
+  {
+    "id": 562,
+    "district": "Kadıköy",
+    "neighborhood": "Zühtüpaşa Mahallesi",
+    "lat": 40.987977717730786,
+    "lng": 29.039848006606462,
+    "listing_count": 9
+  },
+  {
+    "id": 469,
+    "district": "Kartal",
+    "neighborhood": "Atalar Mahallesi",
+    "lat": 40.90247022296648,
+    "lng": 29.17292586755605,
+    "listing_count": 45
+  },
+  {
+    "id": 295,
+    "district": "Kartal",
+    "neighborhood": "Cevizli Mahallesi",
+    "lat": 40.913357597689846,
+    "lng": 29.16821094932544,
+    "listing_count": 24
+  },
+  {
+    "id": 233,
+    "district": "Kartal",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 40.907839754563234,
+    "lng": 29.22114745687452,
+    "listing_count": 46
+  },
+  {
+    "id": 212,
+    "district": "Kartal",
+    "neighborhood": "Esentepe Mahallesi",
+    "lat": 40.90676287956869,
+    "lng": 29.186795793219193,
+    "listing_count": 24
+  },
+  {
+    "id": 249,
+    "district": "Kartal",
+    "neighborhood": "Gümüşpınar Mahallesi",
+    "lat": 40.91801859525278,
+    "lng": 29.204886285528428,
+    "listing_count": 25
+  },
+  {
+    "id": 270,
+    "district": "Kartal",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 40.90258315565731,
+    "lng": 29.2308019244635,
+    "listing_count": 87
+  },
+  {
+    "id": 505,
+    "district": "Kartal",
+    "neighborhood": "Karlıktepe Mahallesi",
+    "lat": 40.891427333493496,
+    "lng": 29.19136606145239,
+    "listing_count": 13
+  },
+  {
+    "id": 465,
+    "district": "Kartal",
+    "neighborhood": "Kordonboyu Mahallesi",
+    "lat": 40.888317402533374,
+    "lng": 29.18989684323893,
+    "listing_count": 25
+  },
+  {
+    "id": 471,
+    "district": "Kartal",
+    "neighborhood": "Orhantepe Mahallesi",
+    "lat": 40.906398305262016,
+    "lng": 29.161752612015434,
+    "listing_count": 29
+  },
+  {
+    "id": 311,
+    "district": "Kartal",
+    "neighborhood": "Orta Mahallesi",
+    "lat": 40.91379631828162,
+    "lng": 29.200600731419442,
+    "listing_count": 8
+  },
+  {
+    "id": 195,
+    "district": "Kartal",
+    "neighborhood": "Petrol İş Mahallesi",
+    "lat": 40.896192830459356,
+    "lng": 29.179827882459836,
+    "listing_count": 44
+  },
+  {
+    "id": 333,
+    "district": "Kartal",
+    "neighborhood": "Soğanlık Yeni Mahallesi",
+    "lat": 40.9171197821154,
+    "lng": 29.194891914941618,
+    "listing_count": 11
+  },
+  {
+    "id": 368,
+    "district": "Kartal",
+    "neighborhood": "Topselvi Mahallesi",
+    "lat": 40.89048317758353,
+    "lng": 29.21817244892462,
+    "listing_count": 9
+  },
+  {
+    "id": 345,
+    "district": "Kartal",
+    "neighborhood": "Uğur Mumcu Mahallesi",
+    "lat": 40.93261546434779,
+    "lng": 29.212448123806908,
+    "listing_count": 32
+  },
+  {
+    "id": 404,
+    "district": "Kartal",
+    "neighborhood": "Yakacık Yeni Mahallesi",
+    "lat": 40.91999995394425,
+    "lng": 29.224904941160844,
+    "listing_count": 20
+  },
+  {
+    "id": 540,
+    "district": "Kartal",
+    "neighborhood": "Yakacık Çarşı Mahallesi",
+    "lat": 40.91880822632996,
+    "lng": 29.22572317637589,
+    "listing_count": 29
+  },
+  {
+    "id": 185,
+    "district": "Kartal",
+    "neighborhood": "Yalı Mahallesi",
+    "lat": 40.891342342154964,
+    "lng": 29.21991166948049,
+    "listing_count": 8
+  },
+  {
+    "id": 397,
+    "district": "Kartal",
+    "neighborhood": "Yukarı Mahallesi",
+    "lat": 40.88901084581736,
+    "lng": 29.183570686694747,
+    "listing_count": 4
+  },
+  {
+    "id": 477,
+    "district": "Kartal",
+    "neighborhood": "Yunus Mahallesi",
+    "lat": 40.890540644542085,
+    "lng": 29.212407614163038,
+    "listing_count": 9
+  },
+  {
+    "id": 408,
+    "district": "Kartal",
+    "neighborhood": "Çavuşoğlu Mahallesi",
+    "lat": 40.89137252784434,
+    "lng": 29.196965138424385,
+    "listing_count": 11
+  },
+  {
+    "id": 559,
+    "district": "Kağıthane",
+    "neighborhood": "Emniyet Evleri Mahallesi",
+    "lat": 41.08484549004005,
+    "lng": 29.00402711657239,
+    "listing_count": 7
+  },
+  {
+    "id": 213,
+    "district": "Kağıthane",
+    "neighborhood": "Gültepe Mahallesi",
+    "lat": 41.08139726824772,
+    "lng": 28.99494593676058,
+    "listing_count": 41
+  },
+  {
+    "id": 286,
+    "district": "Kağıthane",
+    "neighborhood": "Gürsel Mahallesi",
+    "lat": 41.07058519381116,
+    "lng": 28.972912364323612,
+    "listing_count": 28
+  },
+  {
+    "id": 331,
+    "district": "Kağıthane",
+    "neighborhood": "Hamidiye Mahallesi",
+    "lat": 41.094091902723065,
+    "lng": 28.970712768115447,
+    "listing_count": 35
+  },
+  {
+    "id": 171,
+    "district": "Kağıthane",
+    "neighborhood": "Harmantepe Mahallesi",
+    "lat": 41.082064886929366,
+    "lng": 28.99159422262797,
+    "listing_count": 24
+  },
+  {
+    "id": 349,
+    "district": "Kağıthane",
+    "neighborhood": "Hürriyet Mahallesi",
+    "lat": 41.07382598476498,
+    "lng": 28.985048081213357,
+    "listing_count": 40
+  },
+  {
+    "id": 148,
+    "district": "Kağıthane",
+    "neighborhood": "Mehmet Akif Ersoy Mahallesi",
+    "lat": 41.06137460991855,
+    "lng": 28.95715842732633,
+    "listing_count": 2
+  },
+  {
+    "id": 130,
+    "district": "Kağıthane",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.07921459575287,
+    "lng": 28.969257336518588,
+    "listing_count": 51
+  },
+  {
+    "id": 280,
+    "district": "Kağıthane",
+    "neighborhood": "Nurtepe Mahallesi",
+    "lat": 41.07548898167187,
+    "lng": 28.961630942932494,
+    "listing_count": 16
+  },
+  {
+    "id": 400,
+    "district": "Kağıthane",
+    "neighborhood": "Ortabayır Mahallesi",
+    "lat": 41.078075599051054,
+    "lng": 29.004271284113727,
+    "listing_count": 27
+  },
+  {
+    "id": 318,
+    "district": "Kağıthane",
+    "neighborhood": "Seyrantepe Mahallesi",
+    "lat": 41.09700699001044,
+    "lng": 28.989240625081013,
+    "listing_count": 13
+  },
+  {
+    "id": 226,
+    "district": "Kağıthane",
+    "neighborhood": "Sultan Selim Mahallesi",
+    "lat": 41.08992596565498,
+    "lng": 28.997372263832272,
+    "listing_count": 14
+  },
+  {
+    "id": 150,
+    "district": "Kağıthane",
+    "neighborhood": "Talatpaşa Mahallesi",
+    "lat": 41.06291181884879,
+    "lng": 28.963518902200523,
+    "listing_count": 34
+  },
+  {
+    "id": 518,
+    "district": "Kağıthane",
+    "neighborhood": "Telsizler Mahallesi",
+    "lat": 41.07898372273598,
+    "lng": 28.998431966766013,
+    "listing_count": 21
+  },
+  {
+    "id": 142,
+    "district": "Kağıthane",
+    "neighborhood": "Yahya Kemal Mahallesi",
+    "lat": 41.08530221170099,
+    "lng": 28.98677748387445,
+    "listing_count": 22
+  },
+  {
+    "id": 665,
+    "district": "Kağıthane",
+    "neighborhood": "Yeşilce Mahallesi",
+    "lat": 41.0950157454379,
+    "lng": 29.0000392530757,
+    "listing_count": 7
+  },
+  {
+    "id": 117,
+    "district": "Kağıthane",
+    "neighborhood": "Çağlayan Mahallesi",
+    "lat": 41.07460480950552,
+    "lng": 28.97986171170499,
+    "listing_count": 84
+  },
+  {
+    "id": 209,
+    "district": "Kağıthane",
+    "neighborhood": "Çeliktepe Mahallesi",
+    "lat": 41.08392517514431,
+    "lng": 28.999727776030067,
+    "listing_count": 48
+  },
+  {
+    "id": 340,
+    "district": "Kağıthane",
+    "neighborhood": "Şirintepe Mahallesi",
+    "lat": 41.0890142167158,
+    "lng": 28.991022538429988,
+    "listing_count": 15
+  },
+  {
+    "id": 255,
+    "district": "Küçükçekmece",
+    "neighborhood": "Atakent Mahallesi",
+    "lat": 41.05528360772523,
+    "lng": 28.781840517318628,
+    "listing_count": 166
+  },
+  {
+    "id": 9,
+    "district": "Küçükçekmece",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 41.0504286318151,
+    "lng": 28.797451774393096,
+    "listing_count": 110
+  },
+  {
+    "id": 338,
+    "district": "Küçükçekmece",
+    "neighborhood": "Cennet Mahallesi",
+    "lat": 40.98909392759971,
+    "lng": 28.777611468523084,
+    "listing_count": 78
+  },
+  {
+    "id": 97,
+    "district": "Küçükçekmece",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 40.99664023343251,
+    "lng": 28.77105303415019,
+    "listing_count": 146
+  },
+  {
+    "id": 221,
+    "district": "Küçükçekmece",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 40.9920919404796,
+    "lng": 28.7697427788544,
+    "listing_count": 29
+  },
+  {
+    "id": 172,
+    "district": "Küçükçekmece",
+    "neighborhood": "Fevzi Çakmak Mahallesi",
+    "lat": 41.00468705190078,
+    "lng": 28.7893089650953,
+    "listing_count": 64
+  },
+  {
+    "id": 67,
+    "district": "Küçükçekmece",
+    "neighborhood": "Gültepe Mahallesi",
+    "lat": 40.99440738916111,
+    "lng": 28.791048145187847,
+    "listing_count": 62
+  },
+  {
+    "id": 299,
+    "district": "Küçükçekmece",
+    "neighborhood": "Halkalı Merkez Mahallesi",
+    "lat": 41.035542146026934,
+    "lng": 28.792628691507986,
+    "listing_count": 86
+  },
+  {
+    "id": 92,
+    "district": "Küçükçekmece",
+    "neighborhood": "Kanarya Mahallesi",
+    "lat": 41.00883770521918,
+    "lng": 28.777348042296754,
+    "listing_count": 84
+  },
+  {
+    "id": 13,
+    "district": "Küçükçekmece",
+    "neighborhood": "Kartaltepe Mahallesi",
+    "lat": 41.00163295762429,
+    "lng": 28.799586850662195,
+    "listing_count": 18
+  },
+  {
+    "id": 231,
+    "district": "Küçükçekmece",
+    "neighborhood": "Kemalpaşa Mahallesi",
+    "lat": 41.000872213445724,
+    "lng": 28.795907277076424,
+    "listing_count": 30
+  },
+  {
+    "id": 26,
+    "district": "Küçükçekmece",
+    "neighborhood": "Mehmet Akif Mahallesi",
+    "lat": 41.053174828944734,
+    "lng": 28.80594673027498,
+    "listing_count": 300
+  },
+  {
+    "id": 58,
+    "district": "Küçükçekmece",
+    "neighborhood": "Sultan Murat Mahallesi",
+    "lat": 41.00165162242828,
+    "lng": 28.786171681914436,
+    "listing_count": 51
+  },
+  {
+    "id": 94,
+    "district": "Küçükçekmece",
+    "neighborhood": "Söğütlü Çeşme Mahallesi",
+    "lat": 41.021026566290594,
+    "lng": 28.78688861292328,
+    "listing_count": 79
+  },
+  {
+    "id": 93,
+    "district": "Küçükçekmece",
+    "neighborhood": "Tevfikbey Mahallesi",
+    "lat": 41.008128670771924,
+    "lng": 28.799464791841817,
+    "listing_count": 131
+  },
+  {
+    "id": 695,
+    "district": "Küçükçekmece",
+    "neighborhood": "Yarımburgaz Mahallesi",
+    "lat": 41.048064721800344,
+    "lng": 28.75461537212577,
+    "listing_count": 3
+  },
+  {
+    "id": 312,
+    "district": "Küçükçekmece",
+    "neighborhood": "Yeni Mahalle Mahallesi",
+    "lat": 40.9927768728184,
+    "lng": 28.77388335622663,
+    "listing_count": 43
+  },
+  {
+    "id": 138,
+    "district": "Küçükçekmece",
+    "neighborhood": "Yeşilova Mahallesi",
+    "lat": 40.989851432587926,
+    "lng": 28.786064675853286,
+    "listing_count": 94
+  },
+  {
+    "id": 90,
+    "district": "Küçükçekmece",
+    "neighborhood": "İnönü Mahallesi",
+    "lat": 41.02350993543494,
+    "lng": 28.79644251089442,
+    "listing_count": 188
+  },
+  {
+    "id": 77,
+    "district": "Küçükçekmece",
+    "neighborhood": "İstasyon Mahallesi",
+    "lat": 41.02863850788066,
+    "lng": 28.77199986344713,
+    "listing_count": 96
+  },
+  {
+    "id": 296,
+    "district": "Maltepe",
+    "neighborhood": "Altayçeşme Mahallesi",
+    "lat": 40.92790820716626,
+    "lng": 29.132062870411158,
+    "listing_count": 45
+  },
+  {
+    "id": 228,
+    "district": "Maltepe",
+    "neighborhood": "Altıntepe Mahallesi",
+    "lat": 40.951917054767144,
+    "lng": 29.101598989608558,
+    "listing_count": 264
+  },
+  {
+    "id": 339,
+    "district": "Maltepe",
+    "neighborhood": "Aydınevler Mahallesi",
+    "lat": 40.948907300936234,
+    "lng": 29.128248353670816,
+    "listing_count": 11
+  },
+  {
+    "id": 356,
+    "district": "Maltepe",
+    "neighborhood": "Bağlarbaşı Mahallesi",
+    "lat": 40.92516943910631,
+    "lng": 29.139832999735003,
+    "listing_count": 48
+  },
+  {
+    "id": 663,
+    "district": "Maltepe",
+    "neighborhood": "Başıbüyük Mahallesi",
+    "lat": 40.96028770879603,
+    "lng": 29.147277003387657,
+    "listing_count": 2
+  },
+  {
+    "id": 365,
+    "district": "Maltepe",
+    "neighborhood": "Büyükbakkalköy Mahallesi",
+    "lat": 40.970025852363314,
+    "lng": 29.19780017360177,
+    "listing_count": 1
+  },
+  {
+    "id": 175,
+    "district": "Maltepe",
+    "neighborhood": "Cevizli Mahallesi",
+    "lat": 40.91634374632204,
+    "lng": 29.14728631626247,
+    "listing_count": 49
+  },
+  {
+    "id": 418,
+    "district": "Maltepe",
+    "neighborhood": "Esenkent Mahallesi",
+    "lat": 40.92872901760116,
+    "lng": 29.167618426424575,
+    "listing_count": 5
+  },
+  {
+    "id": 443,
+    "district": "Maltepe",
+    "neighborhood": "Feyzullah Mahallesi",
+    "lat": 40.924825049429394,
+    "lng": 29.128982672377894,
+    "listing_count": 52
+  },
+  {
+    "id": 293,
+    "district": "Maltepe",
+    "neighborhood": "Fındıklı Mahallesi",
+    "lat": 40.971591768488125,
+    "lng": 29.130772813225104,
+    "listing_count": 49
+  },
+  {
+    "id": 436,
+    "district": "Maltepe",
+    "neighborhood": "Girne Mahallesi",
+    "lat": 40.94120519237446,
+    "lng": 29.137929812307085,
+    "listing_count": 13
+  },
+  {
+    "id": 632,
+    "district": "Maltepe",
+    "neighborhood": "Gülsuyu Mahallesi",
+    "lat": 40.92647453387314,
+    "lng": 29.158871692291175,
+    "listing_count": 1
+  },
+  {
+    "id": 215,
+    "district": "Maltepe",
+    "neighborhood": "Küçükyalı Merkez Mahallesi",
+    "lat": 40.94753839358512,
+    "lng": 29.10692546124505,
+    "listing_count": 151
+  },
+  {
+    "id": 519,
+    "district": "Maltepe",
+    "neighborhood": "Yalı Mahallesi",
+    "lat": 40.9206110949695,
+    "lng": 29.127966607169732,
+    "listing_count": 20
+  },
+  {
+    "id": 53,
+    "district": "Maltepe",
+    "neighborhood": "Zümrütevler Mahallesi",
+    "lat": 40.93651260790665,
+    "lng": 29.147548211928164,
+    "listing_count": 100
+  },
+  {
+    "id": 359,
+    "district": "Maltepe",
+    "neighborhood": "Çınar Mahallesi",
+    "lat": 40.94383252665871,
+    "lng": 29.112448555557965,
+    "listing_count": 57
+  },
+  {
+    "id": 325,
+    "district": "Maltepe",
+    "neighborhood": "İdealtepe Mahallesi",
+    "lat": 40.939123419629865,
+    "lng": 29.118276036821577,
+    "listing_count": 150
+  },
+  {
+    "id": 319,
+    "district": "Pendik",
+    "neighborhood": "Ahmet Yesevi Mahallesi",
+    "lat": 40.86828840655972,
+    "lng": 29.308759784018907,
+    "listing_count": 36
+  },
+  {
+    "id": 455,
+    "district": "Pendik",
+    "neighborhood": "Bahçelievler Mahallesi",
+    "lat": 40.88417173391943,
+    "lng": 29.236088871212434,
+    "listing_count": 13
+  },
+  {
+    "id": 205,
+    "district": "Pendik",
+    "neighborhood": "Batı Mahallesi",
+    "lat": 40.877490117534464,
+    "lng": 29.229817438998044,
+    "listing_count": 24
+  },
+  {
+    "id": 415,
+    "district": "Pendik",
+    "neighborhood": "Doğu Mahallesi",
+    "lat": 40.87809465834033,
+    "lng": 29.23713369362336,
+    "listing_count": 32
+  },
+  {
+    "id": 283,
+    "district": "Pendik",
+    "neighborhood": "Dumlupınar Mahallesi",
+    "lat": 40.891909375055704,
+    "lng": 29.24874441311214,
+    "listing_count": 40
+  },
+  {
+    "id": 513,
+    "district": "Pendik",
+    "neighborhood": "Ertuğrul Gazi Mahallesi",
+    "lat": 40.919348264007716,
+    "lng": 29.263444929271195,
+    "listing_count": 1
+  },
+  {
+    "id": 341,
+    "district": "Pendik",
+    "neighborhood": "Esenler Mahallesi",
+    "lat": 40.88516249366493,
+    "lng": 29.27277575265671,
+    "listing_count": 30
+  },
+  {
+    "id": 183,
+    "district": "Pendik",
+    "neighborhood": "Esenyalı Mahallesi",
+    "lat": 40.8615421256186,
+    "lng": 29.295053840005046,
+    "listing_count": 20
+  },
+  {
+    "id": 120,
+    "district": "Pendik",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 40.868204865450366,
+    "lng": 29.297146438893886,
+    "listing_count": 11
+  },
+  {
+    "id": 198,
+    "district": "Pendik",
+    "neighborhood": "Fevzi Çakmak Mahallesi",
+    "lat": 40.877998877455894,
+    "lng": 29.263801559344742,
+    "listing_count": 43
+  },
+  {
+    "id": 462,
+    "district": "Pendik",
+    "neighborhood": "Güllü Bağlar Mahallesi",
+    "lat": 40.89700430225671,
+    "lng": 29.274425852234483,
+    "listing_count": 27
+  },
+  {
+    "id": 276,
+    "district": "Pendik",
+    "neighborhood": "Güzelyalı Mahallesi",
+    "lat": 40.86054786183472,
+    "lng": 29.28208034600952,
+    "listing_count": 21
+  },
+  {
+    "id": 354,
+    "district": "Pendik",
+    "neighborhood": "Harmandere Mahallesi",
+    "lat": 40.92945024151597,
+    "lng": 29.323724981283316,
+    "listing_count": 10
+  },
+  {
+    "id": 161,
+    "district": "Pendik",
+    "neighborhood": "Kavakpınar Mahallesi",
+    "lat": 40.88110577743598,
+    "lng": 29.286781720074035,
+    "listing_count": 54
+  },
+  {
+    "id": 241,
+    "district": "Pendik",
+    "neighborhood": "Kaynarca Mahallesi",
+    "lat": 40.87561816878528,
+    "lng": 29.25510694232903,
+    "listing_count": 31
+  },
+  {
+    "id": 291,
+    "district": "Pendik",
+    "neighborhood": "Kurtköy Mahallesi",
+    "lat": 40.914320466366036,
+    "lng": 29.300419909344974,
+    "listing_count": 60
+  },
+  {
+    "id": 389,
+    "district": "Pendik",
+    "neighborhood": "Orhangazi Mahallesi",
+    "lat": 40.86640797471792,
+    "lng": 29.289383159114244,
+    "listing_count": 28
+  },
+  {
+    "id": 464,
+    "district": "Pendik",
+    "neighborhood": "Orta Mahallesi",
+    "lat": 40.88970488664522,
+    "lng": 29.241393961456495,
+    "listing_count": 4
+  },
+  {
+    "id": 452,
+    "district": "Pendik",
+    "neighborhood": "Ramazanoğlu Mahallesi",
+    "lat": 40.89707318916997,
+    "lng": 29.288448063459775,
+    "listing_count": 1
+  },
+  {
+    "id": 696,
+    "district": "Pendik",
+    "neighborhood": "Sapan Bağları Mahallesi",
+    "lat": 40.883552010328124,
+    "lng": 29.223201892095428,
+    "listing_count": 1
+  },
+  {
+    "id": 346,
+    "district": "Pendik",
+    "neighborhood": "Sülüntepe Mahallesi",
+    "lat": 40.91356397048157,
+    "lng": 29.27780775161985,
+    "listing_count": 16
+  },
+  {
+    "id": 207,
+    "district": "Pendik",
+    "neighborhood": "Velibaba Mahallesi",
+    "lat": 40.904437427471315,
+    "lng": 29.254078879570763,
+    "listing_count": 69
+  },
+  {
+    "id": 380,
+    "district": "Pendik",
+    "neighborhood": "Yayalar Mahallesi",
+    "lat": 40.90232441739134,
+    "lng": 29.26743182654381,
+    "listing_count": 20
+  },
+  {
+    "id": 447,
+    "district": "Pendik",
+    "neighborhood": "Yeni Mahallesi",
+    "lat": 40.88337434218573,
+    "lng": 29.23108631836153,
+    "listing_count": 17
+  },
+  {
+    "id": 265,
+    "district": "Pendik",
+    "neighborhood": "Yenişehir Mahallesi",
+    "lat": 40.93130387938152,
+    "lng": 29.30441013021853,
+    "listing_count": 41
+  },
+  {
+    "id": 530,
+    "district": "Pendik",
+    "neighborhood": "Yeşilbağlar Mahallesi",
+    "lat": 40.892209842023874,
+    "lng": 29.22634045049995,
+    "listing_count": 3
+  },
+  {
+    "id": 534,
+    "district": "Pendik",
+    "neighborhood": "Çamlık Mahallesi",
+    "lat": 40.928224615686005,
+    "lng": 29.283653030017256,
+    "listing_count": 20
+  },
+  {
+    "id": 119,
+    "district": "Pendik",
+    "neighborhood": "Çamçeşme Mahallesi",
+    "lat": 40.87234280386003,
+    "lng": 29.270378810825438,
+    "listing_count": 42
+  },
+  {
+    "id": 229,
+    "district": "Pendik",
+    "neighborhood": "Çınardere Mahallesi",
+    "lat": 40.894646296874676,
+    "lng": 29.239404849514187,
+    "listing_count": 47
+  },
+  {
+    "id": 263,
+    "district": "Pendik",
+    "neighborhood": "Şeyhli Mahallesi",
+    "lat": 40.90723452954691,
+    "lng": 29.28412519267379,
+    "listing_count": 23
+  },
+  {
+    "id": 242,
+    "district": "Sancaktepe",
+    "neighborhood": "Abdurrahmangazi Mahallesi",
+    "lat": 40.99224513082362,
+    "lng": 29.233424074546114,
+    "listing_count": 93
+  },
+  {
+    "id": 271,
+    "district": "Sancaktepe",
+    "neighborhood": "Akpınar Mahallesi",
+    "lat": 40.967740180846384,
+    "lng": 29.230317112626054,
+    "listing_count": 23
+  },
+  {
+    "id": 279,
+    "district": "Sancaktepe",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 41.010521374463,
+    "lng": 29.223419602285947,
+    "listing_count": 63
+  },
+  {
+    "id": 414,
+    "district": "Sancaktepe",
+    "neighborhood": "Emek Mahallesi",
+    "lat": 41.005224524411524,
+    "lng": 29.193711597098527,
+    "listing_count": 33
+  },
+  {
+    "id": 225,
+    "district": "Sancaktepe",
+    "neighborhood": "Eyüp Sultan Mahallesi",
+    "lat": 40.98409652484479,
+    "lng": 29.225979242572873,
+    "listing_count": 33
+  },
+  {
+    "id": 258,
+    "district": "Sancaktepe",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 40.958206754868506,
+    "lng": 29.214255729918147,
+    "listing_count": 48
+  },
+  {
+    "id": 450,
+    "district": "Sancaktepe",
+    "neighborhood": "Hilal Mahallesi",
+    "lat": 41.02300781795003,
+    "lng": 29.253626324525907,
+    "listing_count": 2
+  },
+  {
+    "id": 456,
+    "district": "Sancaktepe",
+    "neighborhood": "Kemal Türkler Mahallesi",
+    "lat": 41.00692143687685,
+    "lng": 29.217323451757,
+    "listing_count": 44
+  },
+  {
+    "id": 248,
+    "district": "Sancaktepe",
+    "neighborhood": "Meclis Mahallesi",
+    "lat": 41.010562701412745,
+    "lng": 29.204634957645197,
+    "listing_count": 23
+  },
+  {
+    "id": 206,
+    "district": "Sancaktepe",
+    "neighborhood": "Merve Mahallesi",
+    "lat": 41.00632149080287,
+    "lng": 29.240415918828216,
+    "listing_count": 33
+  },
+  {
+    "id": 122,
+    "district": "Sancaktepe",
+    "neighborhood": "Mevlana Mahallesi",
+    "lat": 41.012515962711184,
+    "lng": 29.259435885482887,
+    "listing_count": 50
+  },
+  {
+    "id": 202,
+    "district": "Sancaktepe",
+    "neighborhood": "Osmangazi Mahallesi",
+    "lat": 40.98666864262702,
+    "lng": 29.23617824771453,
+    "listing_count": 66
+  },
+  {
+    "id": 282,
+    "district": "Sancaktepe",
+    "neighborhood": "Safa Mahallesi",
+    "lat": 41.0090180583071,
+    "lng": 29.24542853426773,
+    "listing_count": 62
+  },
+  {
+    "id": 300,
+    "district": "Sancaktepe",
+    "neighborhood": "Sarıgazi Mahallesi",
+    "lat": 41.00707868232113,
+    "lng": 29.211348099965974,
+    "listing_count": 27
+  },
+  {
+    "id": 79,
+    "district": "Sancaktepe",
+    "neighborhood": "Veysel Karani Mahallesi",
+    "lat": 40.963270721590895,
+    "lng": 29.24244931286724,
+    "listing_count": 36
+  },
+  {
+    "id": 246,
+    "district": "Sancaktepe",
+    "neighborhood": "Yenidoğan Mahallesi",
+    "lat": 41.01359080627005,
+    "lng": 29.24139521501713,
+    "listing_count": 45
+  },
+  {
+    "id": 208,
+    "district": "Sancaktepe",
+    "neighborhood": "Yunus Emre Mahallesi",
+    "lat": 41.0184774754637,
+    "lng": 29.249395338313764,
+    "listing_count": 88
+  },
+  {
+    "id": 314,
+    "district": "Sancaktepe",
+    "neighborhood": "İnönü Mahallesi",
+    "lat": 41.011591755250954,
+    "lng": 29.21212570458081,
+    "listing_count": 36
+  },
+  {
+    "id": 129,
+    "district": "Sarıyer",
+    "neighborhood": "Ayazağa Mahallesi",
+    "lat": 41.115650420742995,
+    "lng": 28.99877408138127,
+    "listing_count": 41
+  },
+  {
+    "id": 553,
+    "district": "Sarıyer",
+    "neighborhood": "Bahçeköy Kemer Mahallesi",
+    "lat": 41.17029154067209,
+    "lng": 28.98849431831319,
+    "listing_count": 1
+  },
+  {
+    "id": 514,
+    "district": "Sarıyer",
+    "neighborhood": "Bahçeköy Merkez Mahallesi",
+    "lat": 41.17828386635226,
+    "lng": 28.991845161642992,
+    "listing_count": 5
+  },
+  {
+    "id": 539,
+    "district": "Sarıyer",
+    "neighborhood": "Bahçeköy Yeni Mahallesi",
+    "lat": 41.16875693757781,
+    "lng": 28.985753714067254,
+    "listing_count": 8
+  },
+  {
+    "id": 674,
+    "district": "Sarıyer",
+    "neighborhood": "Baltalimanı Mahallesi",
+    "lat": 41.093233838056086,
+    "lng": 29.05504229912143,
+    "listing_count": 1
+  },
+  {
+    "id": 433,
+    "district": "Sarıyer",
+    "neighborhood": "Büyükdere Mahallesi",
+    "lat": 41.15968580280178,
+    "lng": 29.042183233738836,
+    "listing_count": 9
+  },
+  {
+    "id": 645,
+    "district": "Sarıyer",
+    "neighborhood": "Darüşşafaka Mahallesi",
+    "lat": 41.12616113537746,
+    "lng": 29.02988901176654,
+    "listing_count": 1
+  },
+  {
+    "id": 643,
+    "district": "Sarıyer",
+    "neighborhood": "Emirgan Mahallesi",
+    "lat": 41.10331506336956,
+    "lng": 29.05376420804074,
+    "listing_count": 2
+  },
+  {
+    "id": 673,
+    "district": "Sarıyer",
+    "neighborhood": "Fatih Sultan Mehmet Mahallesi",
+    "lat": 41.095848961082204,
+    "lng": 29.03475471895524,
+    "listing_count": 1
+  },
+  {
+    "id": 626,
+    "district": "Sarıyer",
+    "neighborhood": "Ferahevler Mahallesi",
+    "lat": 41.12991141814482,
+    "lng": 29.04296854327302,
+    "listing_count": 3
+  },
+  {
+    "id": 550,
+    "district": "Sarıyer",
+    "neighborhood": "Huzur Mahallesi",
+    "lat": 41.10453624371599,
+    "lng": 28.99760478576653,
+    "listing_count": 15
+  },
+  {
+    "id": 466,
+    "district": "Sarıyer",
+    "neighborhood": "Kazım Karabekir Paşa Mahallesi",
+    "lat": 41.163842204299385,
+    "lng": 29.026981954618613,
+    "listing_count": 2
+  },
+  {
+    "id": 410,
+    "district": "Sarıyer",
+    "neighborhood": "Kireçburnu Mahallesi",
+    "lat": 41.1465743675995,
+    "lng": 29.047616171279085,
+    "listing_count": 3
+  },
+  {
+    "id": 686,
+    "district": "Sarıyer",
+    "neighborhood": "Kocataş Mahallesi",
+    "lat": 41.166726142262,
+    "lng": 29.034438435997302,
+    "listing_count": 1
+  },
+  {
+    "id": 598,
+    "district": "Sarıyer",
+    "neighborhood": "Maden Mahallesi",
+    "lat": 41.18031479123349,
+    "lng": 29.03826294650722,
+    "listing_count": 7
+  },
+  {
+    "id": 554,
+    "district": "Sarıyer",
+    "neighborhood": "Maslak Mahallesi",
+    "lat": 41.10984001564425,
+    "lng": 29.020435408337608,
+    "listing_count": 33
+  },
+  {
+    "id": 625,
+    "district": "Sarıyer",
+    "neighborhood": "Poligon Mahallesi",
+    "lat": 41.11822802525039,
+    "lng": 29.043295630319207,
+    "listing_count": 1
+  },
+  {
+    "id": 448,
+    "district": "Sarıyer",
+    "neighborhood": "Ptt Evleri Mahallesi",
+    "lat": 41.157703809281585,
+    "lng": 29.02171402492216,
+    "listing_count": 2
+  },
+  {
+    "id": 556,
+    "district": "Sarıyer",
+    "neighborhood": "Reşitpaşa Mahallesi",
+    "lat": 41.10629765281585,
+    "lng": 29.04188440021628,
+    "listing_count": 4
+  },
+  {
+    "id": 594,
+    "district": "Sarıyer",
+    "neighborhood": "Rumelihisarı Mahallesi",
+    "lat": 41.089431400597896,
+    "lng": 29.055528574310515,
+    "listing_count": 2
+  },
+  {
+    "id": 432,
+    "district": "Sarıyer",
+    "neighborhood": "Sarıyer Merkez Mahallesi",
+    "lat": 41.169244990673036,
+    "lng": 29.05562267797048,
+    "listing_count": 9
+  },
+  {
+    "id": 412,
+    "district": "Sarıyer",
+    "neighborhood": "Tarabya Mahallesi",
+    "lat": 41.13916831259146,
+    "lng": 29.05224498885852,
+    "listing_count": 5
+  },
+  {
+    "id": 650,
+    "district": "Sarıyer",
+    "neighborhood": "Yeni Mahallesi",
+    "lat": 41.19068174415667,
+    "lng": 28.988670459440275,
+    "listing_count": 1
+  },
+  {
+    "id": 576,
+    "district": "Sarıyer",
+    "neighborhood": "Yeniköy Mahallesi",
+    "lat": 41.12328633778369,
+    "lng": 29.072215837570006,
+    "listing_count": 5
+  },
+  {
+    "id": 640,
+    "district": "Sarıyer",
+    "neighborhood": "Zekeriyaköy Mahallesi",
+    "lat": 41.19720889068799,
+    "lng": 29.029129867956918,
+    "listing_count": 5
+  },
+  {
+    "id": 352,
+    "district": "Sarıyer",
+    "neighborhood": "İstinye Mahallesi",
+    "lat": 41.1152778903107,
+    "lng": 29.055184142439018,
+    "listing_count": 6
+  },
+  {
+    "id": 73,
+    "district": "Silivri",
+    "neighborhood": "Alibey Mahallesi",
+    "lat": 41.072529195104266,
+    "lng": 28.249402397747076,
+    "listing_count": 13
+  },
+  {
+    "id": 468,
+    "district": "Silivri",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.06948777774271,
+    "lng": 28.26122005912709,
+    "listing_count": 4
+  },
+  {
+    "id": 128,
+    "district": "Silivri",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 41.07096883811571,
+    "lng": 28.248097970277318,
+    "listing_count": 12
+  },
+  {
+    "id": 82,
+    "district": "Silivri",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 41.085194292657455,
+    "lng": 28.240548304875134,
+    "listing_count": 45
+  },
+  {
+    "id": 542,
+    "district": "Silivri",
+    "neighborhood": "Piri Mehmet Paşa Mahallesi",
+    "lat": 41.07575278066247,
+    "lng": 28.242454766357707,
+    "listing_count": 15
+  },
+  {
+    "id": 200,
+    "district": "Silivri",
+    "neighborhood": "Selimpaşa Mahallesi",
+    "lat": 41.05451532986058,
+    "lng": 28.36625800625385,
+    "listing_count": 33
+  },
+  {
+    "id": 316,
+    "district": "Silivri",
+    "neighborhood": "Yeni Mahallesi",
+    "lat": 41.10216731172792,
+    "lng": 28.256058937944477,
+    "listing_count": 82
+  },
+  {
+    "id": 694,
+    "district": "Silivri",
+    "neighborhood": "Çanta Balaban Mahallesi",
+    "lat": 41.07852890608876,
+    "lng": 28.080538099812728,
+    "listing_count": 2
+  },
+  {
+    "id": 164,
+    "district": "Silivri",
+    "neighborhood": "Çanta Sancaktepe Mahallesi",
+    "lat": 41.077635496569386,
+    "lng": 28.08492979266213,
+    "listing_count": 13
+  },
+  {
+    "id": 388,
+    "district": "Sultanbeyli",
+    "neighborhood": "Abdurrahmangazi Mahallesi",
+    "lat": 40.96849557433407,
+    "lng": 29.26059299188895,
+    "listing_count": 16
+  },
+  {
+    "id": 336,
+    "district": "Sultanbeyli",
+    "neighborhood": "Adil Mahallesi",
+    "lat": 40.9778071967487,
+    "lng": 29.26336802084785,
+    "listing_count": 66
+  },
+  {
+    "id": 269,
+    "district": "Sultanbeyli",
+    "neighborhood": "Ahmet Yesevi Mahallesi",
+    "lat": 40.97148395013222,
+    "lng": 29.27381107429892,
+    "listing_count": 18
+  },
+  {
+    "id": 230,
+    "district": "Sultanbeyli",
+    "neighborhood": "Akşemsettin Mahallesi",
+    "lat": 40.94828151597429,
+    "lng": 29.299683772357998,
+    "listing_count": 34
+  },
+  {
+    "id": 329,
+    "district": "Sultanbeyli",
+    "neighborhood": "Battalgazi Mahallesi",
+    "lat": 40.97874297109507,
+    "lng": 29.26989266891269,
+    "listing_count": 57
+  },
+  {
+    "id": 383,
+    "district": "Sultanbeyli",
+    "neighborhood": "Fatih Mahallesi",
+    "lat": 40.958698370017295,
+    "lng": 29.274694536070886,
+    "listing_count": 14
+  },
+  {
+    "id": 80,
+    "district": "Sultanbeyli",
+    "neighborhood": "Hamidiye Mahallesi",
+    "lat": 40.95443244455943,
+    "lng": 29.28537165206868,
+    "listing_count": 11
+  },
+  {
+    "id": 162,
+    "district": "Sultanbeyli",
+    "neighborhood": "Hasanpaşa Mahallesi",
+    "lat": 40.968074231461905,
+    "lng": 29.250121750509635,
+    "listing_count": 6
+  },
+  {
+    "id": 467,
+    "district": "Sultanbeyli",
+    "neighborhood": "Mecidiye Mahallesi",
+    "lat": 40.95769135635929,
+    "lng": 29.296921143475206,
+    "listing_count": 9
+  },
+  {
+    "id": 278,
+    "district": "Sultanbeyli",
+    "neighborhood": "Mehmet Akif Mahallesi",
+    "lat": 40.968319139489054,
+    "lng": 29.267511604337834,
+    "listing_count": 78
+  },
+  {
+    "id": 287,
+    "district": "Sultanbeyli",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 40.99506683016296,
+    "lng": 29.26481253369573,
+    "listing_count": 90
+  },
+  {
+    "id": 219,
+    "district": "Sultanbeyli",
+    "neighborhood": "Necip Fazıl Mahallesi",
+    "lat": 40.94119225396552,
+    "lng": 29.27530753448208,
+    "listing_count": 72
+  },
+  {
+    "id": 288,
+    "district": "Sultanbeyli",
+    "neighborhood": "Orhangazi Mahallesi",
+    "lat": 40.93868249744084,
+    "lng": 29.286799828248345,
+    "listing_count": 43
+  },
+  {
+    "id": 303,
+    "district": "Sultanbeyli",
+    "neighborhood": "Turgut Reis Mahallesi",
+    "lat": 40.96496489802595,
+    "lng": 29.277454578007404,
+    "listing_count": 30
+  },
+  {
+    "id": 353,
+    "district": "Sultanbeyli",
+    "neighborhood": "Yavuz Selim Mahallesi",
+    "lat": 40.949625853875325,
+    "lng": 29.278626043015628,
+    "listing_count": 25
+  },
+  {
+    "id": 145,
+    "district": "Sultangazi",
+    "neighborhood": "50. Yıl Mahallesi",
+    "lat": 41.089776102061435,
+    "lng": 28.870141742025993,
+    "listing_count": 139
+  },
+  {
+    "id": 102,
+    "district": "Sultangazi",
+    "neighborhood": "75. Yıl Mahallesi",
+    "lat": 41.098267503530344,
+    "lng": 28.902206750440087,
+    "listing_count": 145
+  },
+  {
+    "id": 39,
+    "district": "Sultangazi",
+    "neighborhood": "Cebeci Mahallesi",
+    "lat": 41.12286064233333,
+    "lng": 28.87917156794464,
+    "listing_count": 259
+  },
+  {
+    "id": 480,
+    "district": "Sultangazi",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.087566322601994,
+    "lng": 28.875639762118134,
+    "listing_count": 10
+  },
+  {
+    "id": 96,
+    "district": "Sultangazi",
+    "neighborhood": "Esentepe Mahallesi",
+    "lat": 41.09904464909228,
+    "lng": 28.878905359625325,
+    "listing_count": 162
+  },
+  {
+    "id": 422,
+    "district": "Sultangazi",
+    "neighborhood": "Eski Habipler Mahallesi",
+    "lat": 41.13331331591306,
+    "lng": 28.831408032355753,
+    "listing_count": 29
+  },
+  {
+    "id": 62,
+    "district": "Sultangazi",
+    "neighborhood": "Gazi Mahallesi",
+    "lat": 41.10342194854618,
+    "lng": 28.897663979057203,
+    "listing_count": 265
+  },
+  {
+    "id": 668,
+    "district": "Sultangazi",
+    "neighborhood": "Habibler Mahallesi",
+    "lat": 41.134016734807105,
+    "lng": 28.837931866345503,
+    "listing_count": 3
+  },
+  {
+    "id": 334,
+    "district": "Sultangazi",
+    "neighborhood": "Malkoçoğlu Mahallesi",
+    "lat": 41.11690981699063,
+    "lng": 28.848742148455074,
+    "listing_count": 20
+  },
+  {
+    "id": 47,
+    "district": "Sultangazi",
+    "neighborhood": "Sultançiftliği Mahallesi",
+    "lat": 41.10035425526616,
+    "lng": 28.861028172149542,
+    "listing_count": 109
+  },
+  {
+    "id": 46,
+    "district": "Sultangazi",
+    "neighborhood": "Uğur Mumcu Mahallesi",
+    "lat": 41.09681082025045,
+    "lng": 28.86515267937506,
+    "listing_count": 126
+  },
+  {
+    "id": 654,
+    "district": "Sultangazi",
+    "neighborhood": "Yayla Mahallesi",
+    "lat": 41.14862463530882,
+    "lng": 28.855763827394654,
+    "listing_count": 2
+  },
+  {
+    "id": 44,
+    "district": "Sultangazi",
+    "neighborhood": "Yunus Emre Mahallesi",
+    "lat": 41.097470100355025,
+    "lng": 28.891465818643308,
+    "listing_count": 239
+  },
+  {
+    "id": 98,
+    "district": "Sultangazi",
+    "neighborhood": "Zübeyde Hanım Mahallesi",
+    "lat": 41.10015472529755,
+    "lng": 28.9076269159261,
+    "listing_count": 165
+  },
+  {
+    "id": 87,
+    "district": "Sultangazi",
+    "neighborhood": "İsmetpaşa Mahallesi",
+    "lat": 41.1117516272968,
+    "lng": 28.85589294370625,
+    "listing_count": 225
+  },
+  {
+    "id": 675,
+    "district": "Tuzla",
+    "neighborhood": "Anadolu Mahallesi",
+    "lat": 40.90930215817408,
+    "lng": 29.356244518328175,
+    "listing_count": 1
+  },
+  {
+    "id": 305,
+    "district": "Tuzla",
+    "neighborhood": "Aydınlı Mahallesi",
+    "lat": 40.85996215447377,
+    "lng": 29.3440918614184,
+    "listing_count": 57
+  },
+  {
+    "id": 204,
+    "district": "Tuzla",
+    "neighborhood": "Aydıntepe Mahallesi",
+    "lat": 40.85314170957147,
+    "lng": 29.29779493326896,
+    "listing_count": 24
+  },
+  {
+    "id": 592,
+    "district": "Tuzla",
+    "neighborhood": "Cami Mahallesi",
+    "lat": 40.81791750531676,
+    "lng": 29.311344911947764,
+    "listing_count": 8
+  },
+  {
+    "id": 322,
+    "district": "Tuzla",
+    "neighborhood": "Evliya Çelebi Mahallesi",
+    "lat": 40.84295413022652,
+    "lng": 29.29830080028666,
+    "listing_count": 26
+  },
+  {
+    "id": 684,
+    "district": "Tuzla",
+    "neighborhood": "Mescit Mahallesi",
+    "lat": 40.895928753475765,
+    "lng": 29.3441904876342,
+    "listing_count": 1
+  },
+  {
+    "id": 274,
+    "district": "Tuzla",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 40.838132715339,
+    "lng": 29.365571985316365,
+    "listing_count": 26
+  },
+  {
+    "id": 662,
+    "district": "Tuzla",
+    "neighborhood": "Orta Mahallesi",
+    "lat": 40.90209598825683,
+    "lng": 29.378010846088685,
+    "listing_count": 4
+  },
+  {
+    "id": 491,
+    "district": "Tuzla",
+    "neighborhood": "Postane Mahallesi",
+    "lat": 40.82119074251591,
+    "lng": 29.291908942617102,
+    "listing_count": 29
+  },
+  {
+    "id": 250,
+    "district": "Tuzla",
+    "neighborhood": "Yayla Mahallesi",
+    "lat": 40.83186560634717,
+    "lng": 29.305930557599776,
+    "listing_count": 55
+  },
+  {
+    "id": 292,
+    "district": "Tuzla",
+    "neighborhood": "İstasyon Mahallesi",
+    "lat": 40.82341912902336,
+    "lng": 29.3333242843391,
+    "listing_count": 36
+  },
+  {
+    "id": 235,
+    "district": "Tuzla",
+    "neighborhood": "İçmeler Mahallesi",
+    "lat": 40.84933893633316,
+    "lng": 29.305310400114227,
+    "listing_count": 12
+  },
+  {
+    "id": 234,
+    "district": "Tuzla",
+    "neighborhood": "Şifa Mahallesi",
+    "lat": 40.82900569367355,
+    "lng": 29.355047804210656,
+    "listing_count": 41
+  },
+  {
+    "id": 449,
+    "district": "Zeytinburnu",
+    "neighborhood": "Beştelsiz Mahallesi",
+    "lat": 40.9999679495417,
+    "lng": 28.905017071708894,
+    "listing_count": 25
+  },
+  {
+    "id": 429,
+    "district": "Zeytinburnu",
+    "neighborhood": "Gökalp Mahallesi",
+    "lat": 40.99320001247221,
+    "lng": 28.905152398307685,
+    "listing_count": 21
+  },
+  {
+    "id": 634,
+    "district": "Zeytinburnu",
+    "neighborhood": "Kazlıçeşme Mahallesi",
+    "lat": 40.98816409899251,
+    "lng": 28.908490052748245,
+    "listing_count": 6
+  },
+  {
+    "id": 392,
+    "district": "Zeytinburnu",
+    "neighborhood": "Maltepe Mahallesi",
+    "lat": 41.027593582263734,
+    "lng": 28.910231190103566,
+    "listing_count": 21
+  },
+  {
+    "id": 377,
+    "district": "Zeytinburnu",
+    "neighborhood": "Merkezefendi Mahallesi",
+    "lat": 41.01467653815604,
+    "lng": 28.918908721028902,
+    "listing_count": 11
+  },
+  {
+    "id": 177,
+    "district": "Zeytinburnu",
+    "neighborhood": "Nuripaşa Mahallesi",
+    "lat": 40.98807988648151,
+    "lng": 28.90299091145098,
+    "listing_count": 15
+  },
+  {
+    "id": 417,
+    "district": "Zeytinburnu",
+    "neighborhood": "Seyitnizam Mahallesi",
+    "lat": 41.00498978430894,
+    "lng": 28.909725268536135,
+    "listing_count": 6
+  },
+  {
+    "id": 363,
+    "district": "Zeytinburnu",
+    "neighborhood": "Sümer Mahallesi",
+    "lat": 40.986488093487104,
+    "lng": 28.895938552504507,
+    "listing_count": 56
+  },
+  {
+    "id": 431,
+    "district": "Zeytinburnu",
+    "neighborhood": "Telsiz Mahallesi",
+    "lat": 40.99984523729329,
+    "lng": 28.91207666132638,
+    "listing_count": 33
+  },
+  {
+    "id": 315,
+    "district": "Zeytinburnu",
+    "neighborhood": "Veliefendi Mahallesi",
+    "lat": 40.996302762035754,
+    "lng": 28.898283828537583,
+    "listing_count": 41
+  },
+  {
+    "id": 424,
+    "district": "Zeytinburnu",
+    "neighborhood": "Yenidoğan Mahallesi",
+    "lat": 40.988301728146055,
+    "lng": 28.904715320336503,
+    "listing_count": 10
+  },
+  {
+    "id": 573,
+    "district": "Zeytinburnu",
+    "neighborhood": "Yeşiltepe Mahallesi",
+    "lat": 40.99136825901228,
+    "lng": 28.90207689930494,
+    "listing_count": 15
+  },
+  {
+    "id": 257,
+    "district": "Zeytinburnu",
+    "neighborhood": "Çırpıcı Mahallesi",
+    "lat": 41.000405829470495,
+    "lng": 28.896313520747594,
+    "listing_count": 32
+  },
+  {
+    "id": 326,
+    "district": "Çatalca",
+    "neighborhood": "Ferhatpaşa Mahallesi",
+    "lat": 41.14192208170505,
+    "lng": 28.463700281865375,
+    "listing_count": 7
+  },
+  {
+    "id": 405,
+    "district": "Çekmeköy",
+    "neighborhood": "Alemdağ Mahallesi",
+    "lat": 41.05010430503827,
+    "lng": 29.236776531432607,
+    "listing_count": 39
+  },
+  {
+    "id": 153,
+    "district": "Çekmeköy",
+    "neighborhood": "Aydınlar Mahallesi",
+    "lat": 41.017314730300896,
+    "lng": 29.230652178079264,
+    "listing_count": 39
+  },
+  {
+    "id": 268,
+    "district": "Çekmeköy",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.02273113355868,
+    "lng": 29.22407607829031,
+    "listing_count": 36
+  },
+  {
+    "id": 237,
+    "district": "Çekmeköy",
+    "neighborhood": "Ekşioğlu Mahallesi",
+    "lat": 41.03015227637065,
+    "lng": 29.239494195276837,
+    "listing_count": 44
+  },
+  {
+    "id": 217,
+    "district": "Çekmeköy",
+    "neighborhood": "Güngören Mahallesi",
+    "lat": 41.02666770821138,
+    "lng": 29.21980622311498,
+    "listing_count": 49
+  },
+  {
+    "id": 294,
+    "district": "Çekmeköy",
+    "neighborhood": "Hamidiye Mahallesi",
+    "lat": 41.026963941551976,
+    "lng": 29.188452625991772,
+    "listing_count": 34
+  },
+  {
+    "id": 298,
+    "district": "Çekmeköy",
+    "neighborhood": "Kirazlıdere Mahallesi",
+    "lat": 41.01979633512803,
+    "lng": 29.216136865172004,
+    "listing_count": 19
+  },
+  {
+    "id": 210,
+    "district": "Çekmeköy",
+    "neighborhood": "Mehmet Akif Mahallesi",
+    "lat": 41.02099651304881,
+    "lng": 29.18548567022335,
+    "listing_count": 45
+  },
+  {
+    "id": 264,
+    "district": "Çekmeköy",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.03711647848098,
+    "lng": 29.176849259687135,
+    "listing_count": 127
+  },
+  {
+    "id": 317,
+    "district": "Çekmeköy",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 41.032884659601656,
+    "lng": 29.175071170253165,
+    "listing_count": 46
+  },
+  {
+    "id": 504,
+    "district": "Çekmeköy",
+    "neighborhood": "Nişantepe Mahallesi",
+    "lat": 41.04047010541778,
+    "lng": 29.265768330359528,
+    "listing_count": 10
+  },
+  {
+    "id": 320,
+    "district": "Çekmeköy",
+    "neighborhood": "Soğukpınar Mahallesi",
+    "lat": 41.0251088474524,
+    "lng": 29.23456211154246,
+    "listing_count": 20
+  },
+  {
+    "id": 247,
+    "district": "Çekmeköy",
+    "neighborhood": "Sultançiftliği Mahallesi",
+    "lat": 41.0331953628509,
+    "lng": 29.223788416679458,
+    "listing_count": 49
+  },
+  {
+    "id": 275,
+    "district": "Çekmeköy",
+    "neighborhood": "Taşdelen Mahallesi",
+    "lat": 41.03099123583938,
+    "lng": 29.231390592116533,
+    "listing_count": 35
+  },
+  {
+    "id": 218,
+    "district": "Çekmeköy",
+    "neighborhood": "Çamlık Mahallesi",
+    "lat": 41.01662467967111,
+    "lng": 29.192654890688615,
+    "listing_count": 24
+  },
+  {
+    "id": 211,
+    "district": "Çekmeköy",
+    "neighborhood": "Çatalmeşe Mahallesi",
+    "lat": 41.05036487802067,
+    "lng": 29.243738217558466,
+    "listing_count": 50
+  },
+  {
+    "id": 690,
+    "district": "Ümraniye",
+    "neighborhood": "Adem Yavuz Mahallesi",
+    "lat": 41.017278094035184,
+    "lng": 29.1574150290813,
+    "listing_count": 1
+  },
+  {
+    "id": 106,
+    "district": "Ümraniye",
+    "neighborhood": "Altınşehir Mahallesi",
+    "lat": 41.01439843140815,
+    "lng": 29.143058181814038,
+    "listing_count": 13
+  },
+  {
+    "id": 307,
+    "district": "Ümraniye",
+    "neighborhood": "Armağanevler Mahallesi",
+    "lat": 41.01800985211295,
+    "lng": 29.11533800035927,
+    "listing_count": 43
+  },
+  {
+    "id": 481,
+    "district": "Ümraniye",
+    "neighborhood": "Atakent Mahallesi",
+    "lat": 41.02226022524508,
+    "lng": 29.108721767407708,
+    "listing_count": 2
+  },
+  {
+    "id": 396,
+    "district": "Ümraniye",
+    "neighborhood": "Atatürk Mahallesi",
+    "lat": 41.025309453360784,
+    "lng": 29.092372608193248,
+    "listing_count": 26
+  },
+  {
+    "id": 371,
+    "district": "Ümraniye",
+    "neighborhood": "Aşağı Dudullu Mahallesi",
+    "lat": 41.01952699921917,
+    "lng": 29.16367814312297,
+    "listing_count": 6
+  },
+  {
+    "id": 478,
+    "district": "Ümraniye",
+    "neighborhood": "Cemil Meriç Mahallesi",
+    "lat": 41.01959319355248,
+    "lng": 29.14286796239253,
+    "listing_count": 6
+  },
+  {
+    "id": 693,
+    "district": "Ümraniye",
+    "neighborhood": "Dumlupınar Mahallesi",
+    "lat": 41.04757584322358,
+    "lng": 29.093630761094133,
+    "listing_count": 1
+  },
+  {
+    "id": 361,
+    "district": "Ümraniye",
+    "neighborhood": "Elmalıkent Mahallesi",
+    "lat": 41.035752505345144,
+    "lng": 29.09775091189871,
+    "listing_count": 22
+  },
+  {
+    "id": 399,
+    "district": "Ümraniye",
+    "neighborhood": "Esenevler Mahallesi",
+    "lat": 41.01205956459991,
+    "lng": 29.09170384532512,
+    "listing_count": 26
+  },
+  {
+    "id": 672,
+    "district": "Ümraniye",
+    "neighborhood": "Esenkent Mahallesi",
+    "lat": 41.005706178511055,
+    "lng": 29.183804176873963,
+    "listing_count": 10
+  },
+  {
+    "id": 166,
+    "district": "Ümraniye",
+    "neighborhood": "Esenşehir Mahallesi",
+    "lat": 41.008660644614956,
+    "lng": 29.167556879830627,
+    "listing_count": 9
+  },
+  {
+    "id": 470,
+    "district": "Ümraniye",
+    "neighborhood": "Fatih Sultan Mehmet Mahallesi",
+    "lat": 41.0263750471348,
+    "lng": 29.12412906570048,
+    "listing_count": 2
+  },
+  {
+    "id": 653,
+    "district": "Ümraniye",
+    "neighborhood": "Finanskent Mahallesi",
+    "lat": 41.00209660010501,
+    "lng": 29.112921591763538,
+    "listing_count": 2
+  },
+  {
+    "id": 677,
+    "district": "Ümraniye",
+    "neighborhood": "Hekimbaşı Mahallesi",
+    "lat": 41.05874860712888,
+    "lng": 29.099941161293394,
+    "listing_count": 1
+  },
+  {
+    "id": 687,
+    "district": "Ümraniye",
+    "neighborhood": "Huzur Mahallesi",
+    "lat": 41.02812568141857,
+    "lng": 29.16318667345543,
+    "listing_count": 1
+  },
+  {
+    "id": 256,
+    "district": "Ümraniye",
+    "neighborhood": "Ihlamurkuyu Mahallesi",
+    "lat": 41.0186507115349,
+    "lng": 29.13435983624396,
+    "listing_count": 5
+  },
+  {
+    "id": 681,
+    "district": "Ümraniye",
+    "neighborhood": "Kazım Karabekir Mahallesi",
+    "lat": 41.04056638897187,
+    "lng": 29.10289660915742,
+    "listing_count": 2
+  },
+  {
+    "id": 506,
+    "district": "Ümraniye",
+    "neighborhood": "Madenler Mahallesi",
+    "lat": 41.01318189780537,
+    "lng": 29.1876104553229,
+    "listing_count": 8
+  },
+  {
+    "id": 459,
+    "district": "Ümraniye",
+    "neighborhood": "Mehmet Akif Mahallesi",
+    "lat": 41.00775244690746,
+    "lng": 29.13803933249237,
+    "listing_count": 30
+  },
+  {
+    "id": 395,
+    "district": "Ümraniye",
+    "neighborhood": "Namık Kemal Mahallesi",
+    "lat": 41.02088845836739,
+    "lng": 29.091886186833552,
+    "listing_count": 40
+  },
+  {
+    "id": 533,
+    "district": "Ümraniye",
+    "neighborhood": "Necip Fazıl Mahallesi",
+    "lat": 41.01793573071762,
+    "lng": 29.17550305115786,
+    "listing_count": 12
+  },
+  {
+    "id": 426,
+    "district": "Ümraniye",
+    "neighborhood": "Parseller Mahallesi",
+    "lat": 41.026032465056865,
+    "lng": 29.15732355867196,
+    "listing_count": 9
+  },
+  {
+    "id": 254,
+    "district": "Ümraniye",
+    "neighborhood": "Site Mahallesi",
+    "lat": 41.009500603150165,
+    "lng": 29.11750073355883,
+    "listing_count": 36
+  },
+  {
+    "id": 484,
+    "district": "Ümraniye",
+    "neighborhood": "Tantavi Mahallesi",
+    "lat": 41.030603130069224,
+    "lng": 29.086778990928117,
+    "listing_count": 15
+  },
+  {
+    "id": 372,
+    "district": "Ümraniye",
+    "neighborhood": "Tatlısu Mahallesi",
+    "lat": 41.0044734765395,
+    "lng": 29.133877586694403,
+    "listing_count": 38
+  },
+  {
+    "id": 521,
+    "district": "Ümraniye",
+    "neighborhood": "Tepeüstü Mahallesi",
+    "lat": 41.01561567302568,
+    "lng": 29.13208813560206,
+    "listing_count": 4
+  },
+  {
+    "id": 500,
+    "district": "Ümraniye",
+    "neighborhood": "Yamanevler Mahallesi",
+    "lat": 41.026023853422934,
+    "lng": 29.101886287811617,
+    "listing_count": 16
+  },
+  {
+    "id": 304,
+    "district": "Ümraniye",
+    "neighborhood": "Yukarı Dudullu Mahallesi",
+    "lat": 41.0111186042662,
+    "lng": 29.153089112639794,
+    "listing_count": 5
+  },
+  {
+    "id": 348,
+    "district": "Ümraniye",
+    "neighborhood": "Çakmak Mahallesi",
+    "lat": 41.01418172740661,
+    "lng": 29.128194422904695,
+    "listing_count": 32
+  },
+  {
+    "id": 360,
+    "district": "Ümraniye",
+    "neighborhood": "Çamlık Mahallesi",
+    "lat": 41.00292349427442,
+    "lng": 29.123944587383352,
+    "listing_count": 18
+  },
+  {
+    "id": 502,
+    "district": "Ümraniye",
+    "neighborhood": "İnkılap Mahallesi",
+    "lat": 41.03373142778722,
+    "lng": 29.106233832151506,
+    "listing_count": 18
+  },
+  {
+    "id": 227,
+    "district": "Ümraniye",
+    "neighborhood": "İstiklal Mahallesi",
+    "lat": 41.023256768670585,
+    "lng": 29.101735517829624,
+    "listing_count": 30
+  },
+  {
+    "id": 458,
+    "district": "Ümraniye",
+    "neighborhood": "Şerifali Mahallesi",
+    "lat": 40.99989267206588,
+    "lng": 29.14594653538506,
+    "listing_count": 15
+  },
+  {
+    "id": 617,
+    "district": "Üsküdar",
+    "neighborhood": "Acıbadem Mahallesi",
+    "lat": 41.00565575739241,
+    "lng": 29.053375387734505,
+    "listing_count": 9
+  },
+  {
+    "id": 197,
+    "district": "Üsküdar",
+    "neighborhood": "Ahmediye Mahallesi",
+    "lat": 41.01858071987386,
+    "lng": 29.016345300187588,
+    "listing_count": 20
+  },
+  {
+    "id": 577,
+    "district": "Üsküdar",
+    "neighborhood": "Altunizade Mahallesi",
+    "lat": 41.01795145887959,
+    "lng": 29.044137184783462,
+    "listing_count": 12
+  },
+  {
+    "id": 510,
+    "district": "Üsküdar",
+    "neighborhood": "Aziz Mahmut Hüdayi Mahallesi",
+    "lat": 41.02313979465594,
+    "lng": 29.01126001778651,
+    "listing_count": 12
+  },
+  {
+    "id": 524,
+    "district": "Üsküdar",
+    "neighborhood": "Bahçelievler Mahallesi",
+    "lat": 41.05312966955913,
+    "lng": 29.07966706616206,
+    "listing_count": 65
+  },
+  {
+    "id": 581,
+    "district": "Üsküdar",
+    "neighborhood": "Barbaros Mahallesi",
+    "lat": 41.0136064075849,
+    "lng": 29.031440260481773,
+    "listing_count": 11
+  },
+  {
+    "id": 697,
+    "district": "Üsküdar",
+    "neighborhood": "Beylerbeyi Mahallesi",
+    "lat": 41.0406964770363,
+    "lng": 29.048975054255962,
+    "listing_count": 1
+  },
+  {
+    "id": 407,
+    "district": "Üsküdar",
+    "neighborhood": "Bulgurlu Mahallesi",
+    "lat": 41.01805285472115,
+    "lng": 29.079439033863988,
+    "listing_count": 29
+  },
+  {
+    "id": 623,
+    "district": "Üsküdar",
+    "neighborhood": "Burhaniye Mahallesi",
+    "lat": 41.02852009232826,
+    "lng": 29.052840583629735,
+    "listing_count": 5
+  },
+  {
+    "id": 262,
+    "district": "Üsküdar",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.010591215743915,
+    "lng": 29.080434373262747,
+    "listing_count": 53
+  },
+  {
+    "id": 370,
+    "district": "Üsküdar",
+    "neighborhood": "Ferah Mahallesi",
+    "lat": 41.033149273894615,
+    "lng": 29.07247256511354,
+    "listing_count": 13
+  },
+  {
+    "id": 618,
+    "district": "Üsküdar",
+    "neighborhood": "Güzeltepe Mahallesi",
+    "lat": 41.050328174446015,
+    "lng": 29.069658960551042,
+    "listing_count": 6
+  },
+  {
+    "id": 636,
+    "district": "Üsküdar",
+    "neighborhood": "Kandilli Mahallesi",
+    "lat": 41.07316706335178,
+    "lng": 29.057525527712784,
+    "listing_count": 3
+  },
+  {
+    "id": 604,
+    "district": "Üsküdar",
+    "neighborhood": "Kirazlıtepe Mahallesi",
+    "lat": 41.03921894665975,
+    "lng": 29.062107006576024,
+    "listing_count": 24
+  },
+  {
+    "id": 495,
+    "district": "Üsküdar",
+    "neighborhood": "Kuzguncuk Mahallesi",
+    "lat": 41.032049797010785,
+    "lng": 29.034259911614082,
+    "listing_count": 3
+  },
+  {
+    "id": 611,
+    "district": "Üsküdar",
+    "neighborhood": "Küplüce Mahallesi",
+    "lat": 41.03555705332437,
+    "lng": 29.057547882609914,
+    "listing_count": 4
+  },
+  {
+    "id": 285,
+    "district": "Üsküdar",
+    "neighborhood": "Küçük Çamlıca Mahallesi",
+    "lat": 41.01476104928944,
+    "lng": 29.06483494257381,
+    "listing_count": 3
+  },
+  {
+    "id": 578,
+    "district": "Üsküdar",
+    "neighborhood": "Küçüksu Mahallesi",
+    "lat": 41.06567042382586,
+    "lng": 29.07048450672127,
+    "listing_count": 24
+  },
+  {
+    "id": 476,
+    "district": "Üsküdar",
+    "neighborhood": "Kısıklı Mahallesi",
+    "lat": 41.02547112009222,
+    "lng": 29.07138279729554,
+    "listing_count": 7
+  },
+  {
+    "id": 376,
+    "district": "Üsküdar",
+    "neighborhood": "Mehmet Akif Ersoy Mahallesi",
+    "lat": 41.04137355140225,
+    "lng": 29.071285214287677,
+    "listing_count": 9
+  },
+  {
+    "id": 297,
+    "district": "Üsküdar",
+    "neighborhood": "Mimar Sinan Mahallesi",
+    "lat": 41.02354248391355,
+    "lng": 29.018393716762503,
+    "listing_count": 62
+  },
+  {
+    "id": 507,
+    "district": "Üsküdar",
+    "neighborhood": "Muratreis Mahallesi",
+    "lat": 41.02193548896817,
+    "lng": 29.029724593994708,
+    "listing_count": 27
+  },
+  {
+    "id": 420,
+    "district": "Üsküdar",
+    "neighborhood": "Salacak Mahallesi",
+    "lat": 41.016228110757325,
+    "lng": 29.011535325864696,
+    "listing_count": 14
+  },
+  {
+    "id": 390,
+    "district": "Üsküdar",
+    "neighborhood": "Selami Ali Mahallesi",
+    "lat": 41.0252687889847,
+    "lng": 29.029527620776985,
+    "listing_count": 33
+  },
+  {
+    "id": 613,
+    "district": "Üsküdar",
+    "neighborhood": "Selimiye Mahallesi",
+    "lat": 41.00553662361994,
+    "lng": 29.01790256613767,
+    "listing_count": 5
+  },
+  {
+    "id": 511,
+    "district": "Üsküdar",
+    "neighborhood": "Sultantepe Mahallesi",
+    "lat": 41.02869075097243,
+    "lng": 29.021784302839592,
+    "listing_count": 11
+  },
+  {
+    "id": 176,
+    "district": "Üsküdar",
+    "neighborhood": "Valide i Atik Mahallesi",
+    "lat": 41.0184870819429,
+    "lng": 29.02672005744234,
+    "listing_count": 42
+  },
+  {
+    "id": 529,
+    "district": "Üsküdar",
+    "neighborhood": "Yavuztürk Mahallesi",
+    "lat": 41.040958736204104,
+    "lng": 29.08699579728897,
+    "listing_count": 2
+  },
+  {
+    "id": 196,
+    "district": "Üsküdar",
+    "neighborhood": "Zeynep Kamil Mahallesi",
+    "lat": 41.01507093852754,
+    "lng": 29.021233564970466,
+    "listing_count": 30
+  },
+  {
+    "id": 489,
+    "district": "Üsküdar",
+    "neighborhood": "Çengelköy Mahallesi",
+    "lat": 41.05048839914618,
+    "lng": 29.053736189336178,
+    "listing_count": 37
+  },
+  {
+    "id": 373,
+    "district": "Üsküdar",
+    "neighborhood": "Ünalan Mahallesi",
+    "lat": 41.00248588542972,
+    "lng": 29.064757704491925,
+    "listing_count": 18
+  },
+  {
+    "id": 366,
+    "district": "Üsküdar",
+    "neighborhood": "İcadiye Mahallesi",
+    "lat": 41.02844190591286,
+    "lng": 29.03427092758786,
+    "listing_count": 20
+  },
+  {
+    "id": 437,
+    "district": "Şile",
+    "neighborhood": "Ahmetli Mahallesi",
+    "lat": 41.14702738430981,
+    "lng": 29.577994786647476,
+    "listing_count": 4
+  },
+  {
+    "id": 537,
+    "district": "Şile",
+    "neighborhood": "Ağva Merkez Mahallesi",
+    "lat": 41.13682975851337,
+    "lng": 29.856228779420476,
+    "listing_count": 3
+  },
+  {
+    "id": 393,
+    "district": "Şile",
+    "neighborhood": "Balibey Mahallesi",
+    "lat": 41.17081809912187,
+    "lng": 29.630157816995926,
+    "listing_count": 10
+  },
+  {
+    "id": 413,
+    "district": "Şile",
+    "neighborhood": "Meşrutiyet Mahallesi",
+    "lat": 41.15762326543979,
+    "lng": 29.562409751813643,
+    "listing_count": 3
+  },
+  {
+    "id": 344,
+    "district": "Şile",
+    "neighborhood": "Çavuş Mahallesi",
+    "lat": 41.16345737838172,
+    "lng": 29.60774395567642,
+    "listing_count": 21
+  },
+  {
+    "id": 421,
+    "district": "Şişli",
+    "neighborhood": "19 Mayıs Mahallesi",
+    "lat": 41.05987489198134,
+    "lng": 28.991434421067932,
+    "listing_count": 19
+  },
+  {
+    "id": 379,
+    "district": "Şişli",
+    "neighborhood": "Bozkurt Mahallesi",
+    "lat": 41.050784984035595,
+    "lng": 28.98363151315517,
+    "listing_count": 6
+  },
+  {
+    "id": 532,
+    "district": "Şişli",
+    "neighborhood": "Cumhuriyet Mahallesi",
+    "lat": 41.05568044100137,
+    "lng": 28.981766370168753,
+    "listing_count": 12
+  },
+  {
+    "id": 616,
+    "district": "Şişli",
+    "neighborhood": "Duatepe Mahallesi",
+    "lat": 41.053909328911615,
+    "lng": 28.98106244467815,
+    "listing_count": 5
+  },
+  {
+    "id": 457,
+    "district": "Şişli",
+    "neighborhood": "Ergenekon Mahallesi",
+    "lat": 41.049936617340485,
+    "lng": 28.986905785528553,
+    "listing_count": 6
+  },
+  {
+    "id": 461,
+    "district": "Şişli",
+    "neighborhood": "Esentepe Mahallesi",
+    "lat": 41.07092762198513,
+    "lng": 29.01167522464829,
+    "listing_count": 4
+  },
+  {
+    "id": 112,
+    "district": "Şişli",
+    "neighborhood": "Eskişehir Mahallesi",
+    "lat": 41.0448418101021,
+    "lng": 28.980514559321627,
+    "listing_count": 11
+  },
+  {
+    "id": 453,
+    "district": "Şişli",
+    "neighborhood": "Feriköy Mahallesi",
+    "lat": 41.0489415325515,
+    "lng": 28.980194031663434,
+    "listing_count": 7
+  },
+  {
+    "id": 419,
+    "district": "Şişli",
+    "neighborhood": "Fulya Mahallesi",
+    "lat": 41.05826185566447,
+    "lng": 28.99773608623329,
+    "listing_count": 27
+  },
+  {
+    "id": 267,
+    "district": "Şişli",
+    "neighborhood": "Gülbahar Mahallesi",
+    "lat": 41.071888854137214,
+    "lng": 29.00002427860371,
+    "listing_count": 25
+  },
+  {
+    "id": 622,
+    "district": "Şişli",
+    "neighborhood": "Halaskargazi Mahallesi",
+    "lat": 41.051336709956495,
+    "lng": 28.990090183243137,
+    "listing_count": 3
+  },
+  {
+    "id": 357,
+    "district": "Şişli",
+    "neighborhood": "Halide Edip Adıvar Mahallesi",
+    "lat": 41.06222684613737,
+    "lng": 28.977092399244654,
+    "listing_count": 12
+  },
+  {
+    "id": 591,
+    "district": "Şişli",
+    "neighborhood": "Halil Rıfat Paşa Mahallesi",
+    "lat": 41.05805191146001,
+    "lng": 28.96946754380511,
+    "listing_count": 5
+  },
+  {
+    "id": 679,
+    "district": "Şişli",
+    "neighborhood": "Harbiye Mahallesi",
+    "lat": 41.04324561929152,
+    "lng": 28.989806212532123,
+    "listing_count": 1
+  },
+  {
+    "id": 666,
+    "district": "Şişli",
+    "neighborhood": "Kuştepe Mahallesi",
+    "lat": 41.0719388727718,
+    "lng": 28.9913802884661,
+    "listing_count": 13
+  },
+  {
+    "id": 186,
+    "district": "Şişli",
+    "neighborhood": "Mahmut Şevket Paşa Mahallesi",
+    "lat": 41.052156340451425,
+    "lng": 28.966000710741135,
+    "listing_count": 16
+  },
+  {
+    "id": 181,
+    "district": "Şişli",
+    "neighborhood": "Mecidiyeköy Mahallesi",
+    "lat": 41.06996947302981,
+    "lng": 28.99623116125934,
+    "listing_count": 85
+  },
+  {
+    "id": 391,
+    "district": "Şişli",
+    "neighborhood": "Merkez Mahallesi",
+    "lat": 41.06305624412722,
+    "lng": 28.983647548531245,
+    "listing_count": 15
+  },
+  {
+    "id": 277,
+    "district": "Şişli",
+    "neighborhood": "Meşrutiyet Mahallesi",
+    "lat": 41.05439223365987,
+    "lng": 28.99094185761629,
+    "listing_count": 15
+  },
+  {
+    "id": 386,
+    "district": "Şişli",
+    "neighborhood": "Paşa Mahallesi",
+    "lat": 41.05171864716611,
+    "lng": 28.971525133025743,
+    "listing_count": 21
+  },
+  {
+    "id": 549,
+    "district": "Şişli",
+    "neighborhood": "Teşvikiye Mahallesi",
+    "lat": 41.05232011352134,
+    "lng": 28.9972527381734,
+    "listing_count": 8
+  },
+  {
+    "id": 567,
+    "district": "Şişli",
+    "neighborhood": "Yayla Mahallesi",
+    "lat": 41.048934091161286,
+    "lng": 28.975746860477944,
+    "listing_count": 10
+  },
+  {
+    "id": 544,
+    "district": "Şişli",
+    "neighborhood": "İnönü Mahallesi",
+    "lat": 41.04464557219134,
+    "lng": 28.98467323522354,
+    "listing_count": 4
+  },
+  {
+    "id": 688,
+    "district": "Şişli",
+    "neighborhood": "İzzet Paşa Mahallesi",
+    "lat": 41.07049852910583,
+    "lng": 28.98816036510095,
+    "listing_count": 1
+  }
+]

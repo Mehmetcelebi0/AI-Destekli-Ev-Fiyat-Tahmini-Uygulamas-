@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HouseAI Emlak Haritası</title>
+
+    <link rel="icon" href="data:," />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"
+    />
+
+    <link rel="stylesheet" href="/static/css/style.css" />
+  </head>
+
+  <body>
+    <div class="top-action-bar">
+      <!-- GİRİŞ YAPMAMIŞ KULLANICI -->
+      <div id="guest-actions" class="top-action-group">
+        <button
+          class="top-auth-btn login-btn"
+          type="button"
+          onclick="window.location.href = '/login'"
+        >
+          Giriş Yap
+        </button>
+
+        <button
+          class="top-auth-btn register-btn"
+          type="button"
+          onclick="window.location.href = '/register'"
+        >
+          Üye Ol
+        </button>
+
+        <button
+          class="top-auth-btn admin-btn"
+          type="button"
+          onclick="window.location.href = '/admin-login'"
+        >
+          Admin
+        </button>
+      </div>
+
+      <!-- NORMAL USER GİRİŞ YAPMIŞSA -->
+      <div id="user-actions" class="top-user-area hidden">
+        <div class="top-user-card">
+          <div class="top-user-avatar" id="top-user-avatar">U</div>
+
+          <div class="top-user-info">
+            <strong id="top-user-welcome">Hoş geldiniz</strong>
+            <span id="top-user-email">-</span>
+          </div>
+        </div>
+
+        <button
+          class="top-panel-btn"
+          type="button"
+          onclick="window.location.href = '/user-dashboard'"
+        >
+          Panelim
+        </button>
+
+        <button id="top-logout-btn" class="top-logout-btn" type="button">
+          Çıkış Yap
+        </button>
+      </div>
+
+      <!-- ADMIN GİRİŞ YAPMIŞSA -->
+      <div id="admin-actions" class="top-user-area hidden">
+        <div class="top-user-card admin-user-card">
+          <div class="top-user-avatar admin-avatar" id="top-admin-avatar">
+            A
+          </div>
+
+          <div class="top-user-info">
+            <strong id="top-admin-welcome">Hoş geldiniz, Admin</strong>
+            <span id="top-admin-email">-</span>
+          </div>
+        </div>
+
+        <button
+          class="top-panel-btn admin-panel-btn"
+          type="button"
+          onclick="window.location.href = '/admin'"
+        >
+          Admin Paneli
+        </button>
+
+        <button id="top-admin-logout-btn" class="top-logout-btn" type="button">
+          Çıkış Yap
+        </button>
+      </div>
+
+      <button
+        id="go-predict-page-btn"
+        class="top-predict-btn"
+        type="button"
+        onclick="window.location.href = '/predict'"
+      >
+        Enter Property Details
+      </button>
+    </div>
+
+    <div class="page-layout">
+      <aside class="sidebar">
+        <div class="brand-row">
+          <h2>Emlak Haritası</h2>
+          <p>Modern mahalle bazlı emlak analiz paneli</p>
+        </div>
+
+        <div class="home-form">
+          <h3>Konum Seç</h3>
+
+          <button id="select-location-btn" class="primary-btn" type="button">
+            Haritadan Konum Seç
+          </button>
+
+          <p class="small-text" id="selected-location-text">
+            Henüz konum seçilmedi.
+          </p>
+        </div>
+
+        <div class="analysis-title">
+          Location Analysis:
+          <strong id="selected-area-title">Henüz bölge seçilmedi</strong>
+        </div>
+
+        <div class="price-card">
+          <div>
+            <span>Average Price / m²</span>
+            <h1 id="avg-m2-price">₺0</h1>
+          </div>
+
+          <div class="trend-box">
+            <span>Trend</span>
+            <strong>↗</strong>
+          </div>
+        </div>
+
+        <div class="chart-card large-chart">
+          <div class="card-title">
+            <h3>Price Trend Chart</h3>
+            <span>Last 12 months</span>
+          </div>
+
+          <canvas id="priceTrendChart"></canvas>
+        </div>
+
+        <div class="mini-grid">
+          <div class="chart-card">
+            <h3>Neighborhood Prices</h3>
+            <canvas id="neighborhoodPriceChart"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card district-card">
+          <h3>District Summary</h3>
+          <div id="analysis-result">Henüz analiz yapılmadı.</div>
+        </div>
+      </aside>
+
+      <div id="resize-handle"></div>
+
+      <main class="map-wrapper">
+        <div id="map"></div>
+      </main>
+    </div>
+
+    <div class="houseai-launcher" id="houseai-launcher">
+      <div class="houseai-launcher-inner">
+        <span class="houseai-icon">⌂</span>
+        <span class="houseai-label">HouseAI</span>
+      </div>
+    </div>
+
+    <div class="chatbot-widget hidden" id="chatbot-widget">
+      <div class="chatbot-header">
+        <div>
+          <strong>HouseAI</strong>
+          <span>Mahalle, ilan ve fiyat analizi</span>
+        </div>
+
+        <button id="chatbot-close-btn" type="button">×</button>
+      </div>
+
+      <div class="chatbot-body" id="chatbot-body">
+        <div class="chatbot-messages" id="chatbot-messages">
+          <div class="chat-message bot-message">
+            Merhaba 👋 Ben HouseAI. Sana emlak analizi için yardımcı
+            olabilirim.<br /><br />
+
+            Şunları deneyebilirsin:<br />
+            • “Kağıthane Hamidiye Mahallesi 3+1 ortalama ne kadar?”<br />
+            • “Ev ilanımı girmek istiyorum”
+          </div>
+        </div>
+
+        <form class="chatbot-form" id="chatbot-form">
+          <input
+            id="chatbot-input"
+            type="text"
+            placeholder="Mesaj yaz..."
+            autocomplete="off"
+          />
+
+          <button type="submit">Gönder</button>
+        </form>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script src="/static/js/map.js"></script>
+  </body>
+</html>

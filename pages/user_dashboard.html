@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>HouseAI Kullanıcı Paneli</title>
+
+    <link rel="stylesheet" href="/static/css/user_dashboard.css" />
+  </head>
+  <body>
+    <main class="dashboard">
+      <header class="topbar">
+        <div>
+          <span class="eyebrow">User Workspace</span>
+          <h1>HouseAI Kullanıcı Paneli</h1>
+          <p>
+            Fiyat tahminlerin, satış analizlerin ve sistem aktivitelerin burada
+            tutulur.
+          </p>
+        </div>
+
+        <div class="user-box">
+          <div class="avatar">U</div>
+          <div>
+            <strong id="userName">Kullanıcı</strong>
+            <span id="userEmail">-</span>
+          </div>
+
+          <button id="logoutBtn">Çıkış</button>
+        </div>
+      </header>
+
+      <section class="welcome-card">
+        <div>
+          <span class="welcome-tag">HouseAI Assistant</span>
+          <h2>Evin için doğru fiyatı ve doğru satış stratejisini bul.</h2>
+          <p>
+            Harita analiziyle çevre fiyatlarını incele, fiyat tahmini al ve
+            HouseAI Seller ile satış stratejini oluştur.
+          </p>
+        </div>
+
+        <a class="primary-action" href="/">Haritadan Konum Seç</a>
+      </section>
+
+      <section class="quick-actions">
+        <a href="/" class="action-card">
+          <span class="action-icon">⌖</span>
+          <strong>Harita Analizi</strong>
+          <p>Mahalle bazlı piyasa ve ilan analizi yap.</p>
+        </a>
+
+        <a href="/predict.html" class="action-card">
+          <span class="action-icon">₺</span>
+          <strong>Fiyat Tahmini</strong>
+          <p>Ev özelliklerini girerek tahmini piyasa değerini öğren.</p>
+        </a>
+
+        <a href="/seller.html" class="action-card">
+          <span class="action-icon">◆</span>
+          <strong>Satış Danışmanı</strong>
+          <p>Hızlı satış, dengeli fiyat ve pazarlık stratejisi al.</p>
+        </a>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title">
+          <div>
+            <h2>Son Aktivitelerim</h2>
+            <p>HouseAI üzerinde yaptığın son işlemler</p>
+          </div>
+
+          <button id="refreshBtn">Yenile</button>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Tarih</th>
+                <th>İşlem</th>
+                <th>Açıklama</th>
+              </tr>
+            </thead>
+            <tbody id="activityTable"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="/static/js/user_dashboard.js"></script>
+  </body>
+</html>
